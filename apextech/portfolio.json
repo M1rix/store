@@ -4,14 +4,14 @@
         "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
         "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
         "category": "Android app",
-        "type": "mobile"
+        "type": "android"
     },
     {
         "title": "Cardmon",
         "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
         "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
         "category": "iOS app",
-        "type": "mobile"
+        "type": "ios"
     },
     {
         "title": "Cardmon",
@@ -32,14 +32,14 @@
         "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
         "logo": "https://bozoraka.com/apple-icon-152x152.png",
         "category": "Android app",
-        "type": "mobile"
+        "type": "android"
     },
     {
         "title": "Bozoraka",
         "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
         "logo": "https://bozoraka.com/apple-icon-152x152.png",
         "category": "iOS app",
-        "type": "mobile"
+        "type": "ios"
     },
     {
         "title": "Bozoraka",
