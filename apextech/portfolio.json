@@ -1,40 +1,30 @@
-[{
-    "title": "Cardmon",
-    "slug": "bozoraka-app",
-    "website": null,
-    "google_play_url": "https://play.google.com/store/apps/details?id=org.uicgroup.anatomica",
-    "app_store_url": null,
-    "app_gallery_url": null,
-    "logo": "https://uic.group/media/portfolio/logo/Group_37848.svg",
-    "category": "Mobile app",
-    "project_type": "mobile",
-    "technologies": [
-        {
-            "name": "FLUTTER"
-        },
-        {
-            "name": "DJANGO"
-        }
-    ],
-    "base_image": "http://uic.group/media/portfolio/base_image/Anatomica_app_cover.png",
-},
-  {
-    "title": "Bozoraka",
-    "slug": "bozoraka-app",
-    "website": null,
-    "google_play_url": "https://play.google.com/store/apps/details?id=org.uicgroup.anatomica",
-    "app_store_url": null,
-    "app_gallery_url": null,
-    "logo": "https://uic.group/media/portfolio/logo/Group_37848.svg",
-    "category": "Mobile app",
-    "project_type": "mobile",
-    "technologies": [
-        {
-            "name": "FLUTTER"
-        },
-        {
-            "name": "DJANGO"
-        }
-    ],
-    "base_image": "http://uic.group/media/portfolio/base_image/Anatomica_app_cover.png",
-}]
+[
+    {
+      "title": "Cardmon",
+      "image": "https://github.com/uzbudget/resources/blob/my-home-icons/flags/JPY.png?raw=true",
+      "logo": "https://site-cardmon.netlify.app/assets/images/cardmon_logo.svg",
+      "category": "Website",
+      "type": "website",
+    },
+    {
+      "title": "Cardmon",
+      "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
+      "logo": "https://site-cardmon.netlify.app/assets/images/cardmon_logo.svg",
+      "category": "Android Mobile app",
+      "type": "mobile",
+    },
+    {
+      "title": "Cardmon",
+      "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
+      "logo": "https://site-cardmon.netlify.app/assets/images/cardmon_logo.svg",
+      "category": "Android Mobile app",
+      "type": "mobile",
+    },
+    {
+      "title": "Cardmon",
+      "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
+      "logo": "https://site-cardmon.netlify.app/assets/images/cardmon_logo.svg",
+      "category": "Android Mobile app",
+      "type": "mobile",
+    },
+  ]
