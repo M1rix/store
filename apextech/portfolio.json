@@ -24,7 +24,6 @@
     "title": "Cardmon",
     "image": "assets/images/portfolio/cardmon-website.png",
     "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
-    "hasUrl": true,
     "category": "Website",
     "type": "website"
   },
@@ -49,4 +48,4 @@
     "category": "Web app",
     "type": "web"
   }
-];
+]
