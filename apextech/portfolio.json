@@ -1,30 +1,52 @@
 [
-    {
-      "title": "Cardmon",
-      "image": "https://github.com/uzbudget/resources/blob/my-home-icons/flags/JPY.png?raw=true",
-      "logo": "https://site-cardmon.netlify.app/assets/images/cardmon_logo.svg",
-      "category": "Website",
-      "type": "website"
-    },
-    {
-      "title": "Cardmon",
-      "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
-      "logo": "https://site-cardmon.netlify.app/assets/images/cardmon_logo.svg",
-      "category": "Android Mobile app",
-      "type": "mobile"
-    },
-    {
-      "title": "Cardmon",
-      "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
-      "logo": "https://site-cardmon.netlify.app/assets/images/cardmon_logo.svg",
-      "category": "Android Mobile app",
-      "type": "mobile"
-    },
-    {
-      "title": "Cardmon",
-      "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
-      "logo": "https://site-cardmon.netlify.app/assets/images/cardmon_logo.svg",
-      "category": "Android Mobile app",
-      "type": "mobile"
-    }
-  ]
+  {
+    "title": "Cardmon",
+    "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
+    "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
+    "category": "Android app",
+    "type": "mobile"
+  },
+  {
+    "title": "Cardmon",
+    "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
+    "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
+    "category": "iOS app",
+    "type": "mobile"
+  },
+  {
+    "title": "Cardmon",
+    "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
+    "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
+    "category": "Web app",
+    "type": "web"
+  },
+  {
+    "title": "Cardmon",
+    "image": "assets/images/portfolio/cardmon-website.png",
+    "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
+    "hasUrl": true,
+    "category": "Website",
+    "type": "website"
+  },
+  {
+    "title": "Bozoraka",
+    "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
+    "logo": "https://bozoraka.com/apple-icon-152x152.png",
+    "category": "Android app",
+    "type": "mobile"
+  },
+  {
+    "title": "Bozoraka",
+    "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
+    "logo": "https://bozoraka.com/apple-icon-152x152.png",
+    "category": "iOS app",
+    "type": "mobile"
+  },
+  {
+    "title": "Bozoraka",
+    "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
+    "logo": "https://bozoraka.com/apple-icon-152x152.png",
+    "category": "Web app",
+    "type": "web"
+  }
+];
