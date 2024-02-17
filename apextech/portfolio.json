@@ -29,21 +29,21 @@
     },
     {
         "title": "Bozoraka",
-        "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
+        "image": "assets/images/portfolio/bozoraka-website.png",
         "logo": "https://bozoraka.com/apple-icon-152x152.png",
         "category": "Android app",
         "type": "android"
     },
     {
         "title": "Bozoraka",
-        "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
+        "image": "assets/images/portfolio/bozoraka-website.png",
         "logo": "https://bozoraka.com/apple-icon-152x152.png",
         "category": "iOS app",
         "type": "ios"
     },
     {
         "title": "Bozoraka",
-        "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
+        "image": "assets/images/portfolio/bozoraka-website.png",
         "logo": "https://bozoraka.com/apple-icon-152x152.png",
         "category": "Web app",
         "type": "web"
