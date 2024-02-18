@@ -3,6 +3,7 @@
         "title": "Cardmon",
         "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img2.jpg",
         "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
+        "url": "https://play.google.com/store/apps/details?id=uz.cardmon.app",
         "category": "Android app",
         "type": "android"
     },
@@ -10,6 +11,7 @@
         "title": "Cardmon",
         "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img5.jpg",
         "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
+        "url": "https://apps.apple.com/uz/app/cardmon/id1477616629",
         "category": "iOS app",
         "type": "ios"
     },
@@ -24,6 +26,7 @@
         "title": "Cardmon",
         "image": "assets/images/portfolio/cardmon-website.png",
         "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
+        "url": "https://site-cardmon.netlify.app",
         "category": "Website",
         "type": "website"
     },
@@ -45,6 +48,7 @@
         "title": "Bozoraka",
         "image": "assets/images/portfolio/bozoraka-website.png",
         "logo": "https://bozoraka.com/apple-icon-152x152.png",
+        "url": "https://bozoraka.com",
         "category": "Web app",
         "type": "web"
     }
