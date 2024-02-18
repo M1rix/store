@@ -1,79 +1,69 @@
-[   
-    {
-        "name": "Hamidullo Pirmatov",
-        "image": "assets/images/team/hamidullo.jpg",
-        "position": "CEO / Founder",
-        "social": {
-         
-        }
-    },
-    {
-        "name": "Gayratjon Xolmurodov",
-        "image": "assets/images/team/gayratjon.jpg",
-        "position": "CTO / Software developer",
-        "social": {
-       
-        }
-    },
-       {
-        "name": "Valixon Yuldashov",
-        "image": "assets/images/team/valixon.jpg",
-        "position": "CTO / Software developer",
-        "social": {
-          "github":"https://github.com/Valixon",
-          "instagram":"https://www.instagram.com/ataboyevich_/"
-        }
-    },
-    {
-        "name": "Mirshod Allaberganov",
-        "image": "assets/images/team/mirshod.jpg",
-        "position": "Software developer",
-        "social": {
-          "linkedin":"https://www.linkedin.com/in/mirix/",
-          "github":"https://github.com/m1rix",
-          "instagram":"https://www.instagram.com/m_irix"
-        }
-    },
-   {
-        "name": "Quvondiq Babajanov",
-        "image": "assets/images/team/quvondiq.jpg",
-        "position": "Software developer",
-        "social": {
-        }
-    },
-   {
-        "name": "Nodirbek Babayazov",
-        "image": "assets/images/team/nodirbek.jpg",
-        "position": "Software developer",
-        "social": {
-        }
-    },
- {
-        "name": "Ixtiyor Baltayev",
-        "image": "assets/images/team/ixtiyor.jpg",
-        "position": "Front-end developer",
-        "social": {
-        }
-    },
- {
-        "name": "Akbar Muhammadsalayev",
-        "image": "assets/images/team/akbar.jpg",
-        "position": "Software developer",
-        "social": {
-        }
-    },
-     {
-        "name": "Ibratbak O'rinov",
-        "image": "assets/images/team/ibrat.jpg",
-         "position": "Software developer",
-        "social": {
-        }
-    },
-     {
-        "name": "Sardor Matkarimov",
-        "image": "assets/images/team/sardor.jpg",
-         "position": "Software developer",
-        "social": {
-        }
+[
+  {
+    "name": "Hamidullo Pirmatov",
+    "image": "assets/images/team/hamidullo.jpg",
+    "position": "CEO / Founder",
+    "social": {}
+  },
+  {
+    "name": "Gayratjon Xolmurodov",
+    "image": "assets/images/team/gayratjon.jpg",
+    "position": "CTO / Software developer",
+    "social": {}
+  },
+  {
+    "name": "Valixon Yuldashov",
+    "image": "assets/images/team/valixon.jpg",
+    "position": "CTO / Software developer",
+    "social": {
+      "github": "https://github.com/Valixon",
+      "instagram": "https://www.instagram.com/ataboyevich_/"
     }
+  },
+  {
+    "name": "Mirshod Allaberganov",
+    "image": "assets/images/team/mirshod.jpg",
+    "position": "Software developer",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/mirix/",
+      "github": "https://github.com/m1rix",
+      "instagram": "https://www.instagram.com/m_irix"
+    }
+  },
+  {
+    "name": "Quvondiq Babajanov",
+    "image": "assets/images/team/quvondiq.jpg",
+    "position": "Software developer",
+    "social": {}
+  },
+  {
+    "name": "Nodirbek Babayazov",
+    "image": "assets/images/team/nodirbek.jpg",
+    "position": "Software developer",
+    "social": {}
+  },
+  {
+    "name": "Ixtiyor Baltayev",
+    "image": "assets/images/team/ixtiyor.jpg",
+    "position": "Front-end developer",
+    "social": {}
+  },
+  {
+    "name": "Akbar Muhammadsalayev",
+    "image": "assets/images/team/akbar.jpg",
+    "position": "Software developer",
+    "social": {}
+  },
+  {
+    "name": "Ibratbak O'rinov",
+    "image": "assets/images/team/ibrat.jpg",
+    "position": "Software developer",
+    "social": {}
+  },
+  {
+    "name": "Sardor Matkarimov",
+    "image": "assets/images/team/sardor.jpg",
+    "position": "Software developer",
+    "social": {}
+  }
 ]
