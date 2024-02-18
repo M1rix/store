@@ -4,6 +4,11 @@
         "image": "assets/images/team/hamidullo.jpg",
         "position": "CEO / Founder",
         "social": {
+          "linkedin": null,
+          "github": null,
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
         }
     },
     {
@@ -11,6 +16,11 @@
         "image": "assets/images/team/gayratjon.jpg",
         "position": "CTO / Software developer",
         "social": {
+          "linkedin": null,
+          "github": null,
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
         }
     },
        {
@@ -18,8 +28,11 @@
         "image": "assets/images/team/valixon.jpg",
         "position": "CTO / Software developer",
         "social": {
+          "linkedin": null,
           "github":"https://github.com/Valixon",
           "instagram":"https://www.instagram.com/ataboyevich_/",
+          "facebook": null,
+          "twitter": null
         }
     },
     {
@@ -27,9 +40,11 @@
         "image": "assets/images/team/mirshod.jpg",
         "position": "Software developer",
         "social": {
+          "linkedin":"https://www.linkedin.com/in/mirix/",
           "github":"https://github.com/m1rix",
           "instagram":"https://www.instagram.com/m_irix",
-          "linkedin":"https://www.linkedin.com/in/mirix/"
+          "facebook": null,
+          "twitter": null
         }
     },
    {
@@ -37,6 +52,11 @@
         "image": "assets/images/team/quvondiq.jpg",
         "position": "Software developer",
         "social": {
+          "linkedin": null,
+          "github": null,
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
         }
     },
    {
@@ -44,6 +64,11 @@
         "image": "assets/images/team/nodirbek.jpg",
         "position": "Software developer",
         "social": {
+          "linkedin": null,
+          "github": null,
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
         }
     },
  {
@@ -51,6 +76,11 @@
         "image": "assets/images/team/ixtiyor.jpg",
         "position": "Front-end developer",
         "social": {
+          "linkedin": null,
+          "github": null,
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
         }
     },
  {
@@ -58,6 +88,11 @@
         "image": "assets/images/team/akbar.jpg",
         "position": "Software developer",
         "social": {
+          "linkedin": null,
+          "github": null,
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
         }
     },
      {
@@ -65,6 +100,11 @@
         "image": "assets/images/team/ibrat.jpg",
          "position": "Software developer",
         "social": {
+          "linkedin": null,
+          "github": null,
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
         }
     },
      {
@@ -72,6 +112,11 @@
         "image": "assets/images/team/sardor.jpg",
          "position": "Software developer",
         "social": {
+          "linkedin": null,
+          "github": null,
+          "instagram": null,
+          "facebook": null,
+          "twitter": null
         }
     }
 ]
