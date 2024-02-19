@@ -12,9 +12,21 @@
     "social": {}
   },
   {
-    "name": "Gayratjon Xolmurodov",
+    "name": "G'ayratjon Xolmuradov",
     "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/gayratjon.jpg",
     "position": "CTO / Head of Tashkent office",
+    "social": {}
+  },
+  {
+    "name": "Sanjar Mengliev",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/sanjar.jpg",
+    "position": "Marketing manager",
+    "social": {}
+  },
+  {
+    "name": "Islomjon Alijonov",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/islom.jpg",
+    "position": "Software Engineer / iOS",
     "social": {}
   },
   {
