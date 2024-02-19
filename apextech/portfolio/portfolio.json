@@ -5,7 +5,8 @@
         "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
         "url": "https://play.google.com/store/apps/details?id=uz.cardmon.app",
         "category": "Android app",
-        "type": "android"
+        "type": "android",
+        "color":"#4561AF"
     },
     {
         "title": "Cardmon",
