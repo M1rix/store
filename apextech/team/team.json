@@ -1,25 +1,25 @@
 [
   {
     "name": "Izzatullo Pirmatov",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/izzatullo.jpg?token=GHSAT0AAAAAACOH6IOPZXYLRUTORPEE7IOWZOS5RBQ",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/izzatullo.jpg",
     "position": "Director",
     "social": {}
   },
   {
     "name": "Hamidullo Pirmatov",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/hamidullo.jpg?token=GHSAT0AAAAAACOH6IOPZXYLRUTORPEE7IOWZOS5RBQ",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/hamidullo.jpg",
     "position": "CEO / Founder",
     "social": {}
   },
   {
     "name": "Gayratjon Xolmurodov",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/gayratjon.jpg?token=GHSAT0AAAAAACOH6IOPZXYLRUTORPEE7IOWZOS5RBQ",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/gayratjon.jpg",
     "position": "CTO / Head of Tashkent office",
     "social": {}
   },
   {
     "name": "Valixon Yuldashov",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/valixon.jpg?token=GHSAT0AAAAAACOH6IOPZXYLRUTORPEE7IOWZOS5RBQ",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/valixon.jpg",
     "position": "Principal Engineer / Head of Xorazm office",
     "social": {
       "github": "https://github.com/Valixon",
@@ -28,7 +28,7 @@
   },
   {
     "name": "Mirshod Allaberganov",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/mirshod.jpg?token=GHSAT0AAAAAACOH6IOPZXYLRUTORPEE7IOWZOS5RBQ",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/mirshod.jpg",
     "position": "Software Engineer",
     "social": {
       "linkedin": "https://www.linkedin.com/in/mirix/",
@@ -38,37 +38,37 @@
   },
   {
     "name": "Quvondiq Babajanov",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/quvondiq.jpg?token=GHSAT0AAAAAACOH6IOPZXYLRUTORPEE7IOWZOS5RBQ",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/quvondiq.jpg",
     "position": "Software Engineer / Back end",
     "social": {}
   },
   {
     "name": "Nodirbek Babayazov",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/nodirbek.jpg?token=GHSAT0AAAAAACOH6IOPZXYLRUTORPEE7IOWZOS5RBQ",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/nodirbek.jpg",
     "position": "Software developer / Back end",
     "social": {}
   },
   {
     "name": "Ixtiyor Baltayev",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/ixtiyor.jpg?token=GHSAT0AAAAAACOH6IOPZXYLRUTORPEE7IOWZOS5RBQ",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/ixtiyor.jpg",
     "position": "Software Engineer / Front End",
     "social": {}
   },
   {
     "name": "Akbar Muhammadsalayev",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/akbar.jpg?token=GHSAT0AAAAAACOH6IOPZXYLRUTORPEE7IOWZOS5RBQ",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/akbar.jpg",
     "position": "Software Engineer / Android",
     "social": {}
   },
   {
     "name": "Ibratbak O'rinov",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/ibrat.jpg?token=GHSAT0AAAAAACOH6IOPZXYLRUTORPEE7IOWZOS5RBQ",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/ibrat.jpg",
     "position": "Software Engineer / Back end",
     "social": {}
   },
   {
     "name": "Sardor Matkarimov",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/sardor.jpg?token=GHSAT0AAAAAACOH6IOPZXYLRUTORPEE7IOWZOS5RBQ",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/sardor.jpg",
     "position": "Software Engineer / Android",
     "social": {}
   }
