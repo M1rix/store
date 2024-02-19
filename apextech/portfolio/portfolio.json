@@ -24,7 +24,7 @@
     },
     {
         "title": "Cardmon",
-        "image": "assets/images/portfolio/cardmon-website.png",
+        "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/portfolio/images/cardmon-website.png",
         "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
         "url": "https://site-cardmon.netlify.app",
         "category": "Website",
@@ -32,21 +32,21 @@
     },
     {
         "title": "Bozoraka",
-        "image": "assets/images/portfolio/bozoraka-website.png",
+        "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/portfolio/images/bozoraka-website.png",
         "logo": "https://bozoraka.com/apple-icon-152x152.png",
         "category": "Android app",
         "type": "android"
     },
     {
         "title": "Bozoraka",
-        "image": "assets/images/portfolio/bozoraka-website.png",
+        "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/portfolio/images/bozoraka-website.png",
         "logo": "https://bozoraka.com/apple-icon-152x152.png",
         "category": "iOS app",
         "type": "ios"
     },
     {
         "title": "Bozoraka",
-        "image": "assets/images/portfolio/bozoraka-website.png",
+        "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/portfolio/images/bozoraka-website.png",
         "logo": "https://bozoraka.com/apple-icon-152x152.png",
         "url": "https://bozoraka.com",
         "category": "Web app",
