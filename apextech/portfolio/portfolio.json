@@ -6,7 +6,8 @@
         "url": "https://play.google.com/store/apps/details?id=uz.cardmon.app",
         "category": "Android app",
         "type": "android",
-        "color":"#4561AF"
+        "bgColor": "#4561AF",
+        "textColor": "#FFFFFF"
     },
     {
         "title": "Cardmon",
