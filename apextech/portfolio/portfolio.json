@@ -5,9 +5,7 @@
         "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
         "url": "https://play.google.com/store/apps/details?id=uz.cardmon.app",
         "category": "Android app",
-        "type": "android",
-        "bgColor": "#4561AF",
-        "textColor": "#FFFFFF"
+        "type": "android"
     },
     {
         "title": "Cardmon",
@@ -53,5 +51,13 @@
         "url": "https://bozoraka.com",
         "category": "Web app",
         "type": "web"
+    },
+    {
+       "title": "Bexato",
+       "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/portfolio/images/bexatobot.png",
+       "logo": "https://bexatobot.uz/assets/logo.png",
+       "url": "https://t.me/bexatobot",
+       "category": "Telegram bot",
+       "type": "bot"
     }
 ]
