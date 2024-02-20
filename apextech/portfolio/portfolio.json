@@ -3,7 +3,7 @@
         "title": "Cardmon",
         "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img2.jpg",
         "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
-        "url": "https://play.google.com/store/apps/details?id=uz.cardmon.app",
+        "url": "http://bit.ly/cardmonuz",
         "category": "Android app",
         "type": "android"
     },
@@ -11,7 +11,7 @@
         "title": "Cardmon",
         "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img5.jpg",
         "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
-        "url": "https://apps.apple.com/uz/app/cardmon/id1477616629",
+        "url": "http://bit.ly/cardmonuz_ios",
         "category": "iOS app",
         "type": "ios"
     },
