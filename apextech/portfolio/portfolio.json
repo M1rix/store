@@ -55,8 +55,16 @@
     {
        "title": "Bexato",
        "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/portfolio/images/bexatobot.png",
-       "logo": "https://bexatobot.uz/assets/logo.png",
+       "logo": "https://raw.githubusercontent.com/M1rix/store/master/apextech/portfolio/images/logo/bexatobot.png",
        "url": "https://t.me/bexatobot",
+       "category": "Telegram bot",
+       "type": "bot"
+    },
+    {
+       "title": "Avtoshablon",
+       "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/portfolio/images/avtoshablon.png",
+       "logo": "https://raw.githubusercontent.com/M1rix/store/master/apextech/portfolio/images/logo/avtoshablon.png",
+       "url": "https://t.me/avtoshablon",
        "category": "Telegram bot",
        "type": "bot"
     }
