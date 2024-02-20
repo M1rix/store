@@ -19,6 +19,7 @@
         "title": "Cardmon",
         "image": "https://site-cardmon.netlify.app/assets/images/home1/project/img3.jpg",
         "logo": "https://site-cardmon.netlify.app/assets/images/favicon.png",
+        "url": "https://demo.cardmon.uz",
         "category": "Web app",
         "type": "web"
     },
@@ -34,6 +35,7 @@
         "title": "Bozoraka",
         "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/portfolio/images/bozoraka-website.png",
         "logo": "https://bozoraka.com/apple-icon-152x152.png",
+        "url": "http://bit.ly/aBozoraka",
         "category": "Android app",
         "type": "android"
     },
@@ -41,6 +43,7 @@
         "title": "Bozoraka",
         "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/portfolio/images/bozoraka-website.png",
         "logo": "https://bozoraka.com/apple-icon-152x152.png",
+        "url": "http://bit.ly/iBozoraka",
         "category": "iOS app",
         "type": "ios"
     },
