@@ -52,13 +52,20 @@
     "name": "Nodirbek Babayazov",
     "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/nodirbek.jpg",
     "position": "Software Engineer / Backend",
-    "social": {}
+    "social": {
+      "github": "https://github.com/babayaz0v22",
+      "instagram": "https://www.instagram.com/babayazov_22"
+    }
   },
   {
     "name": "Ixtiyor Baltayev",
     "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/ixtiyor.jpg",
     "position": "Software Engineer / Frontend",
-    "social": {}
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/ixtiyor-baltayev-963b541a7/",
+      "github": "https://github.com/IxtiyorBaltayev",
+      "instagram": "https://www.instagram.com/ikhtiyor_8/"
+    }
   },
   {
     "name": "Sardor Matkarimov",
@@ -70,7 +77,9 @@
     "name": "Zikrulla Yashinov",
     "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/zikrulla.jpg",
     "position": "Software Engineer / Android",
-    "social": {}
+    "social": {
+      "github": "https://github.com/ZikrullaYashinov",
+    }
   },
   {
     "name": "Islomjon Alijonov",
