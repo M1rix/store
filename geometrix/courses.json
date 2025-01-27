@@ -7,7 +7,8 @@
     "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Storyline quest order</b> parser</h1>",
     "route": "/storyline",
     "image": "./assets/images/smart-script.jpg",
-    "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4"
+    "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4",
+    "pdf": "https://github.com/M1rix/store/edit/master/geometrix/pdf/dummy.pdf"
   },
   {
     "type": "PARSER",
