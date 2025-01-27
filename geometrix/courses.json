@@ -8,7 +8,7 @@
     "route": "/storyline",
     "image": "./assets/images/smart-script.jpg",
     "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4",
-    "pdf": "https://github.com/M1rix/store/edit/master/geometrix/pdf/dummy.pdf"
+    "pdf": "https://raw.githubusercontent.com/M1rix/store/9fcfd42537cac1db05227d4973285a779100a5df/geometrix/pdf/dummy.pdf"
   },
   {
     "type": "PARSER",
