@@ -1,42 +1,46 @@
 [
   {
+    "id": 1,
     "type": "PARSER",
     "title": "Linear Algebra and Matrices",
     "creator": "Mirix",
     "uses_count": 5432,
     "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Storyline quest order</b> parser</h1>",
-    "route": "/storyline",
+    "route": "/courses/1",
     "image": "./assets/images/smart-script.jpg",
     "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4",
     "pdf": "https://raw.githubusercontent.com/M1rix/store/9fcfd42537cac1db05227d4973285a779100a5df/geometrix/pdf/dummy.pdf"
   },
   {
+    "id": 2,
     "type": "PARSER",
     "title": "Calculus Fundamentals",
     "creator": "Mirix",
     "uses_count": 5432,
     "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Creature Loot Template</b> parser</h1>",
-    "route": "/loot",
+    "route": "/courses/2",
     "image": "./assets/images/loot.jpg",
     "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4"
   },
   {
+    "id": 3,
     "type": "PARSER",
     "title": "Probability and Distributions",
     "creator": "Mirix",
     "uses_count": 5432,
     "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>NPC Vendor</b> parser</h1>",
-    "route": "/vendor",
+    "route": "/courses/3",
     "image": "./assets/images/vendor.jpg",
     "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4"
   },
   {
+    "id": 4,
     "type": "CONSTRUCTOR",
     "title": "Differential Equations Solver",
     "creator": "Mirix",
     "uses_count": 5432,
     "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Smart Script</b> constructor</h1>",
-    "route": "/smart-script",
+    "route": "/courses/4",
     "image": "./assets/images/smart-script.jpg",
     "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4"
   }
