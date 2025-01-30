@@ -20,7 +20,8 @@
     "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Creature Loot Template</b> parser</h1>",
     "route": "/courses/2",
     "image": "./assets/images/loot.jpg",
-    "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4"
+    "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4",
+    "pdf": "https://github.com/M1rix/store/blob/64c11059454af3e0711f5bc863ddc3e04a9f71e3/geometrix/pdf/sample.pdf"
   },
   {
     "id": 3,
