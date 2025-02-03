@@ -1,15 +1,15 @@
 [
   {
     "id": 1,
-    "type": "PARSER",
-    "title": "Linear Algebra and Matrices",
-    "creator": "Mirix",
+    "type": "VECTOR",
+    "title": "Vektor xaqida tushuncha",
+    "creator": "Sevara",
     "uses_count": 5432,
     "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Storyline quest order</b> parser</h1>",
     "route": "/courses/1",
     "image": "./assets/images/smart-script.jpg",
     "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4",
-    "pdf": "https://raw.githubusercontent.com/M1rix/store/9fcfd42537cac1db05227d4973285a779100a5df/geometrix/pdf/dummy.pdf"
+    "pdf": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf"
   },
   {
     "id": 2,
