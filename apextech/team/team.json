@@ -82,21 +82,9 @@
     }
   },
   {
-    "name": "Islomjon Alijonov",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/islom.jpg",
-    "position": "Software Engineer / iOS",
-    "social": {}
-  },
-  {
     "name": "Ibratbak O'rinov",
     "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/ibrat.jpg",
     "position": "Software Engineer / Backend",
-    "social": {}
-  },
-  {
-    "name": "Sardor Begimqulov",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/sardor2.jpg",
-    "position": "Software Engineer / iOS",
     "social": {}
   }
 ]
