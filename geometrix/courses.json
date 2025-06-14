@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "type": "VECTOR",
+    "type": "Vektorlar",
     "title": "Vektor xaqida tushuncha",
     "creator": "Sevara Ruslanovna",
     "uses_count": 5432,
@@ -17,15 +17,19 @@
   },
   {
     "id": 2,
-    "type": "PARSER",
-    "title": "Calculus Fundamentals",
-    "creator": "Mirix",
+    "type": "Vektorlar",
+    "title": "Chiziqli erkli va chiziqli bog‘lanishli vektorlar oilasi va ularning xossalari. Vektorlarning kollinearlik va komplanarlik shartlari.",
+    "creator": "Sevara Ruslanovna",
     "uses_count": 5432,
-    "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Creature Loot Template</b> parser</h1>",
+    "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Vektorlar oilasi</b></h1>",
     "route": "/courses/2",
-    "image": "./assets/images/loot.jpg",
+    "image": "./assets/images/vectors.jpg",
     "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4",
-    "pdf": "https://raw.githubusercontent.com/M1rix/store/64c11059454af3e0711f5bc863ddc3e04a9f71e3/geometrix/pdf/sample.pdf"
+    "pdf": {
+      "lecture": "https://raw.githubusercontent.com/M1rix/store/b8192f42e1b3bd37acf6afbcd9e320045f836a9a/geometrix/pdf/lecture-2.pdf",
+      "tasks": "https://raw.githubusercontent.com/M1rix/store/b8192f42e1b3bd37acf6afbcd9e320045f836a9a/geometrix/pdf/tasks-2.pdf",
+      "tests": "https://raw.githubusercontent.com/M1rix/store/b8192f42e1b3bd37acf6afbcd9e320045f836a9a/geometrix/pdf/tests-2.pdf"
+    }
   },
   {
     "id": 3,
