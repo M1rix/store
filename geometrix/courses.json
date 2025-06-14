@@ -7,9 +7,13 @@
     "uses_count": 5432,
     "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Storyline quest order</b> parser</h1>",
     "route": "/courses/1",
-    "image": "./assets/images/smart-script.jpg",
+    "image": "./assets/images/vectors.jpg",
     "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4",
-    "pdf": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf"
+    "pdf": {
+      "lecture": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf",
+      "tasks": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf",
+      "tests": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf"
+    }
   },
   {
     "id": 2,
