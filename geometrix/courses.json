@@ -33,24 +33,24 @@
   },
   {
     "id": 3,
-    "type": "PARSER",
+    "type": "Probability",
     "title": "Probability and Distributions",
     "creator": "Mirix",
     "uses_count": 5432,
-    "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>NPC Vendor</b> parser</h1>",
+    "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Probability and Distributions</b></h1>",
     "route": "/courses/3",
-    "image": "./assets/images/vendor.jpg",
+    "image": "./assets/images/blackboard.jpg",
     "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4"
   },
   {
     "id": 4,
-    "type": "CONSTRUCTOR",
+    "type": "Differential",
     "title": "Differential Equations Solver",
     "creator": "Mirix",
     "uses_count": 5432,
-    "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Smart Script</b> constructor</h1>",
+    "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Differential Equations Solver</b></h1>",
     "route": "/courses/4",
-    "image": "./assets/images/smart-script.jpg",
+    "image": "./assets/images/mathematical.jpg",
     "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4"
   }
 ]
