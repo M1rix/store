@@ -58,6 +58,14 @@
     }
   },
   {
+    "name": "Zikrulla Yashinov",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/zikrulla.jpg",
+    "position": "Software Engineer / Backend",
+    "social": {
+      "github": "https://github.com/ZikrullaYashinov"
+    }
+  },
+  {
     "name": "Ixtiyor Baltayev",
     "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/ixtiyor.jpg",
     "position": "Software Engineer / Frontend",
@@ -72,14 +80,6 @@
     "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/sardor.jpg",
     "position": "Software Engineer / Android",
     "social": {}
-  },
-  {
-    "name": "Zikrulla Yashinov",
-    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/zikrulla.jpg",
-    "position": "Software Engineer / Android",
-    "social": {
-      "github": "https://github.com/ZikrullaYashinov"
-    }
   },
   {
     "name": "Ibratbak O'rinov",
