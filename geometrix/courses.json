@@ -2,6 +2,7 @@
   "version": 1,
   "data": [
     {
+      "version": 1,
       "id": 1,
       "type": "Vektorlar",
       "title": "Vektor xaqida tushuncha",
@@ -18,6 +19,7 @@
       }
     },
     {
+      "version": 1,
       "id": 2,
       "type": "Vektorlar",
       "title": "Chiziqli erkli va bog‘lanishli vektorlar. Vektorlarning kollinearlik va komplanarlik shartlari.",
@@ -34,6 +36,7 @@
       }
     },
     {
+      "version": 1,
       "id": 3,
       "type": "Vektorlar",
       "title": "Bazis. Vektorning berilgan bazisga nisbatan koordinatalari.",
@@ -50,6 +53,7 @@
       }
     },
     {
+      "version": 1,
       "id": 4,
       "type": "Fazo",
       "title": "Tekislikda va fazoda affin va dekart koordinatalar sistemasi.",
@@ -66,6 +70,7 @@
       }
     },
     {
+      "version": 1,
       "id": 5,
       "type": "Fazo",
       "title": "Tekislikda va fazoda affin va dekart koordinatalar sistemasi.",
