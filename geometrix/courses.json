@@ -1,56 +1,59 @@
-[
-  {
-    "id": 1,
-    "type": "Vektorlar",
-    "title": "Vektor xaqida tushuncha",
-    "creator": "Sevara Ruslanovna",
-    "uses_count": 5432,
-    "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about the theme <b>Vektor xaqida tushuncha</b></h1>",
-    "route": "/courses/1",
-    "image": "./assets/images/vectors.jpg",
-    "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4",
-    "pdf": {
-      "lecture": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf",
-      "tasks": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf",
-      "tests": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf"
+{
+  "version": 1,
+  "data": [
+    {
+      "id": 1,
+      "type": "Vektorlar",
+      "title": "Vektor xaqida tushuncha",
+      "creator": "Sevara Ruslanovna",
+      "uses_count": 5432,
+      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about the theme <b>Vektor xaqida tushuncha</b></h1>",
+      "route": "/courses/1",
+      "image": "./assets/images/vectors.jpg",
+      "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4",
+      "pdf": {
+        "lecture": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf",
+        "tasks": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf",
+        "tests": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf"
+      }
+    },
+    {
+      "id": 2,
+      "type": "Vektorlar",
+      "title": "Chiziqli erkli va chiziqli bog‘lanishli vektorlar oilasi va ularning xossalari. Vektorlarning kollinearlik va komplanarlik shartlari.",
+      "creator": "Sevara Ruslanovna",
+      "uses_count": 5432,
+      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Vektorlar oilasi</b></h1>",
+      "route": "/courses/2",
+      "image": "./assets/images/vectors.jpg",
+      "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4",
+      "pdf": {
+        "lecture": "https://raw.githubusercontent.com/M1rix/store/b8192f42e1b3bd37acf6afbcd9e320045f836a9a/geometrix/pdf/lecture-2.pdf",
+        "tasks": "https://raw.githubusercontent.com/M1rix/store/b8192f42e1b3bd37acf6afbcd9e320045f836a9a/geometrix/pdf/tasks-2.pdf",
+        "tests": "https://raw.githubusercontent.com/M1rix/store/b8192f42e1b3bd37acf6afbcd9e320045f836a9a/geometrix/pdf/tests-2.pdf"
+      }
+    },
+    {
+      "id": 3,
+      "type": "Probability",
+      "title": "Probability and Distributions",
+      "creator": "Mirix",
+      "uses_count": 5432,
+      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Probability and Distributions</b></h1>",
+      "route": "/courses/3",
+      "image": "./assets/images/blackboard.jpg",
+      "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4"
+    },
+    {
+      "id": 4,
+      "type": "Differential",
+      "title": "Differential Equations Solver",
+      "creator": "Mirix",
+      "uses_count": 5432,
+      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Differential Equations Solver</b></h1>",
+      "route": "/courses/4",
+      "image": "./assets/images/mathematical.jpg",
+      "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4"
     }
-  },
-  {
-    "id": 2,
-    "type": "Vektorlar",
-    "title": "Chiziqli erkli va chiziqli bog‘lanishli vektorlar oilasi va ularning xossalari. Vektorlarning kollinearlik va komplanarlik shartlari.",
-    "creator": "Sevara Ruslanovna",
-    "uses_count": 5432,
-    "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Vektorlar oilasi</b></h1>",
-    "route": "/courses/2",
-    "image": "./assets/images/vectors.jpg",
-    "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4",
-    "pdf": {
-      "lecture": "https://raw.githubusercontent.com/M1rix/store/b8192f42e1b3bd37acf6afbcd9e320045f836a9a/geometrix/pdf/lecture-2.pdf",
-      "tasks": "https://raw.githubusercontent.com/M1rix/store/b8192f42e1b3bd37acf6afbcd9e320045f836a9a/geometrix/pdf/tasks-2.pdf",
-      "tests": "https://raw.githubusercontent.com/M1rix/store/b8192f42e1b3bd37acf6afbcd9e320045f836a9a/geometrix/pdf/tests-2.pdf"
-    }
-  },
-  {
-    "id": 3,
-    "type": "Probability",
-    "title": "Probability and Distributions",
-    "creator": "Mirix",
-    "uses_count": 5432,
-    "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Probability and Distributions</b></h1>",
-    "route": "/courses/3",
-    "image": "./assets/images/blackboard.jpg",
-    "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4"
-  },
-  {
-    "id": 4,
-    "type": "Differential",
-    "title": "Differential Equations Solver",
-    "creator": "Mirix",
-    "uses_count": 5432,
-    "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Differential Equations Solver</b></h1>",
-    "route": "/courses/4",
-    "image": "./assets/images/mathematical.jpg",
-    "avatar": "https://avatars.githubusercontent.com/u/78680620?v=4"
-  }
-]
+  ]
+}
