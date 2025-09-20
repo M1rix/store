@@ -20,7 +20,7 @@
     {
       "id": 2,
       "type": "Vektorlar",
-      "title": "Chiziqli erkli va chiziqli bog‘lanishli vektorlar oilasi va ularning xossalari. Vektorlarning kollinearlik va komplanarlik shartlari.",
+      "title": "Chiziqli erkli va bog‘lanishli vektorlar. Vektorlarning kollinearlik va komplanarlik shartlari.",
       "creator": "Sevara Ruslanovna",
       "uses_count": 5432,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Vektorlar oilasi</b></h1>",
