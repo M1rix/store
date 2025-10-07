@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "data": [
     {
       "version": 1,
@@ -72,12 +72,29 @@
     {
       "version": 1,
       "id": 5,
+      "type": "Test",
+      "title": "1-4 mavzular test",
+      "creator": "Sevara Ruslanovna",
+      "uses_count": 5432,
+      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
+      "route": "/courses/5",
+      "image": "./assets/images/vectors.jpg",
+      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
+      "pdf": {
+        "lecture": null,
+        "tasks": null,
+        "tests": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/TEST4.pdf"
+      }
+    },
+    {
+      "version": 1,
+      "id": 6,
       "type": "Fazo",
       "title": "Tekislikda va fazoda affin va dekart koordinatalar sistemasi.",
       "creator": "Sevara Ruslanovna",
       "uses_count": 5432,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
-      "route": "/courses/5",
+      "route": "/courses/6",
       "image": "./assets/images/formulas.webp",
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
