@@ -4,7 +4,7 @@
     {
       "version": 1,
       "id": 1,
-      "type": "Vektorlar",
+      "type": "Modul I",
       "title": "Vektor xaqida tushuncha",
       "creator": "Sevara Ruslanovna",
       "uses_count": 5432,
@@ -21,7 +21,7 @@
     {
       "version": 1,
       "id": 2,
-      "type": "Vektorlar",
+      "type": "Modul I",
       "title": "Chiziqli erkli va bog‘lanishli vektorlar. Vektorlarning kollinearlik va komplanarlik shartlari.",
       "creator": "Sevara Ruslanovna",
       "uses_count": 5432,
@@ -38,7 +38,7 @@
     {
       "version": 1,
       "id": 3,
-      "type": "Vektorlar",
+      "type": "Modul I",
       "title": "Bazis. Vektorning berilgan bazisga nisbatan koordinatalari.",
       "creator": "Sevara Ruslanovna",
       "uses_count": 5432,
@@ -72,8 +72,8 @@
     {
       "version": 1,
       "id": 5,
-      "type": "Test",
-      "title": "1-4 mavzular test",
+      "type": "",
+      "title": "Modul I TEST",
       "creator": "Sevara Ruslanovna",
       "uses_count": 5432,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
