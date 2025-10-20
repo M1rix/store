@@ -1,0 +1,1074 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{enumitem}
+
+\title{15 ta Test: Bazis va Vektorning Koordinatalari}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{1. \( B = \{(1, 0, 0), (0, 1, 0), (0, 0, 1)\} \) bazisda \( v = (3, 2, 4) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (3, 2, 4)
+    \item (1, 1, 1)
+    \item (0, 0, 0)
+    \item (2, 3, 1)
+\end{enumerate}
+\textbf{Javob:} a) (3, 2, 4)
+
+\subsection*{2. \( B = \{(1, 1, 0), (0, 1, 0), (0, 0, 1)\} \) bazisda \( v = (2, 3, 1) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 1)
+    \item (2, 1, 1)
+    \item (0, 3, 1)
+    \item (1, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 1)
+
+\subsection*{3. \( B = \{(2, 0, 0), (0, 3, 0), (0, 0, 1)\} \) bazisda \( v = (4, 6, 2) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{4. \( B = \{(1, 0, 1), (0, 1, 0), (1, 0, 0)\} \) bazisda \( v = (3, 1, 2) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 1, 1)
+    \item (2, 1, 0)
+    \item (1, 0, 2)
+    \item (0, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (1, 1, 1)
+
+\subsection*{5. \( B = \{(1, 2, 0), (0, 1, 0), (0, 0, 3)\} \) bazisda \( v = (3, 4, 6) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (3, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (3, 2, 2)
+
+\subsection*{6. \( B = \{(1, 1, 1), (1, 0, 0), (0, 1, 0)\} \) bazisda \( v = (4, 2, 3) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+    \item (0, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 1, 2)
+
+\subsection*{7. \( B = \{(3, 0, 0), (0, 2, 0), (0, 0, 4)\} \) bazisda \( v = (9, 4, 8) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (3, 2, 2)
+    \item (2, 2, 1)
+    \item (3, 1, 2)
+    \item (1, 2, 2)
+\end{enumerate}
+\textbf{Javob:} a) (3, 2, 2)
+
+\subsection*{8. \( B = \{(1, 0, 2), (0, 1, 0), (2, 0, 1)\} \) bazisda \( v = (5, 1, 4) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{9. \( B = \{(2, 1, 0), (0, 1, 0), (0, 0, 5)\} \) bazisda \( v = (4, 2, 10) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 2)
+    \item (1, 2, 2)
+    \item (2, 2, 1)
+    \item (1, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 2)
+
+\subsection*{10. \( B = \{(1, 3, 0), (0, 1, 0), (0, 0, 2)\} \) bazisda \( v = (4, 4, 2) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 1, 1)
+    \item (2, 1, 1)
+    \item (1, 2, 1)
+    \item (1, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (1, 1, 1)
+
+\subsection*{11. \( B = \{(1, 0, 0), (1, 2, 0), (0, 0, 3)\} \) bazisda \( v = (2, 4, 6) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 2)
+    \item (2, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 2)
+
+\subsection*{12. \( B = \{(2, 0, 1), (0, 1, 0), (1, 0, 3)\} \) bazisda \( v = (5, 1, 4) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{13. \( B = \{(3, 1, 0), (0, 2, 0), (0, 0, 4)\} \) bazisda \( v = (6, 4, 8) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{14. \( B = \{(1, 2, 1), (0, 1, 0), (1, 0, 2)\} \) bazisda \( v = (4, 2, 5) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 0, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+    \item (0, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (1, 0, 2)
+
+\subsection*{15. \( B = \{(2, 0, 0), (0, 4, 0), (0, 0, 3)\} \) bazisda \( v = (4, 8, 6) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\end{document}
+
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{16. \( B = \{(1, 0, 0), (0, 1, 0), (0, 0, 1)\} \) bazisda \( v = (5, 3, 2) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (5, 3, 2)
+    \item (1, 1, 1)
+    \item (0, 0, 0)
+    \item (2, 3, 1)
+\end{enumerate}
+\textbf{Javob:} a) (5, 3, 2)
+
+\subsection*{16. \( B = \{(1, 1, 0), (0, 1, 0), (0, 0, 1)\} \) bazisda \( v = (3, 4, 1) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 1)
+    \item (1, 3, 1)
+    \item (0, 4, 1)
+    \item (2, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 1)
+
+\subsection*{17. \( B = \{(2, 0, 0), (0, 3, 0), (0, 0, 1)\} \) bazisda \( v = (6, 9, 2) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (3, 3, 2)
+    \item (2, 3, 1)
+    \item (3, 2, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (3, 3, 2)
+
+\subsection*{18. \( B = \{(1, 0, 1), (0, 1, 0), (1, 0, 0)\} \) bazisda \( v = (4, 2, 3) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 0)
+    \item (1, 2, 1)
+    \item (2, 0, 2)
+    \item (0, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 0)
+
+\subsection*{19. \( B = \{(1, 2, 0), (0, 1, 0), (0, 0, 3)\} \) bazisda \( v = (3, 5, 6) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (3, 3, 2)
+    \item (1, 3, 2)
+    \item (2, 2, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (3, 3, 2)
+
+\subsection*{20. \( B = \{(1, 1, 1), (1, 0, 0), (0, 1, 0)\} \) bazisda \( v = (5, 2, 3) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 0, 1)
+    \item (1, 1, 2)
+    \item (0, 2, 1)
+    \item (2, 1, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 0, 1)
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{21. \( B = \{(1, 0), (0, 1)\} \) tekislikda bazis bo‘ladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+\textbf{Mulohaza:} Bu vektorlar o‘rtog‘li chuqur bo‘lganligi va 2 ta o‘lchovli yo‘nalishlarni qamrab olishi uchun bazisdir.
+
+\subsection*{22. \( B = \{(1, 2), (2, 4)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+\textbf{Mulohaza:} \( (2, 4) = 2 \cdot (1, 2) \) bo‘lib, vektorlar kollineardir, shuning uchun bazis bo‘la olmaydi.
+
+\subsection*{23. \( B = \{(1, 0, 0), (0, 1, 0), (0, 0, 1)\} \) fazoda bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+\textbf{Mulohaza:} Bu standart bazis vektorlar bo‘lib, o‘rtog‘li chuqur va 3 ta o‘lchovli yo‘nalishlarni qamrab oladi.
+
+\subsection*{24. \( B = \{(1, 1), (1, 1)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+\textbf{Mulohaza:} Ikkala vektor bir xil bo‘lib, chuqurlikni buzadi, shuning uchun bazis bo‘la olmaydi.
+
+\subsection*{25. \( B = \{(1, 0, 0), (0, 1, 0)\} \) 3 o‘lchovda bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+\textbf{Mulohaza:} 3 o‘lchov uchun 2 ta vektor yetarli emas, chunki bazis vektorlar soni o‘lchovga teng bo‘lishi kerak.
+
+\subsection*{26. \( B = \{(1, -1), (2, -2)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+\textbf{Mulohaza:} \( (2, -2) = 2 \cdot (1, -1) \) bo‘lib, vektorlar kollineardir, shuning uchun bazis bo‘la olmaydi.
+
+\subsection*{27. \( B = \{(1, 0, 1), (0, 1, 0), (1, 1, 2)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+\textbf{Mulohaza:} Vektorlar o‘rtog‘li chuqur bo‘lib, 3 ta o‘lchovni qamrab oladi va takrorlanishi yo‘q.
+
+\subsection*{28. \( B = \{(1, 2), (3, 6)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+\textbf{Mulohaza:} \( (3, 6) = 3 \cdot (1, 2) \) bo‘lib, vektorlar kollineardir, shuning uchun bazis bo‘la olmaydi.
+
+\subsection*{29. \( B = \{(1, 0, 0), (2, 0, 0), (0, 1, 0)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+\textbf{Mulohaza:} \( (2, 0, 0) = 2 \cdot (1, 0, 0) \) bo‘lib, chuqurlik buzilgan, shuning uchun bazis emas.
+
+\subsection*{30. \( B = \{(1, 1, 0), (0, 1, 1), (1, 0, 1)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+\textbf{Mulohaza:} Vektorlar o‘rtog‘li chuqur bo‘lib, 3 ta o‘lchovni qamrab oladi va chiziqli mustaqildir.
+
+\subsection*{31. \( B = \{(1, 2, 3), (2, 4, 6)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+\textbf{Mulohaza:} \( (2, 4, 6) = 2 \cdot (1, 2, 3) \) bo‘lib, kollineardir, shuning uchun bazis bo‘la olmaydi.
+
+\subsection*{32. \( B = \{(0, 1, 0), (0, 0, 1), (1, 0, 0)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+\textbf{Mulohaza:} Bu standart bazisning almashtirilgan tartibi bo‘lib, o‘rtog‘li chuqur va 3 o‘lchovni qamrab oladi.
+
+\subsection*{33. \( B = \{(1, 1), (1, 2)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+\textbf{Mulohaza:} Vektorlar o‘rtog‘li chuqur bo‘lib, 2 ta o‘lchovni qamrab oladi va chiziqli mustaqildir.
+
+\subsection*{34. \( B = \{(1, 0, 0), (0, 1, 0), (1, 0, 0)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+\textbf{Mulohaza:} Vektorlarda takrorlanish bor (\( (1, 0, 0) \) ikki marta), shuning uchun chuqurlik buzilgan.
+
+\subsection*{35. \( B = \{(2, 1, 0), (1, 0, 1), (0, 1, 2)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+\textbf{Mulohaza:} Vektorlar o‘rtog‘li chuqur bo‘lib, 3 ta o‘lchovni qamrab oladi va chiziqli mustaqildir.
+
+\subsection*{36. \( B = \{(1, 3), (2, 6)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+\textbf{Mulohaza:} \( (2, 6) = 2 \cdot (1, 3) \) bo‘lib, kollineardir, shuning uchun bazis bo‘la olmaydi.
+
+\subsection*{37. \( B = \{(1, 0, 2), (0, 1, 0), (2, 0, 4)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+\textbf{Mulohaza:} \( (2, 0, 4) = 2 \cdot (1, 0, 2) \) bo‘lib, kollineardir, shuning uchun bazis emas.
+
+\subsection*{38. \( B = \{(1, 1, 1), (1, 0, 0), (0, 1, 0)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+\textbf{Mulohaza:} Vektorlar o‘rtog‘li chuqur bo‘lib, 3 ta o‘lchovni qamrab oladi va chiziqli mustaqildir.
+
+\subsection*{39. \( B = \{(0, 2), (0, 4)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+\textbf{Mulohaza:} \( (0, 4) = 2 \cdot (0, 2) \) bo‘lib, kollineardir va 2 ta o‘lchovni to‘liq qamrab olmaydi.
+
+\subsection*{40. \( B = \{(1, 0, 0), (0, 1, 1), (0, 0, 1)\} \) bazis bo‘la oladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+\textbf{Mulohaza:} Vektorlar o‘rtog‘li chuqur bo‘lib, 3 ta o‘lchovni qamrab oladi va chiziqli mustaqildir.
+
+\end{document}
+
+\subsection*{41. \( B = \{(1, 0, 2), (2, 1, 0), (0, 0, 1)\} \) bazisda \( v = (3, 4, 2) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 2)
+    \item (2, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 2)
+
+\subsection*{42. \( B = \{(4, 0, 0), (0, 1, 0), (0, 0, 3)\} \) bazisda \( v = (8, 2, 6) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{43. \( B = \{(1, 3, 1), (0, 1, 0), (1, 0, 2)\} \) bazisda \( v = (5, 2, 4) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 1, 1)
+    \item (2, 0, 1)
+    \item (1, 0, 2)
+    \item (0, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 1, 1)
+
+\subsection*{44. \( B = \{(2, 0, 3), (0, 1, 0), (3, 0, 2)\} \) bazisda \( v = (7, 1, 5) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{45. \( B = \{(1, 2, 0), (0, 3, 0), (0, 0, 4)\} \) bazisda \( v = (3, 6, 8) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 2)
+    \item (2, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 2)
+
+\subsection*{46. \( B = \{(3, 0, 0), (0, 2, 1), (0, 1, 0)\} \) bazisda \( v = (6, 5, 1) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 1)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 1)
+
+\subsection*{47. \( B = \{(1, 0, 1), (0, 1, 2), (1, 2, 0)\} \) bazisda \( v = (2, 3, 3) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 1, 1)
+    \item (2, 0, 1)
+    \item (1, 0, 2)
+    \item (0, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 1, 1)
+
+\subsection*{48. \( B = \{(2, 0, 0), (0, 5, 0), (0, 0, 2)\} \) bazisda \( v = (4, 10, 4) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{49. \( B = \{(1, 3, 0), (0, 1, 1), (3, 0, 0)\} \) bazisda \( v = (7, 2, 3) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 1)
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 1)
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{50. \( B = \{(1, 0, 0), (0, 2, 0), (0, 0, 3)\} \) bazisda \( v = (2, 4, 6) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{51. \( B = \{(1, 1, 0), (0, 1, 0), (0, 0, 2)\} \) bazisda \( v = (3, 4, 6) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (3, 3, 3)
+    \item (1, 3, 3)
+    \item (3, 1, 3)
+    \item (1, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (3, 3, 3)
+
+\subsection*{52. \( B = \{(2, 0, 0), (0, 3, 0), (0, 0, 1)\} \) bazisda \( v = (4, 6, 2) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{53. \( B = \{(1, 0, 1), (0, 1, 0), (1, 0, 2)\} \) bazisda \( v = (3, 2, 5) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 1)
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 1)
+
+\subsection*{54. \( B = \{(1, 3, 0), (0, 1, 0), (0, 0, 4)\} \) bazisda \( v = (4, 5, 8) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 5, 2)
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 5, 2)
+
+\subsection*{55. \( B = \{(1, 1, 1), (1, 0, 0), (0, 1, 0)\} \) bazisda \( v = (4, 2, 3) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+    \item (0, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 1, 2)
+
+\subsection*{56. \( B = \{(3, 0, 0), (0, 2, 0), (0, 0, 5)\} \) bazisda \( v = (9, 4, 10) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (3, 2, 2)
+    \item (2, 2, 1)
+    \item (3, 1, 2)
+    \item (1, 2, 2)
+\end{enumerate}
+\textbf{Javob:} a) (3, 2, 2)
+
+\subsection*{57. \( B = \{(1, 0, 2), (0, 1, 0), (2, 0, 1)\} \) bazisda \( v = (5, 1, 4) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{58. \( B = \{(2, 1, 0), (0, 1, 0), (0, 0, 6)\} \) bazisda \( v = (4, 2, 12) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{59. \( B = \{(1, 3, 0), (0, 1, 0), (0, 0, 2)\} \) bazisda \( v = (4, 4, 2) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 1, 1)
+    \item (2, 1, 1)
+    \item (1, 2, 1)
+    \item (1, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (1, 1, 1)
+
+\subsection*{60. \( B = \{(1, 0, 0), (1, 2, 0), (0, 0, 3)\} \) bazisda \( v = (2, 4, 6) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 2)
+    \item (2, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 2)
+
+\subsection*{61. \( B = \{(2, 0, 1), (0, 1, 0), (1, 0, 3)\} \) bazisda \( v = (5, 1, 4) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{62. \( B = \{(3, 1, 0), (0, 2, 0), (0, 0, 4)\} \) bazisda \( v = (6, 4, 8) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{63. \( B = \{(1, 2, 1), (0, 1, 0), (1, 0, 2)\} \) bazisda \( v = (4, 2, 5) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 0, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+    \item (0, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (1, 0, 2)
+
+\subsection*{64. \( B = \{(2, 0, 0), (0, 4, 0), (0, 0, 3)\} \) bazisda \( v = (4, 8, 6) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{65. \( B = \{(1, 0, 0), (0, 2, 0), (0, 0, 1)\} \) bazisda \( v = (3, 4, 2) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (3, 2, 2)
+    \item (1, 2, 2)
+    \item (3, 1, 2)
+    \item (2, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (3, 2, 2)
+
+\subsection*{66. \( B = \{(1, 1, 0), (1, 0, 1), (0, 1, 0)\} \) bazisda \( v = (4, 2, 3) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 2, 1)
+    \item (2, 0, 1)
+    \item (1, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{67. \( B = \{(3, 0, 1), (0, 1, 0), (1, 0, 2)\} \) bazisda \( v = (6, 1, 4) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{68. \( B = \{(2, 0, 0), (0, 1, 2), (0, 0, 1)\} \) bazisda \( v = (4, 3, 3) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 3, 1)
+    \item (1, 3, 1)
+    \item (2, 1, 3)
+    \item (1, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (2, 3, 1)
+
+\subsection*{69. \( B = \{(1, 4, 0), (0, 1, 0), (0, 0, 2)\} \) bazisda \( v = (5, 6, 4) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 6, 2)
+    \item (5, 1, 2)
+    \item (1, 2, 1)
+    \item (2, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (1, 6, 2)
+
+\subsection*{70. \( B = \{(1, 0, 3), (0, 2, 0), (3, 0, 1)\} \) bazisda \( v = (7, 4, 4) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 1)
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 1)
+
+\subsection*{71. \( B = \{(2, 1, 0), (1, 0, 1), (0, 1, 0)\} \) bazisda \( v = (3, 2, 1) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 1, 1)
+    \item (2, 0, 1)
+    \item (1, 0, 2)
+    \item (0, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 1, 1)
+
+\subsection*{72. \( B = \{(3, 0, 0), (0, 4, 0), (0, 0, 2)\} \) bazisda \( v = (6, 8, 4) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{73. \( B = \{(1, 2, 0), (0, 1, 3), (2, 0, 1)\} \) bazisda \( v = (5, 4, 4) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 2, 1)
+    \item (2, 0, 1)
+    \item (1, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{74. \( B = \{(2, 0, 1), (0, 3, 0), (1, 0, 2)\} \) bazisda \( v = (5, 3, 4) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{75. \( B = \{(1, 0, 2), (2, 1, 0), (0, 0, 1)\} \) bazisda \( v = (3, 4, 2) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 2)
+    \item (2, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 2)
+
+\subsection*{76. \( B = \{(4, 0, 0), (0, 1, 0), (0, 0, 3)\} \) bazisda \( v = (8, 2, 6) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{77. \( B = \{(1, 3, 1), (0, 1, 0), (1, 0, 2)\} \) bazisda \( v = (5, 2, 4) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 1, 1)
+    \item (2, 0, 1)
+    \item (1, 0, 2)
+    \item (0, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 1, 1)
+
+\subsection*{78. \( B = \{(2, 0, 3), (0, 1, 0), (3, 0, 2)\} \) bazisda \( v = (7, 1, 5) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{79. \( B = \{(1, 2, 0), (0, 3, 0), (0, 0, 4)\} \) bazisda \( v = (3, 6, 8) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 2)
+    \item (2, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 2)
+
+\subsection*{80. \( B = \{(1, 3, 0), (0, 1, 0), (0, 0, 4)\} \) bazisda \( v = (4, 4, 8) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 4, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 2)
+    \item (2, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 4, 2)
+
+\subsection*{81. \( B = \{(3, 0, 0), (0, 2, 1), (0, 2, 0)\} \) bazisda \( v = (6, 6, 1) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 1)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 1)
+
+\subsection*{82. \( B = \{(1, 0, 3), (0, 1, 0), (3, 0, 2)\} \) bazisda \( v = (7, 1, 5) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{83. \( B = \{(2, 0, 0), (0, 5, 0), (0, 0, 3)\} \) bazisda \( v = (4, 10, 6) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{84. \( B = \{(1, 3, 0), (0, 1, 1), (3, 0, 0)\} \) bazisda \( v = (7, 2, 3) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 1)
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 1)
+
+\subsection*{85. \( B = \{(2, 1, 0), (0, 2, 1), (1, 0, 0)\} \) bazisda \( v = (3, 4, 1) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 1)
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 1)
+
+\subsection*{86. \( B = \{(1, 0, 4), (0, 3, 0), (4, 0, 1)\} \) bazisda \( v = (9, 3, 5) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{87. \( B = \{(3, 0, 2), (0, 1, 0), (2, 0, 1)\} \) bazisda \( v = (7, 1, 3) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{88. \( B = \{(1, 2, 0), (0, 1, 3), (2, 0, 2)\} \) bazisda \( v = (5, 4, 7) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 2)
+    \item (1, 2, 1)
+    \item (2, 2, 1)
+    \item (1, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 2)
+
+\subsection*{89. \( B = \{(2, 0, 0), (0, 3, 1), (0, 1, 0)\} \) bazisda \( v = (4, 7, 1) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 1)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 1)
+
+\subsection*{90. \( B = \{(1, 0, 2), (0, 1, 0), (2, 3, 1)\} \) bazisda \( v = (5, 1, 4) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{91. \( B = \{(3, 0, 0), (0, 2, 1), (0, 2, 0)\} \) bazisda \( v = (6, 6, 1) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 1)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 1)
+
+\subsection*{92. \( B = \{(1, 0, 3), (0, 1, 0), (3, 0, 2)\} \) bazisda \( v = (7, 1, 5) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{93. \( B = \{(2, 0, 0), (0, 5, 0), (0, 0, 3)\} \) bazisda \( v = (4, 10, 6) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{94. \( B = \{(1, 3, 0), (0, 1, 1), (3, 0, 0)\} \) bazisda \( v = (7, 2, 3) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 1)
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 1)
+
+\subsection*{95. \( B = \{(2, 1, 0), (0, 2, 1), (1, 0, 0)\} \) bazisda \( v = (3, 4, 1) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 1)
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 1)
+
+\end{document}
+
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{96. \( B = \{(1, 0, 0), (0, 2, 0), (0, 0, 3)\} \) bazisda \( v = (2, 4, 6) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{97. \( B = \{(1, 1, 0), (0, 1, 0), (0, 0, 2)\} \) bazisda \( v = (3, 4, 6) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 3, 3)
+    \item (1, 3, 3)
+    \item (2, 1, 3)
+    \item (1, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (2, 3, 3)
+
+\subsection*{98. \( B = \{(2, 0, 0), (0, 3, 0), (0, 0, 1)\} \) bazisda \( v = (4, 6, 2) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{99. \( B = \{(1, 0, 1), (0, 1, 0), (1, 0, 2)\} \) bazisda \( v = (3, 2, 5) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 1)
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 1)
+
+\subsection*{100. \( B = \{(1, 3, 0), (0, 1, 0), (0, 0, 4)\} \) bazisda \( v = (4, 5, 8) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 5, 2)
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 5, 2)
+
+\subsection*{101. \( B = \{(1, 1, 1), (1, 0, 0), (0, 1, 0)\} \) bazisda \( v = (5, 2, 3) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 0, 1)
+    \item (1, 1, 2)
+    \item (0, 2, 1)
+    \item (2, 1, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 0, 1)
+
+\subsection*{102. \( B = \{(3, 0, 0), (0, 2, 0), (0, 0, 5)\} \) bazisda \( v = (9, 4, 10) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (3, 2, 2)
+    \item (2, 2, 1)
+    \item (3, 1, 2)
+    \item (1, 2, 2)
+\end{enumerate}
+\textbf{Javob:} a) (3, 2, 2)
+
+\subsection*{103. \( B = \{(1, 0, 3), (0, 1, 0), (3, 0, 1)\} \) bazisda \( v = (7, 1, 4) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{104. \( B = \{(2, 1, 0), (0, 1, 0), (0, 0, 6)\} \) bazisda \( v = (4, 2, 12) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{105. \( B = \{(1, 4, 0), (0, 1, 0), (0, 0, 3)\} \) bazisda \( v = (5, 6, 9) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 6, 3)
+    \item (5, 1, 3)
+    \item (1, 2, 1)
+    \item (2, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (1, 6, 3)
+
+\subsection*{106. \( B = \{(2, 0, 1), (0, 1, 0), (1, 0, 4)\} \) bazisda \( v = (5, 1, 4) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{107. \( B = \{(3, 1, 0), (0, 2, 0), (0, 0, 5)\} \) bazisda \( v = (6, 4, 10) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{108. \( B = \{(1, 2, 1), (0, 1, 0), (1, 0, 3)\} \) bazisda \( v = (4, 2, 7) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 0, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+    \item (0, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (1, 0, 2)
+
+\subsection*{109. \( B = \{(2, 0, 0), (0, 5, 0), (0, 0, 4)\} \) bazisda \( v = (4, 10, 8) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{110. \( B = \{(1, 0, 2), (0, 1, 1), (2, 0, 0)\} \) bazisda \( v = (5, 2, 4) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{111. \( B = \{(3, 0, 0), (0, 1, 2), (0, 2, 0)\} \) bazisda \( v = (6, 5, 4) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 1)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 1)
+
+\subsection*{112. \( B = \{(1, 0, 3), (0, 1, 0), (3, 0, 2)\} \) bazisda \( v = (7, 1, 5) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+    \item (1, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (2, 1, 1)
+
+\subsection*{113. \( B = \{(2, 0, 0), (0, 4, 0), (0, 0, 3)\} \) bazisda \( v = (4, 8, 6) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{114. \( B = \{(1, 3, 0), (0, 1, 1), (3, 0, 0)\} \) bazisda \( v = (7, 2, 3) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 1)
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 0, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 1)
+
+\subsection*{115. \( B = \{(2, 1, 0), (0, 2, 1), (1, 0, 0)\} \) bazisda \( v = (3, 4, 1) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 2, 1)
+    \item (2, 1, 1)
+    \item (1, 1, 2)
+    \item (2, 2, 0)
+\end{enumerate}
+\textbf{Javob:} a) (1, 2, 1)
+
+\end{document}
+

@@ -1,0 +1,849 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{enumitem}
+
+\title{30 ta Test: Kollinearlik va Komplanarlik Sharti}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{1. \( v_1 = (1, 2), v_2 = (2, 4) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{2. \( v_1 = (1, 0, 1), v_2 = (2, 0, 2) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{3. \( v_1 = (1, 1), v_2 = (2, 3) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{4. \( v_1 = (3, 6), v_2 = (1, 2) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{5. \( v_1 = (1, 2, 3), v_2 = (2, 4, 5) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{6. \( v_1 = (2, 1), v_2 = (4, 2) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{7. \( v_1 = (1, 0, 0), v_2 = (0, 1, 0), v_3 = (0, 0, 1) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{8. \( v_1 = (1, 2), v_2 = (2, 4), v_3 = (3, 6) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{9. \( v_1 = (1, 1), v_2 = (2, 2), v_3 = (3, 1) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{10. \( v_1 = (1, 0, 0), v_2 = (0, 1, 0), v_3 = (1, 1, 0) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{11. \( v_1 = (3, 2), v_2 = (6, 4) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{12. \( v_1 = (1, 2, 3), v_2 = (3, 6, 9) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{13. \( v_1 = (1, 0), v_2 = (2, 0) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{14. \( v_1 = (2, 1, 0), v_2 = (4, 2, 0) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{15. \( v_1 = (1, 2), v_2 = (3, 5) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{16. \( v_1 = (1, 1, 2), v_2 = (2, 2, 4), v_3 = (3, 3, 6) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{17. \( v_1 = (1, 0, 0), v_2 = (0, 2, 0), v_3 = (0, 0, 3) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{18. \( v_1 = (2, 1), v_2 = (4, 2), v_3 = (2, 1) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{19. \( v_1 = (1, 2, 3), v_2 = (2, 4, 6), v_3 = (1, 1, 1) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{20. \( v_1 = (1, 0, 1), v_2 = (0, 1, 0), v_3 = (1, 1, 1) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{21. \( v_1 = (3, 6, 9), v_2 = (1, 2, 3) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{22. \( v_1 = (1, 1), v_2 = (2, 1) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{23. \( v_1 = (2, 0, 1), v_2 = (4, 0, 2) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{24. \( v_1 = (1, 2, 3), v_2 = (2, 3, 4) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{25. \( v_1 = (3, 1), v_2 = (6, 2) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{26. \( v_1 = (1, 0, 0), v_2 = (0, 1, 0), v_3 = (2, 2, 0) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{27. \( v_1 = (2, 1, 0), v_2 = (4, 2, 0), v_3 = (6, 3, 0) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{28. \( v_1 = (1, 1, 1), v_2 = (2, 2, 2), v_3 = (1, 0, 0) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{29. \( v_1 = (1, 2, 3), v_2 = (2, 4, 6), v_3 = (0, 1, 2) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{30. \( v_1 = (3, 0, 1), v_2 = (6, 0, 2), v_3 = (9, 0, 3) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\end{document}
+
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{31. \( v_1 = (4, 2), v_2 = (8, 4) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{32. \( v_1 = (1, 3, 2), v_2 = (2, 6, 4) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{33. \( v_1 = (2, 1), v_2 = (3, 2) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{34. \( v_1 = (5, 10), v_2 = (1, 2) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{35. \( v_1 = (1, 2, 4), v_2 = (2, 4, 8) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{36. \( v_1 = (3, 1), v_2 = (6, 3) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{37. \( v_1 = (1, 0, 0), v_2 = (0, 2, 0), v_3 = (1, 2, 0) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{38. \( v_1 = (2, 3), v_2 = (4, 6), v_3 = (6, 9) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{39. \( v_1 = (1, 1, 0), v_2 = (2, 2, 0), v_3 = (3, 3, 1) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{40. \( v_1 = (1, 0, 1), v_2 = (0, 1, 1), v_3 = (1, 1, 2) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{41. \( v_1 = (2, 4, 6), v_2 = (1, 2, 3) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{42. \( v_1 = (1, 2), v_2 = (2, 3) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{43. \( v_1 = (3, 0, 2), v_2 = (6, 0, 4) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{44. \( v_1 = (1, 3, 2), v_2 = (2, 6, 4) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{45. \( v_1 = (2, 1), v_2 = (4, 1) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{46. \( v_1 = (1, 0, 0), v_2 = (0, 1, 0), v_3 = (2, 1, 0) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{47. \( v_1 = (3, 2, 1), v_2 = (6, 4, 2), v_3 = (9, 6, 3) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{48. \( v_1 = (1, 1, 1), v_2 = (2, 2, 2), v_3 = (0, 1, 0) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{49. \( v_1 = (2, 1, 3), v_2 = (4, 2, 6), v_3 = (6, 3, 9) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{50. \( v_1 = (1, 2, 0), v_2 = (2, 4, 0), v_3 = (3, 6, 0) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\end{document}
+
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{51. \( v_1 = (1, 0), v_2 = (0, 1) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{52. \( v_1 = (2, 4), v_2 = (1, 2) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{53. \( v_1 = (1, 0, 0), v_2 = (0, 1, 0), v_3 = (0, 0, 1) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{54. \( v_1 = (1, 2), v_2 = (2, 4) \) vektorlar oilasi chiziqli bog‘lanishlimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{55. \( v_1 = (1, 1, 1), v_2 = (2, 2, 2) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{56. Agar \( v = 2v_1 + 3v_2 \), u holda \( v_1 \) va \( v_2 \) vektorlar oilasi chiziqli bog‘lanishlimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{57. \( v_1 = (1, 0), v_2 = (2, 0) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{58. \( v_1 = (1, 2, 3), v_2 = (2, 4, 6), v_3 = (3, 6, 9) \) vektorlar oilasi chiziqli bog‘lanishlimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{59. Chiziqli erkli vektorlar oilasida biror vektor boshqa vektordan qarab teng bormi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{60. \( v_1 = (1, 0, 0), v_2 = (0, 1, 0) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{61. \( v = 3v_1 - 2v_2 \) ifodasi chiziqli bog‘lanishni anglatadimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{62. \( v_1 = (2, 1), v_2 = (4, 2) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{63. \( v_1 = (1, 2, 3), v_2 = (2, 4, 5) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{64. Chiziqli bog‘lanishli vektorlar oilasida barcha vektorlar bir xil yo‘nalishdami?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{65. \( v_1 = (3, 6), v_2 = (1, 2) \) vektorlar oilasi chiziqli bog‘lanishlimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{66. \( v_1 = (1, 0, 0), v_2 = (0, 1, 0), v_3 = (1, 1, 0) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{67. \( v = v_1 + 2v_2 - v_3 \) ifodasi chiziqli bog‘lanishni anglatadimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{68. \( v_1 = (2, 2, 2), v_2 = (4, 4, 4) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{69. Chiziqli erkli vektorlar oilasida vektorlar soni o‘lchamdan kichik bo‘lishi mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{70. \( v_1 = (1, 1), v_2 = (2, 2) \) vektorlar oilasi chiziqli bog‘lanishlimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{71. \( v_1 = (1, 0), v_2 = (0, 2), v_3 = (1, 2) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{72. \( v = 5v_1 - 3v_2 \) ifodasi chiziqli bog‘lanishni anglatadimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{73. \( v_1 = (3, 1, 2), v_2 = (6, 2, 4) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{74. Chiziqli bog‘lanishli vektorlar oilasida nol vektor mavjud bormi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{75. \( v_1 = (2, 0, 1), v_2 = (4, 0, 2) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{76. \( v_1 = (1, 2, 3), v_2 = (2, 4, 6), v_3 = (0, 0, 0) \) vektorlar oilasi chiziqli bog‘lanishlimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{77. Chiziqli erkli vektorlar oilasida barcha vektorlar bir tekislikda yotishi shart emasmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{78. \( v_1 = (1, 1, 1), v_2 = (1, 1, 2) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{79. \( v = v_1 - 2v_2 + 3v_3 \) ifodasi chiziqli bog‘lanishni anglatadimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{80. \( v_1 = (1, 0, 0), v_2 = (0, 1, 0), v_3 = (2, 2, 0) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\end{document}
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{81. \( B = \{(1, 0, 0), (0, 2, 0), (0, 0, 3)\} \) bazisda \( v = (3, 6, 9) \) vektorning koordinatalari qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item (3, 3, 3)
+    \item (1, 3, 3)
+    \item (3, 1, 3)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (3, 3, 3)
+
+\subsection*{82. \( v = (2, 4) \) vektoringa o‘qqa (1, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 4
+    \item 6
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 2
+
+\subsection*{83. \( v_1 = (1, 2), v_2 = (2, 4) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{84. \( v_1 = (1, 0), v_2 = (0, 1) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{85. \( B = \{(1, 1, 0), (0, 1, 0), (0, 0, 2)\} \) bazisda \( v = (2, 3, 4) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 3, 2)
+    \item (1, 3, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 3, 2)
+
+\subsection*{86. \( u = (1, 2), v = (3, 1) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 4
+    \item 0
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 5
+
+\subsection*{87. \( v_1 = (1, 2, 3), v_2 = (2, 4, 6) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{88. \( v_1 = (1, 1), v_2 = (2, 2) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Yo‘q
+
+\subsection*{89. \( v = (3, 6, 9) \) vektoringa o‘qqa (0, 0, 1) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 9
+    \item 3
+    \item 6
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 9
+
+\subsection*{90. \( B = \{(2, 0, 0), (0, 3, 0), (0, 0, 1)\} \) bazisda \( v = (4, 6, 2) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (2, 2, 2)
+    \item (1, 2, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 1)
+\end{enumerate}
+\textbf{Javob:} a) (2, 2, 2)
+
+\subsection*{91. \( u = (2, 1, 0), v = (1, 0, 2) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 4
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 2
+
+\subsection*{92. \( v_1 = (1, 0, 0), v_2 = (0, 1, 0), v_3 = (0, 0, 1) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{93. \( v = 2v_1 + v_2 \) ifodasi chiziqli bog‘lanishni anglatadimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{94. \( B = \{(1, 0, 1), (0, 1, 0), (1, 0, 2)\} \) bazisda \( v = (2, 1, 4) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 1, 1)
+    \item (2, 1, 1)
+    \item (1, 2, 1)
+    \item (1, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (1, 1, 1)
+
+\subsection*{95. \( v = (1, 2, 3) \) vektoringa o‘qqa (1, 0, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 2
+    \item 3
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) 1
+
+\subsection*{96. \( v_1 = (2, 3), v_2 = (4, 6), v_3 = (6, 9) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{97. \( v_1 = (3, 6), v_2 = (1, 2) \) vektorlar oilasi chiziqli bog‘lanishlimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{98. \( B = \{(1, 3, 0), (0, 1, 0), (0, 0, 4)\} \) bazisda \( v = (4, 4, 8) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 4, 2)
+    \item (2, 1, 2)
+    \item (1, 1, 2)
+    \item (2, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (1, 4, 2)
+
+\subsection*{99. \( u = (3, -1), v = (1, 2) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 5
+    \item 0
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 1
+
+\subsection*{100. \( v_1 = (1, 1, 1), v_2 = (2, 2, 2) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{101. \( v_1 = (1, 0, 0), v_2 = (0, 1, 0) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{102. \( v = (4, 2) \) vektoringa o‘qqa (0, 1) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 4
+    \item 6
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 2
+
+\subsection*{103. \( B = \{(2, 0, 1), (0, 3, 0), (1, 0, 2)\} \) bazisda \( v = (3, 3, 3) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (1, 1, 1)
+    \item (2, 1, 1)
+    \item (1, 2, 1)
+    \item (1, 1, 2)
+\end{enumerate}
+\textbf{Javob:} a) (1, 1, 1)
+
+\subsection*{104. \( u = (1, 2, 3), v = (1, 1, 1) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 6
+    \item 5
+    \item 0
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 6
+
+\subsection*{105. \( v_1 = (1, 2, 3), v_2 = (2, 4, 6), v_3 = (3, 6, 9) \) vektorlar komplanardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{106. \( v = 4v_1 - v_2 \) ifodasi chiziqli bog‘lanishni anglatadimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{107. \( B = \{(1, 2, 0), (0, 1, 0), (0, 0, 3)\} \) bazisda \( v = (3, 2, 6) \) vektorning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item (3, 2, 2)
+    \item (1, 2, 2)
+    \item (3, 1, 2)
+    \item (2, 2, 1)
+\end{enumerate}
+\textbf{Javob:} a) (3, 2, 2)
+
+\subsection*{108. \( v = (5, 5, 5) \) vektoringa o‘qqa (1, 0, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 0
+    \item 1
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 5
+
+\subsection*{109. \( v_1 = (2, 1), v_2 = (4, 2) \) vektorlar kollineardirmikin?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{110. \( v_1 = (1, 0, 0), v_2 = (0, 1, 0), v_3 = (2, 2, 0) \) vektorlar oilasi chiziqli erklimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\end{document}
+
+
+
+

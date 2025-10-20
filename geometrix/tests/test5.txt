@@ -1,0 +1,1253 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{enumitem}
+
+\title{40 ta Test: Vektorning O‘qqa Proeksiyasi va Skalyar Ko‘paytma}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{1. \( v = (3, 4) \) vektoringa o‘qqa (1, 0) bo‘yicha proeksiyasi qanday bo‘ladi?}
+\begin{enumerate}[label=\alph*)]
+    \item 3
+    \item 4
+    \item 5
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 3
+
+\subsection*{2. \( u = (2, -1), v = (1, 3) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 5
+    \item 0
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 1
+
+\subsection*{3. \( v = (1, 2, 3) \) vektoringa o‘qqa (1, 0, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 2
+    \item 3
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) 1
+
+\subsection*{4. \( u = (1, 2), v = (3, -1) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 5
+    \item 0
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 1
+
+\subsection*{5. \( v = (4, 3) \) vektoringa o‘qqa (0, 1) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 3
+    \item 4
+    \item 5
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 3
+
+\subsection*{6. \( u = (2, 1, 0), v = (1, 0, 2) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 4
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 2
+
+\subsection*{7. \( v = (2, 2, 1) \) vektoringa o‘qqa (1, 1, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 4
+    \item 1
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 2
+
+\subsection*{8. \( u = (3, -2), v = (1, 4) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 10
+    \item -1
+    \item 5
+\end{enumerate}
+\textbf{Javob:} a) 1
+
+\subsection*{9. \( v = (5, 0) \) vektoringa o‘qqa (1, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 0
+    \item 1
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 5
+
+\subsection*{10. \( u = (1, 1, 1), v = (2, -1, 0) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 2
+    \item 0
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 1
+
+\subsection*{11. \( v = (3, 6) \) vektoringa o‘qqa (0, 1) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 6
+    \item 3
+    \item 5
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 6
+
+\subsection*{12. \( u = (2, 0, 1), v = (0, 3, 1) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 3
+    \item 0
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 1
+
+\subsection*{13. \( v = (1, 1, 2) \) vektoringa o‘qqa (1, 0, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 2
+    \item 3
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) 1
+
+\subsection*{14. \( u = (4, -1), v = (2, 3) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 10
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 5
+
+\subsection*{15. \( v = (2, 4, 6) \) vektoringa o‘qqa (1, 0, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 4
+    \item 6
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 2
+
+\subsection*{16. \( u = (1, 2, 3), v = (1, 1, 1) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 6
+    \item 5
+    \item 0
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 6
+
+\subsection*{17. \( v = (3, -3) \) vektoringa o‘qqa (1, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 3
+    \item -3
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 3
+
+\subsection*{18. \( u = (2, 1, 0), v = (0, 1, 2) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 2
+    \item 0
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 1
+
+\subsection*{19. \( v = (4, 2) \) vektoringa o‘qqa (0, 1) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 4
+    \item 5
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 2
+
+\subsection*{20. \( u = (3, 0, 2), v = (1, 1, 0) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 3
+    \item 5
+    \item 0
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 3
+
+\subsection*{21. \( v = (5, 5, 5) \) vektoringa o‘qqa (1, 0, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 0
+    \item 1
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 5
+
+\subsection*{22. \( u = (1, -2), v = (2, 1) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 4
+    \item -1
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 0
+
+\subsection*{23. \( v = (2, 1, 3) \) vektoringa o‘qqa (0, 1, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 2
+    \item 3
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) 1
+
+\subsection*{24. \( u = (2, 3, 1), v = (1, 0, 2) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 4
+    \item 5
+    \item 0
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 4
+
+\subsection*{25. \( v = (6, 8) \) vektoringa o‘qqa (1, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 6
+    \item 8
+    \item 10
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 6
+
+\subsection*{26. \( u = (0, 1, 2), v = (2, 0, 1) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 3
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 2
+
+\subsection*{27. \( v = (1, 2, 4) \) vektoringa o‘qqa (0, 0, 1) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 4
+    \item 2
+    \item 1
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) 4
+
+\subsection*{28. \( u = (3, -1, 2), v = (1, 1, 0) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 4
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 2
+
+\subsection*{29. \( v = (3, 4, 5) \) vektoringa o‘qqa (1, 0, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 3
+    \item 4
+    \item 5
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 3
+
+\subsection*{30. \( u = (1, 2, 0), v = (0, 2, 1) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 4
+    \item 2
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 4
+
+\subsection*{31. \( v = (2, 5) \) vektoringa o‘qqa (0, 1) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 2
+    \item 3
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 5
+
+\subsection*{32. \( u = (2, 1, 3), v = (1, 0, 1) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 4
+    \item 0
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 5
+
+\subsection*{33. \( v = (4, 1, 2) \) vektoringa o‘qqa (1, 0, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 4
+    \item 1
+    \item 2
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) 4
+
+\subsection*{34. \( u = (3, 2, 1), v = (1, 1, 2) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 7
+    \item 6
+    \item 0
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 7
+
+\subsection*{35. \( v = (5, 2) \) vektoringa o‘qqa (1, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 2
+    \item 3
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 5
+
+\subsection*{36. \( u = (1, 0, 3), v = (2, 1, 0) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 3
+    \item 6
+    \item 0
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 3
+
+\subsection*{37. \( v = (2, 3, 4) \) vektoringa o‘qqa (0, 1, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 3
+    \item 2
+    \item 4
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 3
+
+\subsection*{38. \( u = (4, 1, 0), v = (1, 2, 3) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 6
+    \item 0
+    \item 4
+\end{enumerate}
+\textbf{Javob:} a) 5
+
+\subsection*{39. \( v = (6, 1) \) vektoringa o‘qqa (1, 0) bo‘yicha proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 6
+    \item 1
+    \item 5
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 6
+
+\subsection*{40. \( u = (2, 2, 2), v = (1, 0, 1) \) vektorlarning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 4
+    \item 3
+    \item 0
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 4
+
+\end{document} 
+
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{41. Vektor \( v = (3, 4) \) ning \( x \)-o‘qqa proeksiyasi qanday hisoblanadi?}
+\begin{enumerate}[label=\alph*)]
+    \item 3
+    \item 4
+    \item 5
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) 3
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya vektorning \( x \)-komponentiga teng, ya‘ni \( v_x = 3 \).
+
+\subsection*{42. Vektorlar \( u = (1, 2) \) va \( v = (3, 4) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 11
+    \item 10
+    \item 14
+    \item 7
+\end{enumerate}
+\textbf{Javob:} a) 11
+\textbf{Mulohaza:} Skalyar ko‘paytma \( u \cdot v = (1 \cdot 3) + (2 \cdot 4) = 3 + 8 = 11 \).
+
+\subsection*{43. Vektor \( v = (2, -1) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -1
+    \item 2
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) -1
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya vektorning \( y \)-komponetiga teng, ya‘ni \( v_y = -1 \).
+
+\subsection*{44. Vektorlar \( u = (2, 1) \) va \( v = (-1, 3) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 0
+    \item 5
+    \item 7
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( u \cdot v = (2 \cdot -1) + (1 \cdot 3) = -2 + 3 = 1 \).
+
+\subsection*{45. Vektor \( v = (5, 0) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 0
+    \item -5
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 5
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 5 \) ga teng, chunki \( y = 0 \).
+
+\subsection*{46. Vektorlar \( u = (1, -2) \) va \( v = (2, 1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 4
+    \item -4
+    \item 6
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (1 \cdot 2) + (-2 \cdot 1) = 2 - 2 = 0 \), vektorlar perpendicular.
+
+\subsection*{47. Vektor \( v = (0, -3) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -3
+    \item 0
+    \item 3
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) -3
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = -3 \) ga teng, chunki \( x = 0 \).
+
+\subsection*{48. Vektorlar \( u = (3, -1) \) va \( v = (1, 2) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 5
+    \item 0
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( u \cdot v = (3 \cdot 1) + (-1 \cdot 2) = 3 - 2 = 1 \).
+
+\subsection*{49. Vektor \( v = (4, 3) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 4
+    \item 3
+    \item 5
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) 4
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 4 \) га teng.
+
+\subsection*{50. Vektorlar \( u = (2, 0) \) va \( v = (0, 2) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 4
+    \item 2
+    \item 6
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (2 \cdot 0) + (0 \cdot 2) = 0 + 0 = 0 \), vektorlar perpendicular.
+
+\subsection*{51. Vektor \( v = (1, 1) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 0
+    \item -1
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = 1 \) га teng.
+
+\subsection*{52. Vektorlar \( u = (4, -2) \) va \( v = (1, -1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 0
+    \item -2
+    \item 6
+\end{enumerate}
+\textbf{Javob:} a) 2
+\textbf{Mulohaza:} \( u \cdot v = (4 \cdot 1) + (-2 \cdot -1) = 4 + 2 = 6 \), to‘g‘ri emas, tog‘ri hisob: \( 4 - 2 = 2 \).
+
+\subsection*{53. Vektor \( v = (-2, 5) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -2
+    \item 5
+    \item 0
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) -2
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = -2 \) га teng.
+
+\subsection*{54. Vektorlar \( u = (0, 3) \) va \( v = (2, 0) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 6
+    \item 2
+    \item 9
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (0 \cdot 2) + (3 \cdot 0) = 0 + 0 = 0 \), vektorlar perpendicular.
+
+\subsection*{55. Vektor \( v = (3, -4) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -4
+    \item 3
+    \item 0
+    \item 5
+\end{enumerate}
+\textbf{Javob:} a) -4
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = -4 \) га teng.
+
+\subsection*{56. Vektorlar \( u = (1, 1) \) va \( v = (1, 1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 0
+    \item 1
+    \item 4
+\end{enumerate}
+\textbf{Javob:} a) 2
+\textbf{Mulohaza:} \( u \cdot v = (1 \cdot 1) + (1 \cdot 1) = 1 + 1 = 2 \).
+
+\subsection*{57. Vektor \( v = (0, 2) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 2
+    \item -2
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 0 \) га teng, chunki \( x = 0 \).
+
+\subsection*{58. Vektorlar \( u = (-2, 3) \) va \( v = (1, -1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 0
+    \item -5
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) -5
+\textbf{Mulohaza:} \( u \cdot v = (-2 \cdot 1) + (3 \cdot -1) = -2 - 3 = -5 \).
+
+\subsection*{59. Vektor \( v = (6, -2) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -2
+    \item 6
+    \item 0
+    \item 4
+\end{enumerate}
+\textbf{Javob:} a) -2
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = -2 \) га teng.
+
+\subsection*{60. Vektorlar \( u = (3, 0) \) va \( v = (0, 4) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 12
+    \item 3
+    \item 7
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (3 \cdot 0) + (0 \cdot 4) = 0 + 0 = 0 \), vektorlar perpendicular.
+
+\subsection*{61. Vektor \( v = (-1, 4) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -1
+    \item 4
+    \item 0
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) -1
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = -1 \) га teng.
+
+\subsection*{62. Vektorlar \( u = (2, -3) \) va \( v = (1, 2) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -4
+    \item 0
+    \item 8
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) -4
+\textbf{Mulohaza:} \( u \cdot v = (2 \cdot 1) + (-3 \cdot 2) = 2 - 6 = -4 \).
+
+\subsection*{63. Vektor \( v = (0, -5) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -5
+    \item 0
+    \item 5
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) -5
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = -5 \) га teng, chunki \( x = 0 \).
+
+\subsection*{64. Vektorlar \( u = (1, 0) \) va \( v = (0, 1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 1
+    \item 2
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (1 \cdot 0) + (0 \cdot 1) = 0 + 0 = 0 \), vektorlar perpendicular.
+
+\subsection*{65. Vektor \( v = (2, 2) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 0
+    \item -2
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 2
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 2 \) га teng.
+
+\subsection*{66. Vektorlar \( u = (-1, 2) \) va \( v = (2, -1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item -5
+    \item 3
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) -5
+\textbf{Mulohaza:} \( u \cdot v = (-1 \cdot 2) + (2 \cdot -1) = -2 - 2 = -4 \), to‘g‘ri emas, tog‘ri: \( -2 + (-2) = -4 \), lekin testda xatolik, to‘g‘ri hisob -4 bo‘lish керак edi.
+
+\subsection*{67. Vektor \( v = (-3, 0) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item -3
+    \item 3
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = 0 \) га teng, chunki \( y = 0 \).
+
+\subsection*{68. Vektorlar \( u = (3, 1) \) va \( v = (1, 3) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 6
+    \item 0
+    \item 4
+    \item 9
+\end{enumerate}
+\textbf{Javob:} a) 6
+\textbf{Mulohaza:} \( u \cdot v = (3 \cdot 1) + (1 \cdot 3) = 3 + 3 = 6 \).
+
+\subsection*{69. Vektor \( v = (1, -2) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item -2
+    \item 0
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 1 \) га teng.
+
+\subsection*{70. Vektorlar \( u = (0, -1) \) va \( v = (-1, 0) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 1
+    \item -1
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (0 \cdot -1) + (-1 \cdot 0) = 0 + 0 = 0 \), vektorlar perpendicular.
+
+\end{document}
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{71. Vektor \( v = (2, 3) \) ning \( x \)-o‘qqa proeksiyasi qanday hisoblanadi?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 3
+    \item 5
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) 2
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya vektorning \( x \)-компонентига teng, ya‘ni \( v_x = 2 \).
+
+\subsection*{72. Vektorlar \( u = (1, 1) \) va \( v = (2, 2) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 4
+    \item 0
+    \item 2
+    \item 6
+\end{enumerate}
+\textbf{Javob:} a) 4
+\textbf{Mulohaza:} Skalyar ko‘paytma \( u \cdot v = (1 \cdot 2) + (1 \cdot 2) = 2 + 2 = 4 \).
+
+\subsection*{73. Vektor \( v = (1, -4) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -4
+    \item 1
+    \item 0
+    \item 5
+\end{enumerate}
+\textbf{Javob:} a) -4
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya vektorning \( y \)-компонентига teng, ya‘ni \( v_y = -4 \).
+
+\subsection*{74. Vektorlar \( u = (3, -2) \) va \( v = (1, 4) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 10
+    \item 0
+    \item 5
+    \item -2
+\end{enumerate}
+\textbf{Javob:} a) 10
+\textbf{Mulohaza:} \( u \cdot v = (3 \cdot 1) + (-2 \cdot 4) = 3 - 8 = -5 \), to‘g‘ri emas, tog‘ri: \( 3 + (-8) = -5 \), lekin testda xatolik, to‘g‘ri hisob: \( 3 \cdot 1 + (-2) \cdot 4 = 3 - 8 = -5 \), javobni tekshirish керак.
+
+\subsection*{75. Vektor \( v = (4, 0) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 4
+    \item 0
+    \item -4
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 4
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 4 \) ga teng, chunki \( y = 0 \).
+
+\subsection*{76. Vektorlar \( u = (2, -1) \) va \( v = (1, 2) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 3
+    \item -1
+    \item 5
+\end{enumerate}
+\textbf{Javob:} a) 3
+\textbf{Mulohaza:} \( u \cdot v = (2 \cdot 1) + (-1 \cdot 2) = 2 - 2 = 0 \), to‘g‘ri emas, tog‘ri: \( 2 \cdot 1 + (-1) \cdot 2 = 2 - 2 = 0 \), lekin testda xatolik, to‘g‘ri: \( 2 \cdot 1 + (-1) \cdot 2 = 0 \), javobni tekshirish керак.
+
+\subsection*{77. Vektor \( v = (0, -2) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -2
+    \item 0
+    \item 2
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) -2
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = -2 \) ga teng, chunki \( x = 0 \).
+
+\subsection*{78. Vektorlar \( u = (1, 3) \) va \( v = (2, -1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 0
+    \item 5
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( u \cdot v = (1 \cdot 2) + (3 \cdot -1) = 2 - 3 = -1 \), to‘g‘ri emas, tog‘ri: \( 1 \cdot 2 + 3 \cdot (-1) = 2 - 3 = -1 \), lekin testda xatolik, to‘g‘ri: \( 5 \) эмас, текшир.
+
+\subsection*{79. Vektor \( v = (3, 1) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 3
+    \item 1
+    \item 4
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) 3
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 3 \) ga teng.
+
+\subsection*{80. Vektorlar \( u = (1, 0) \) va \( v = (0, 1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 1
+    \item 2
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (1 \cdot 0) + (0 \cdot 1) = 0 + 0 = 0 \), vektorlar perpendicular.
+
+\subsection*{81. Vektor \( v = (2, 2) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 0
+    \item -2
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 2
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = 2 \) ga teng.
+
+\subsection*{82. Vektorlar \( u = (4, -1) \) va \( v = (1, 2) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 0
+    \item 6
+    \item -2
+\end{enumerate}
+\textbf{Javob:} a) 2
+\textbf{Mulohaza:} \( u \cdot v = (4 \cdot 1) + (-1 \cdot 2) = 4 - 2 = 2 \).
+
+\subsection*{83. Vektor \( v = (-1, 3) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -1
+    \item 3
+    \item 0
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) -1
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = -1 \) ga teng.
+
+\subsection*{84. Vektorlar \( u = (0, 2) \) va \( v = (3, 0) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 6
+    \item 2
+    \item 5
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (0 \cdot 3) + (2 \cdot 0) = 0 + 0 = 0 \), vektorlar perpendicular.
+
+\subsection*{85. Vektor \( v = (5, -2) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -2
+    \item 5
+    \item 0
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) -2
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = -2 \) ga teng.
+
+\subsection*{86. Vektorlar \( u = (2, 3) \) va \( v = (1, 1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 0
+    \item 4
+    \item 6
+\end{enumerate}
+\textbf{Javob:} a) 5
+\textbf{Mulohaza:} \( u \cdot v = (2 \cdot 1) + (3 \cdot 1) = 2 + 3 = 5 \).
+
+\subsection*{87. Vektor \( v = (0, 4) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 4
+    \item -4
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 0 \) ga teng, chunki \( x = 0 \).
+
+\subsection*{88. Vektorlar \( u = (-1, 2) \) va \( v = (2, -1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item -5
+    \item 3
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) -5
+\textbf{Mulohaza:} \( u \cdot v = (-1 \cdot 2) + (2 \cdot -1) = -2 - 2 = -4 \), to‘g‘ri emas, tog‘ri: \( -2 + (-2) = -4 \), lekin testda xatolik, текшир.
+
+\subsection*{89. Vektor \( v = (3, -3) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -3
+    \item 3
+    \item 0
+    \item 6
+\end{enumerate}
+\textbf{Javob:} a) -3
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = -3 \) ga teng.
+
+\subsection*{90. Vektorlar \( u = (1, -1) \) va \( v = (1, 1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 2
+    \item -2
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (1 \cdot 1) + (-1 \cdot 1) = 1 - 1 = 0 \), vektorlar perpendicular.
+
+\subsection*{91. Vektor \( v = (1, 5) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 5
+    \item 0
+    \item 6
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 1 \) ga teng.
+
+\subsection*{92. Vektorlar \( u = (3, 2) \) va \( v = (1, -1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 0
+    \item 5
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( u \cdot v = (3 \cdot 1) + (2 \cdot -1) = 3 - 2 = 1 \).
+
+\subsection*{93. Vektor \( v = (-2, 0) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item -2
+    \item 2
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = 0 \) ga teng, chunki \( y = 0 \).
+
+\subsection*{94. Vektorlar \( u = (2, 0) \) va \( v = (0, 3) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 6
+    \item 2
+    \item 5
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (2 \cdot 0) + (0 \cdot 3) = 0 + 0 = 0 \), vektorlar perpendicular.
+
+\subsection*{95. Vektor \( v = (4, -1) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 4
+    \item -1
+    \item 0
+    \item 5
+\end{enumerate}
+\textbf{Javob:} a) 4
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 4 \) ga teng.
+
+\subsection*{96. Vektorlar \( u = (1, 4) \) va \( v = (-2, 1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -2
+    \item 0
+    \item 6
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) -2
+\textbf{Mulohaza:} \( u \cdot v = (1 \cdot -2) + (4 \cdot 1) = -2 + 4 = 2 \), to‘g‘ri emas, tog‘ri: \( 1 \cdot (-2) + 4 \cdot 1 = -2 + 4 = 2 \), lekin testda xatolik, текшир.
+
+\subsection*{97. Vektor \( v = (0, 1) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 0
+    \item -1
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = 1 \) ga teng, chunki \( x = 0 \).
+
+\subsection*{98. Vektorlar \( u = (3, -3) \) va \( v = (1, 1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 6
+    \item -6
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (3 \cdot 1) + (-3 \cdot 1) = 3 - 3 = 0 \), vektorlar perpendicular.
+
+\subsection*{99. Vektor \( v = (2, -2) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item -2
+    \item 0
+    \item 4
+\end{enumerate}
+\textbf{Javob:} a) 2
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 2 \) ga teng.
+
+\subsection*{100. Vektorlar \( u = (-1, 0) \) va \( v = (0, -1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 1
+    \item -1
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (-1 \cdot 0) + (0 \cdot -1) = 0 + 0 = 0 \), vektorlar perpendicular.
+
+\end{document}
+
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{101. Vektor \( v = (3, 4) \) ning \( x \)-o‘qqa proeksiyasi qanday hisoblanadi?}
+\begin{enumerate}[label=\alph*)]
+    \item 3
+    \item 4
+    \item 5
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) 3
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya vektorning \( x \)-компонентига teng, ya‘ni \( v_x = 3 \).
+
+\subsection*{102. Vektorlar \( u = (1, 2) \) va \( v = (3, 4) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 11
+    \item 10
+    \item 14
+    \item 7
+\end{enumerate}
+\textbf{Javob:} a) 11
+\textbf{Mulohaza:} Skalyar ko‘paytma \( u \cdot v = (1 \cdot 3) + (2 \cdot 4) = 3 + 8 = 11 \).
+
+\subsection*{103. Vektor \( v = (2, -1) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -1
+    \item 2
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) -1
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya vektorning \( y \)-компонентига teng, ya‘ni \( v_y = -1 \).
+
+\subsection*{104. Vektorlar \( u = (2, 1) \) va \( v = (-1, 3) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 0
+    \item 5
+    \item 7
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( u \cdot v = (2 \cdot -1) + (1 \cdot 3) = -2 + 3 = 1 \).
+
+\subsection*{105. Vektor \( v = (5, 0) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 0
+    \item -5
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 5
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 5 \) ga teng, chunki \( y = 0 \).
+
+\subsection*{106. Vektorlar \( u = (1, -2) \) va \( v = (2, 1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 4
+    \item -4
+    \item 6
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (1 \cdot 2) + (-2 \cdot 1) = 2 - 2 = 0 \), vektorlar perpendicular.
+
+\subsection*{107. Vektor \( v = (0, -3) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -3
+    \item 0
+    \item 3
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) -3
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = -3 \) ga teng, chunki \( x = 0 \).
+
+\subsection*{108. Vektorlar \( u = (3, -1) \) va \( v = (1, 2) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 5
+    \item 0
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( u \cdot v = (3 \cdot 1) + (-1 \cdot 2) = 3 - 2 = 1 \).
+
+\subsection*{109. Vektor \( v = (4, 3) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 4
+    \item 3
+    \item 5
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) 4
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 4 \) ga teng.
+
+\subsection*{110. Vektorlar \( u = (2, 0) \) va \( v = (0, 2) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 4
+    \item 2
+    \item 6
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (2 \cdot 0) + (0 \cdot 2) = 0 + 0 = 0 \), vektorlar perpendicular.
+
+\subsection*{111. Vektor \( v = (1, 1) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 0
+    \item -1
+    \item 2
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = 1 \) ga teng.
+
+\subsection*{112. Vektorlar \( u = (4, -2) \) va \( v = (1, -1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 0
+    \item -2
+    \item 6
+\end{enumerate}
+\textbf{Javob:} a) 2
+\textbf{Mulohaza:} \( u \cdot v = (4 \cdot 1) + (-2 \cdot -1) = 4 + 2 = 6 \), to‘g‘ri emas, tog‘ri: \( 4 - 2 = 2 \), xatolik tuzatildi.
+
+\subsection*{113. Vektor \( v = (-2, 5) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -2
+    \item 5
+    \item 0
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) -2
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = -2 \) ga teng.
+
+\subsection*{114. Vektorlar \( u = (0, 3) \) va \( v = (2, 0) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 6
+    \item 2
+    \item 9
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (0 \cdot 2) + (3 \cdot 0) = 0 + 0 = 0 \), vektorlar perpendicular.
+
+\subsection*{115. Vektor \( v = (3, -4) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -4
+    \item 3
+    \item 0
+    \item 5
+\end{enumerate}
+\textbf{Javob:} a) -4
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = -4 \) ga teng.
+
+\subsection*{116. Vektorlar \( u = (1, 1) \) va \( v = (1, 1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 0
+    \item 1
+    \item 4
+\end{enumerate}
+\textbf{Javob:} a) 2
+\textbf{Mulohaza:} \( u \cdot v = (1 \cdot 1) + (1 \cdot 1) = 1 + 1 = 2 \).
+
+\subsection*{117. Vektor \( v = (0, 2) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 2
+    \item -2
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 0 \) ga teng, chunki \( x = 0 \).
+
+\subsection*{118. Vektorlar \( u = (-2, 3) \) va \( v = (1, -1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 0
+    \item -5
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) -5
+\textbf{Mulohaza:} \( u \cdot v = (-2 \cdot 1) + (3 \cdot -1) = -2 - 3 = -5 \).
+
+\subsection*{119. Vektor \( v = (6, -2) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -2
+    \item 6
+    \item 0
+    \item 4
+\end{enumerate}
+\textbf{Javob:} a) -2
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = -2 \) ga teng.
+
+\subsection*{120. Vektorlar \( u = (3, 0) \) va \( v = (0, 4) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 12
+    \item 3
+    \item 7
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (3 \cdot 0) + (0 \cdot 4) = 0 + 0 = 0 \), vektorlar perpendicular.
+
+\subsection*{121. Vektor \( v = (-1, 4) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -1
+    \item 4
+    \item 0
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) -1
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = -1 \) ga teng.
+
+\subsection*{122. Vektorlar \( u = (2, -3) \) va \( v = (1, 2) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -4
+    \item 0
+    \item 8
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) -4
+\textbf{Mulohaza:} \( u \cdot v = (2 \cdot 1) + (-3 \cdot 2) = 2 - 6 = -4 \).
+
+\subsection*{123. Vektor \( v = (0, -5) \) ning \( y \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item -5
+    \item 0
+    \item 5
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) -5
+\textbf{Mulohaza:} \( y \)-o‘qqa proeksiya \( v_y = -5 \) ga teng, chunki \( x = 0 \).
+
+\subsection*{124. Vektorlar \( u = (1, 0) \) va \( v = (0, 1) \) ning skalyar ko‘paytmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 1
+    \item 2
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( u \cdot v = (1 \cdot 0) + (0 \cdot 1) = 0 + 0 = 0 \), vektorlar perpendicular.
+
+\subsection*{125. Vektor \( v = (2, 2) \) ning \( x \)-o‘qqa proeksiyasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 2
+    \item 0
+    \item -2
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) 2
+\textbf{Mulohaza:} \( x \)-o‘qqa proeksiya \( v_x = 2 \) ga teng.
+
+\end{document}

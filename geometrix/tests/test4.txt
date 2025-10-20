@@ -1,0 +1,1119 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{enumitem}
+
+\title{30 ta Test: Tekislikda va Fazoda Affin va Dekart Koordinatalar Sistemasi}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{1. Dekart koordinatalar sistemasida nuqta \( A(2, 3) \) ning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (2, 3) \)
+    \item \( (3, 2) \)
+    \item \( (1, 1) \)
+    \item \( (0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (2, 3) \)
+
+\subsection*{2. Affin koordinatalar sistemasida nuqta \( A \) ga \( (1, 2) \) koordinatalar berilgan bo‘lsa, u Dekart koordinatalarida qayerda joylashadi?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (1, 2) \)
+    \item \( (2, 1) \)
+    \item \( (0, 1) \)
+    \item \( (1, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (1, 2) \)
+
+\subsection*{3. Fazoda nuqta \( B(1, -2, 3) \) Dekart koordinatalarida qayerda joylashadi?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (1, -2, 3) \)
+    \item \( (-2, 1, 3) \)
+    \item \( (3, 1, -2) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (1, -2, 3) \)
+
+\subsection*{4. Affin koordinatalar sistemasi tekislikda kelgan nuqta \( P(0.5, 0.5) \) ni ifodalaydimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{5. Dekart koordinatalarida \( x = 2, y = -1 \) bo‘lgan nuqta qayerda joylashadi?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (2, -1) \)
+    \item \( (-1, 2) \)
+    \item \( (1, -1) \)
+    \item \( (0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (2, -1) \)
+
+\subsection*{6. Fazoda affin koordinatalar sistemasida \( A(0.3, 0.4, 0.3) \) ni Dekart koordinatalarida ifodalash mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{7. Dekart koordinatalarida \( P(3, 4, 5) \) nuqta fazoda qayerda joylashadi?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (3, 4, 5) \)
+    \item \( (4, 3, 5) \)
+    \item \( (5, 4, 3) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (3, 4, 5) \)
+
+\subsection*{8. Affin koordinatalar sistemasida \( Q(0.2, 0.8) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.2, 0.8) \)
+    \item \( (0.8, 0.2) \)
+    \item \( (1, 0) \)
+    \item \( (0, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.2, 0.8) \)
+
+\subsection*{9. Tekislikda Dekart koordinatalari \( (1, -3) \) bo‘lgan nuqta affin koordinatalarda qanday ifodalanadi?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (1, -3) \)
+    \item \( (-3, 1) \)
+    \item \( (0, -3) \)
+    \item \( (1, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (1, -3) \)
+
+\subsection*{10. Fazoda \( A(2, 0, -1) \) nuqta Dekart koordinatalarida qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (2, 0, -1) \)
+    \item \( (0, 2, -1) \)
+    \item \( (-1, 2, 0) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (2, 0, -1) \)
+
+\subsection*{11. Affin koordinatalar sistemasida \( P(0.6, 0.4) \) ni Dekart koordinatalariga o‘tkazish mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{12. Dekart koordinatalarida \( x = -2, y = 5, z = 1 \) bo‘lgan nuqta qayerda?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-2, 5, 1) \)
+    \item \( (5, -2, 1) \)
+    \item \( (1, -2, 5) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-2, 5, 1) \)
+
+\subsection*{13. Affin koordinatalarida \( Q(0.1, 0.9, 0.0) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.1, 0.9, 0) \)
+    \item \( (0.9, 0.1, 0) \)
+    \item \( (0, 0.1, 0.9) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.1, 0.9, 0) \)
+
+\subsection*{14. Tekislikda Dekart koordinatalari \( (0, 4) \) bo‘lgan nuqta affin koordinatalarda qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0, 4) \)
+    \item \( (4, 0) \)
+    \item \( (0, 0) \)
+    \item \( (1, 4) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0, 4) \)
+
+\subsection*{15. Fazoda affin koordinatalar sistemasida \( A(0.5, 0.3, 0.2) \) ni Dekart koordinatalarida ifodalash mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{16. Dekart koordinatalarida \( P(-1, 2, 3) \) nuqta qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-1, 2, 3) \)
+    \item \( (2, -1, 3) \)
+    \item \( (3, -1, 2) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-1, 2, 3) \)
+
+\subsection*{17. Affin koordinatalarida \( Q(0.7, 0.3) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.7, 0.3) \)
+    \item \( (0.3, 0.7) \)
+    \item \( (1, 0) \)
+    \item \( (0, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.7, 0.3) \)
+
+\subsection*{18. Tekislikda Dekart koordinatalari \( (-3, 1) \) bo‘lgan nuqta affin koordinatalarda qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-3, 1) \)
+    \item \( (1, -3) \)
+    \item \( (0, -3) \)
+    \item \( (-3, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-3, 1) \)
+
+\subsection*{19. Fazoda \( A(0, 0, 5) \) nuqta Dekart koordinatalarida qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0, 0, 5) \)
+    \item \( (5, 0, 0) \)
+    \item \( (0, 5, 0) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0, 0, 5) \)
+
+\subsection*{20. Affin koordinatalar sistemasida \( P(0.4, 0.6, 0.0) \) ni Dekart koordinatalariga o‘tkazish mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{21. Dekart koordinatalarida \( x = 4, y = -2 \) bo‘lgan nuqta qayerda?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (4, -2) \)
+    \item \( (-2, 4) \)
+    \item \( (2, -4) \)
+    \item \( (0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (4, -2) \)
+
+\subsection*{22. Affin koordinatalarida \( Q(0.9, 0.1) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.9, 0.1) \)
+    \item \( (0.1, 0.9) \)
+    \item \( (1, 0) \)
+    \item \( (0, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.9, 0.1) \)
+
+\subsection*{23. Tekislikda Dekart koordinatalari \( (2, 0) \) bo‘lgan nuqta affin koordinatalarda qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (2, 0) \)
+    \item \( (0, 2) \)
+    \item \( (0, 0) \)
+    \item \( (1, 2) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (2, 0) \)
+
+\subsection*{24. Fazoda affin koordinatalar sistemasida \( A(0.2, 0.5, 0.3) \) ni Dekart koordinatalarida ifodalash mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{25. Dekart koordinatalarida \( P(1, -1, 2) \) nuqta qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (1, -1, 2) \)
+    \item \( (-1, 1, 2) \)
+    \item \( (2, 1, -1) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (1, -1, 2) \)
+
+\subsection*{26. Affin koordinatalarida \( Q(0.3, 0.7, 0.0) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.3, 0.7, 0) \)
+    \item \( (0.7, 0.3, 0) \)
+    \item \( (0, 0.3, 0.7) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.3, 0.7, 0) \)
+
+\subsection*{27. Tekislikda Dekart koordinatalari \( (-1, 3) \) bo‘lgan nuqta affin koordinatalarda qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-1, 3) \)
+    \item \( (3, -1) \)
+    \item \( (0, -1) \)
+    \item \( (-1, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-1, 3) \)
+
+\subsection*{28. Fazoda \( A(-2, 3, 0) \) nuqta Dekart koordinatalarida qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-2, 3, 0) \)
+    \item \( (3, -2, 0) \)
+    \item \( (0, -2, 3) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-2, 3, 0) \)
+
+\subsection*{29. Affin koordinatalar sistemasida \( P(0.8, 0.2) \) ni Dekart koordinatalariga o‘tkazish mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{30. Dekart koordinatalarida \( x = 0, y = 5, z = -3 \) bo‘lgan nuqta qayerda?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0, 5, -3) \)
+    \item \( (5, 0, -3) \)
+    \item \( (-3, 5, 0) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0, 5, -3) \)
+
+\end{document}
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{31. Dekart koordinatalarida nuqta \( A(4, -2) \) ning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (4, -2) \)
+    \item \( (-2, 4) \)
+    \item \( (2, -4) \)
+    \item \( (0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (4, -2) \)
+
+\subsection*{32. Affin koordinatalar sistemasida nuqta \( A(0.3, 0.7) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.3, 0.7) \)
+    \item \( (0.7, 0.3) \)
+    \item \( (1, 0) \)
+    \item \( (0, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.3, 0.7) \)
+
+\subsection*{33. Fazoda nuqta \( B(-1, 3, -2) \) Dekart koordinatalarida qayerda joylashadi?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-1, 3, -2) \)
+    \item \( (3, -1, -2) \)
+    \item \( (-2, -1, 3) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-1, 3, -2) \)
+
+\subsection*{34. Affin koordinatalar sistemasida \( P(0.4, 0.6) \) ni Dekart koordinatalarida ifodalaydimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{35. Dekart koordinatalarida \( x = -3, y = 1 \) bo‘lgan nuqta qayerda joylashadi?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-3, 1) \)
+    \item \( (1, -3) \)
+    \item \( (3, -1) \)
+    \item \( (0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-3, 1) \)
+
+\subsection*{36. Fazoda affin koordinatalar sistemasida \( A(0.1, 0.4, 0.5) \) ni Dekart koordinatalarida ifodalash mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{37. Dekart koordinatalarida \( P(2, -4, 1) \) nuqta fazoda qayerda joylashadi?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (2, -4, 1) \)
+    \item \( (-4, 2, 1) \)
+    \item \( (1, 2, -4) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (2, -4, 1) \)
+
+\subsection*{38. Affin koordinatalar sistemasida \( Q(0.8, 0.2) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.8, 0.2) \)
+    \item \( (0.2, 0.8) \)
+    \item \( (1, 0) \)
+    \item \( (0, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.8, 0.2) \)
+
+\subsection*{39. Tekislikda Dekart koordinatalari \( (0, -5) \) bo‘lgan nuqta affin koordinatalarda qanday ifodalanadi?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0, -5) \)
+    \item \( (-5, 0) \)
+    \item \( (0, 0) \)
+    \item \( (1, -5) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0, -5) \)
+
+\subsection*{40. Fazoda \( A(3, -1, 0) \) nuqta Dekart koordinatalarida qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (3, -1, 0) \)
+    \item \( (-1, 3, 0) \)
+    \item \( (0, 3, -1) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (3, -1, 0) \)
+
+\subsection*{41. Affin koordinatalar sistemasida \( P(0.9, 0.1, 0.0) \) ni Dekart koordinatalariga o‘tkazish mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{42. Dekart koordinatalarida \( x = 1, y = -4, z = 2 \) bo‘lgan nuqta qayerda?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (1, -4, 2) \)
+    \item \( (-4, 1, 2) \)
+    \item \( (2, 1, -4) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (1, -4, 2) \)
+
+\subsection*{43. Affin koordinatalarida \( Q(0.2, 0.6, 0.2) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.2, 0.6, 0.2) \)
+    \item \( (0.6, 0.2, 0.2) \)
+    \item \( (0.2, 0.2, 0.6) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.2, 0.6, 0.2) \)
+
+\subsection*{44. Tekislikda Dekart koordinatalari \( (3, 0) \) bo‘lgan nuqta affin koordinatalarda qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (3, 0) \)
+    \item \( (0, 3) \)
+    \item \( (0, 0) \)
+    \item \( (1, 3) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (3, 0) \)
+
+\subsection*{45. Fazoda affin koordinatalar sistemasida \( A(0.6, 0.2, 0.2) \) ni Dekart koordinatalarida ifodalash mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{46. Dekart koordinatalarida \( P(-2, 1, -3) \) nuqta qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-2, 1, -3) \)
+    \item \( (1, -2, -3) \)
+    \item \( (-3, -2, 1) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-2, 1, -3) \)
+
+\subsection*{47. Affin koordinatalarida \( Q(0.5, 0.5) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.5, 0.5) \)
+    \item \( (0.5, 0.5) \)
+    \item \( (1, 0) \)
+    \item \( (0, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.5, 0.5) \)
+
+\subsection*{48. Tekislikda Dekart koordinatalari \( (-4, 2) \) bo‘lgan nuqta affin koordinatalarda qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-4, 2) \)
+    \item \( (2, -4) \)
+    \item \( (0, -4) \)
+    \item \( (-4, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-4, 2) \)
+
+\subsection*{49. Fazoda \( A(1, 0, -4) \) nuqta Dekart koordinatalarida qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (1, 0, -4) \)
+    \item \( (0, 1, -4) \)
+    \item \( (-4, 1, 0) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (1, 0, -4) \)
+
+\subsection*{50. Affin koordinatalar sistemasida \( P(0.3, 0.5, 0.2) \) ni Dekart koordinatalariga o‘tkazish mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{51. Dekart koordinatalarida \( x = 5, y = -1 \) bo‘lgan nuqta qayerda?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (5, -1) \)
+    \item \( (-1, 5) \)
+    \item \( (1, -5) \)
+    \item \( (0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (5, -1) \)
+
+\subsection*{52. Affin koordinatalarida \( Q(0.1, 0.8, 0.1) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.1, 0.8, 0.1) \)
+    \item \( (0.8, 0.1, 0.1) \)
+    \item \( (0.1, 0.1, 0.8) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.1, 0.8, 0.1) \)
+
+\subsection*{53. Tekislikda Dekart koordinatalari \( (0, 2) \) bo‘lgan nuqta affin koordinatalarda qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0, 2) \)
+    \item \( (2, 0) \)
+    \item \( (0, 0) \)
+    \item \( (1, 2) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0, 2) \)
+
+\subsection*{54. Fazoda affin koordinatalar sistemasida \( A(0.7, 0.1, 0.2) \) ni Dekart koordinatalarida ifodalash mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{55. Dekart koordinatalarida \( P(3, -3, 4) \) nuqta qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (3, -3, 4) \)
+    \item \( (-3, 3, 4) \)
+    \item \( (4, 3, -3) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (3, -3, 4) \)
+
+\subsection*{56. Affin koordinatalarida \( Q(0.6, 0.4) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.6, 0.4) \)
+    \item \( (0.4, 0.6) \)
+    \item \( (1, 0) \)
+    \item \( (0, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.6, 0.4) \)
+
+\subsection*{57. Tekislikda Dekart koordinatalari \( (-2, 0) \) bo‘lgan nuqta affin koordinatalarda qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-2, 0) \)
+    \item \( (0, -2) \)
+    \item \( (0, 0) \)
+    \item \( (1, -2) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-2, 0) \)
+
+\subsection*{58. Fazoda \( A(-3, 0, 2) \) nuqta Dekart koordinatalarida qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-3, 0, 2) \)
+    \item \( (0, -3, 2) \)
+    \item \( (2, -3, 0) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-3, 0, 2) \)
+
+\subsection*{59. Affin koordinatalar sistemasida \( P(0.2, 0.7, 0.1) \) ni Dekart koordinatalariga o‘tkazish mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{60. Dekart koordinatalarida \( x = -1, y = 0, z = 6 \) bo‘lgan nuqta qayerda?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-1, 0, 6) \)
+    \item \( (0, -1, 6) \)
+    \item \( (6, -1, 0) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-1, 0, 6) \)
+
+\end{document}
+
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{enumitem}
+
+\title{30 ta Test: Tekislikda va Fazoda Affin va Dekart Koordinatalar Sistemasi (61-90)}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{61. Dekart koordinatalarida nuqta \( A(1, 6) \) ning koordinatalari qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (1, 6) \)
+    \item \( (6, 1) \)
+    \item \( (0, 1) \)
+    \item \( (0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (1, 6) \)
+
+\subsection*{62. Affin koordinatalar sistemasida nuqta \( A(0.4, 0.6) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.4, 0.6) \)
+    \item \( (0.6, 0.4) \)
+    \item \( (1, 0) \)
+    \item \( (0, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.4, 0.6) \)
+
+\subsection*{63. Fazoda nuqta \( B(0, -3, 4) \) Dekart koordinatalarida qayerda joylashadi?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0, -3, 4) \)
+    \item \( (-3, 0, 4) \)
+    \item \( (4, 0, -3) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0, -3, 4) \)
+
+\subsection*{64. Affin koordinatalar sistemasida \( P(0.2, 0.8) \) ni Dekart koordinatalarida ifodalaydimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{65. Dekart koordinatalarida \( x = 2, y = 0 \) bo‘lgan nuqta qayerda joylashadi?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (2, 0) \)
+    \item \( (0, 2) \)
+    \item \( (1, 0) \)
+    \item \( (0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (2, 0) \)
+
+\subsection*{66. Fazoda affin koordinatalar sistemasida \( A(0.5, 0.3, 0.2) \) ni Dekart koordinatalarida ifodalash mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{67. Dekart koordinatalarida \( P(4, 1, -2) \) nuqta fazoda qayerda joylashadi?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (4, 1, -2) \)
+    \item \( (1, 4, -2) \)
+    \item \( (-2, 4, 1) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (4, 1, -2) \)
+
+\subsection*{68. Affin koordinatalar sistemasida \( Q(0.9, 0.1) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.9, 0.1) \)
+    \item \( (0.1, 0.9) \)
+    \item \( (1, 0) \)
+    \item \( (0, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.9, 0.1) \)
+
+\subsection*{69. Tekislikda Dekart koordinatalari \( (-1, -4) \) bo‘lgan nuqta affin koordinatalarda qanday ifodalanadi?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-1, -4) \)
+    \item \( (-4, -1) \)
+    \item \( (0, -1) \)
+    \item \( (-1, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-1, -4) \)
+
+\subsection*{70. Fazoda \( A(-2, 0, 1) \) nuqta Dekart koordinatalarida qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-2, 0, 1) \)
+    \item \( (0, -2, 1) \)
+    \item \( (1, -2, 0) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-2, 0, 1) \)
+
+\subsection*{71. Affin koordinatalar sistemasida \( P(0.6, 0.4, 0.0) \) ni Dekart koordinatalariga o‘tkazish mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{72. Dekart koordinatalarida \( x = -4, y = 3, z = 0 \) bo‘lgan nuqta qayerda?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-4, 3, 0) \)
+    \item \( (3, -4, 0) \)
+    \item \( (0, -4, 3) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-4, 3, 0) \)
+
+\subsection*{73. Affin koordinatalarida \( Q(0.3, 0.5, 0.2) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.3, 0.5, 0.2) \)
+    \item \( (0.5, 0.3, 0.2) \)
+    \item \( (0.2, 0.3, 0.5) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.3, 0.5, 0.2) \)
+
+\subsection*{74. Tekislikda Dekart koordinatalari \( (5, 0) \) bo‘lgan nuqta affin koordinatalarda qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (5, 0) \)
+    \item \( (0, 5) \)
+    \item \( (0, 0) \)
+    \item \( (1, 5) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (5, 0) \)
+
+\subsection*{75. Fazoda affin koordinatalar sistemasida \( A(0.1, 0.8, 0.1) \) ni Dekart koordinatalarida ifodalash mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{76. Dekart koordinatalarida \( P(0, 2, -1) \) nuqta qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0, 2, -1) \)
+    \item \( (2, 0, -1) \)
+    \item \( (-1, 2, 0) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0, 2, -1) \)
+
+\subsection*{77. Affin koordinatalarida \( Q(0.7, 0.3) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.7, 0.3) \)
+    \item \( (0.3, 0.7) \)
+    \item \( (1, 0) \)
+    \item \( (0, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.7, 0.3) \)
+
+\subsection*{78. Tekislikda Dekart koordinatalari \( (0, -3) \) bo‘lgan nuqta affin koordinatalarda qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0, -3) \)
+    \item \( (-3, 0) \)
+    \item \( (0, 0) \)
+    \item \( (1, -3) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0, -3) \)
+
+\subsection*{79. Fazoda \( A(2, -5, 3) \) nuqta Dekart koordinatalarida qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (2, -5, 3) \)
+    \item \( (-5, 2, 3) \)
+    \item \( (3, 2, -5) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (2, -5, 3) \)
+
+\subsection*{80. Affin koordinatalar sistemasida \( P(0.5, 0.4, 0.1) \) ni Dekart koordinatalariga o‘tkazish mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{81. Dekart koordinatalarida \( x = -5, y = 2 \) bo‘lgan nuqta qayerda?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-5, 2) \)
+    \item \( (2, -5) \)
+    \item \( (5, -2) \)
+    \item \( (0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-5, 2) \)
+
+\subsection*{82. Affin koordinatalarida \( Q(0.1, 0.9) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.1, 0.9) \)
+    \item \( (0.9, 0.1) \)
+    \item \( (1, 0) \)
+    \item \( (0, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.1, 0.9) \)
+
+\subsection*{83. Tekislikda Dekart koordinatalari \( (1, -1) \) bo‘lgan nuqta affin koordinatalarda qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (1, -1) \)
+    \item \( (-1, 1) \)
+    \item \( (0, 1) \)
+    \item \( (1, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (1, -1) \)
+
+\subsection*{84. Fazoda affin koordinatalar sistemasida \( A(0.3, 0.6, 0.1) \) ni Dekart koordinatalarida ifodalash mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{85. Dekart koordinatalarida \( P(3, 0, -4) \) nuqta qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (3, 0, -4) \)
+    \item \( (0, 3, -4) \)
+    \item \( (-4, 3, 0) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (3, 0, -4) \)
+
+\subsection*{86. Affin koordinatalarida \( Q(0.8, 0.2) \) ni Dekart koordinatalarida qayerda topamiz?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.8, 0.2) \)
+    \item \( (0.2, 0.8) \)
+    \item \( (1, 0) \)
+    \item \( (0, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.8, 0.2) \)
+
+\subsection*{87. Tekislikda Dekart koordinatalari \( (-2, 3) \) bo‘lgan nuqta affin koordinatalarda qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-2, 3) \)
+    \item \( (3, -2) \)
+    \item \( (0, -2) \)
+    \item \( (-2, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-2, 3) \)
+
+\subsection*{88. Fazoda \( A(0, 4, -1) \) nuqta Dekart koordinatalarida qayerda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0, 4, -1) \)
+    \item \( (4, 0, -1) \)
+    \item \( (-1, 4, 0) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0, 4, -1) \)
+
+\subsection*{89. Affin koordinatalar sistemasida \( P(0.4, 0.5, 0.1) \) ni Dekart koordinatalariga o‘tkazish mumkinmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+\end{enumerate}
+\textbf{Javob:} a) Ha
+
+\subsection*{90. Dekart koordinatalarida \( x = 1, y = -2, z = 5 \) bo‘lgan nuqta qayerda?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (1, -2, 5) \)
+    \item \( (-2, 1, 5) \)
+    \item \( (5, 1, -2) \)
+    \item \( (0, 0, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (1, -2, 5) \)
+
+\end{document}
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{91. Dekart koordinatalar sistemasida nuqta \( A(2, 3) \) ning koordinatalari to‘g‘ri yozilganmi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+    \item Qisman to‘g‘ri
+    \item Noma’lum
+\end{enumerate}
+\textbf{Javob:} a) Ha
+\textbf{Mulohaza:} Dekart koordinatalari \( (x, y) \) shaklida yozilishi kerak, shuning uchun \( (2, 3) \) to‘g‘ri.
+
+\subsection*{92. Affin koordinatalar sistemasida nuqta \( A(0.5, 0.5) \) Dekart koordinatalariga teng bo‘ladimi?}
+\begin{enumerate}[label=\alph*)]
+    \item Ha
+    \item Yo‘q
+    \item Faqat \( x \) teng
+    \item Faqat \( y \) teng
+\end{enumerate}
+\textbf{Javob:} a) Ha
+\textbf{Mulohaza:} Affin koordinatalari o‘xshashlikda Dekart koordinatalariga teng bo‘lishi mumkin, bu holatda \( (0.5, 0.5) \) to‘g‘ri.
+
+\subsection*{93. Fazoda nuqta \( B(1, -2, 3) \) Dekart koordinatalar sistemasida qaysi o‘lchovda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item 3-o‘lchov
+    \item 2-o‘lchov
+    \item 1-o‘lchov
+    \item 4-o‘lchov
+\end{enumerate}
+\textbf{Javob:} a) 3-o‘lchov
+\textbf{Mulohaza:} 3 ta koordinata (\( x, y, z \)) borligi sababli, bu 3-o‘lchovli fazodir.
+
+\subsection*{94. Tekislikda \( (0, 0) \) nuqta qaysi koordinata to‘plamda joylashadi?}
+\begin{enumerate}[label=\alph*)]
+    \item Kelib chiqish nuqtasi
+    \item Chegaraviy nuqta
+    \item Markaziy nuqta
+    \item Orqa nuqta
+\end{enumerate}
+\textbf{Javob:} a) Kelib chiqish nuqtasi
+\textbf{Mulohaza:} Dekart koordinatalarida \( (0, 0) \) umumiy kelib chiqish nuqtasidir.
+
+\subsection*{95. Affin koordinatalari \( (0.3, 0.7) \) ni Dekart sistemasida qaysi shaklda yozish mumkin?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.3, 0.7) \)
+    \item \( (0.7, 0.3) \)
+    \item \( (0.3, 0.3) \)
+    \item \( (0.7, 0.7) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.3, 0.7) \)
+\textbf{Mulohaza:} Affin koordinatalari o‘xshashlikda Dekart koordinatalariga teng bo‘lib, tartib o‘zgarmaydi.
+
+\subsection*{96. Dekart koordinatalari \( (1, -1, 2) \) fazoda qaysi o‘lchovga tegishli?}
+\begin{enumerate}[label=\alph*)]
+    \item 3-o‘lchov
+    \item 2-o‘lchov
+    \item 1-o‘lchov
+    \item 0-o‘lchov
+\end{enumerate}
+\textbf{Javob:} a) 3-o‘lchov
+\textbf{Mulohaza:} 3 ta koordinata (\( x, y, z \)) mavjud, shuning uchun 3-o‘lchovli.
+
+\subsection*{97. Tekislikda \( (4, 0) \) nuqta qaysi o‘q bo‘ylab joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( x \)-o‘q
+    \item \( y \)-o‘q
+    \item \( z \)-o‘q
+    \item Diagonal o‘q
+\end{enumerate}
+\textbf{Javob:} a) \( x \)-o‘q
+\textbf{Mulohaza:} \( y = 0 \) bo‘lganligi sababli, nuqta \( x \)-o‘q da joylashgan.
+
+\subsection*{98. Affin koordinatalari \( (0.6, 0.4) \) ni Dekart koordinatalarida qaysi shaklda ko‘rsatish mumkin?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.6, 0.4) \)
+    \item \( (0.4, 0.6) \)
+    \item \( (0.6, 0.6) \)
+    \item \( (0.4, 0.4) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.6, 0.4) \)
+\textbf{Mulohaza:} Affin koordinatalari Dekart koordinatalariga to‘g‘ri kelgan holda o‘zgarmaydi.
+
+\subsection*{99. Fazoda \( (0, 0, 5) \) nuqta qaysi o‘qda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( z \)-o‘q
+    \item \( x \)-o‘q
+    \item \( y \)-o‘q
+    \item Diagonal o‘q
+\end{enumerate}
+\textbf{Javob:} a) \( z \)-o‘q
+\textbf{Mulohaza:} \( x = 0 \) va \( y = 0 \) bo‘lganligi sababli, nuqta \( z \)-o‘q da joylashgan.
+
+\subsection*{100. Dekart koordinatalari \( (0, 2) \) tekislikda qaysi o‘qda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( y \)-o‘q
+    \item \( x \)-o‘q
+    \item \( z \)-o‘q
+    \item Markaziy o‘q
+\end{enumerate}
+\textbf{Javob:} a) \( y \)-o‘q
+\textbf{Mulohaza:} \( x = 0 \) bo‘lganligi sababli, nuqta \( y \)-o‘q da joylashgan.
+
+\subsection*{101. Affin koordinatalari \( (0.2, 0.8, 0.0) \) ni 3-o‘lchovli Dekart sistemasida qaysi shaklda ko‘rsatish mumkin?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.2, 0.8, 0.0) \)
+    \item \( (0.8, 0.2, 0.0) \)
+    \item \( (0.2, 0.0, 0.8) \)
+    \item \( (0.0, 0.2, 0.8) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.2, 0.8, 0.0) \)
+\textbf{Mulohaza:} Affin koordinatalari Dekart koordinatalariga teng bo‘lib, tartib o‘zgarmaydi.
+
+\subsection*{102. Dekart koordinatalari \( (-3, 4, 0) \) fazoda qaysi tekislikda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( xy \)-tekisligi
+    \item \( yz \)-tekisligi
+    \item \( xz \)-tekisligi
+    \item Diagonal tekisligi
+\end{enumerate}
+\textbf{Javob:} a) \( xy \)-tekisligi
+\textbf{Mulohaza:} \( z = 0 \) bo‘lganligi sababli, nuqta \( xy \)-tekisligida joylashgan.
+
+\subsection*{103. Tekislikda \( (-1, 0) \) nuqta qaysi o‘qda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( x \)-o‘q
+    \item \( y \)-o‘q
+    \item \( z \)-o‘q
+    \item Markaziy o‘q
+\end{enumerate}
+\textbf{Javob:} a) \( x \)-o‘q
+\textbf{Mulohaza:} \( y = 0 \) bo‘lganligi sababli, nuqta \( x \)-o‘q da joylashgan.
+
+\subsection*{104. Affin koordinatalari \( (0.9, 0.1) \) ni Dekart sistemasida qaysi shaklda ko‘rsatish mumkin?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.9, 0.1) \)
+    \item \( (0.1, 0.9) \)
+    \item \( (0.9, 0.9) \)
+    \item \( (0.1, 0.1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.9, 0.1) \)
+\textbf{Mulohaza:} Affin koordinatalari Dekart koordinatalariga to‘g‘ri kelgan holda o‘zgarmaydi.
+
+\subsection*{105. Fazoda \( (0, -2, 0) \) nuqta qaysi tekislikda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( xy \)-tekisligi
+    \item \( xz \)-tekisligi
+    \item \( yz \)-tekisligi
+    \item Diagonal tekisligi
+\end{enumerate}
+\textbf{Javob:} a) \( xy \)-tekisligi
+\textbf{Mulohaza:} \( z = 0 \) bo‘lganligi sababli, nuqta \( xy \)-tekisligida joylashgan.
+
+\subsection*{106. Dekart koordinatalari \( (5, 0, 0) \) qaysi o‘qda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( x \)-o‘q
+    \item \( y \)-o‘q
+    \item \( z \)-o‘q
+    \item Markaziy o‘q
+\end{enumerate}
+\textbf{Javob:} a) \( x \)-o‘q
+\textbf{Mulohaza:} \( y = 0 \) va \( z = 0 \) bo‘lganligi sababli, nuqta \( x \)-o‘q da joylashgan.
+
+\subsection*{107. Affin koordinatalari \( (0.4, 0.6, 0.0) \) ni Dekart sistemasida qaysi shaklda ko‘rsatish mumkin?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.4, 0.6, 0.0) \)
+    \item \( (0.6, 0.4, 0.0) \)
+    \item \( (0.4, 0.0, 0.6) \)
+    \item \( (0.0, 0.6, 0.4) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.4, 0.6, 0.0) \)
+\textbf{Mulohaza:} Affin koordinatalari Dekart koordinatalariga teng bo‘lib, tartib o‘zgarmaydi.
+
+\subsection*{108. Tekislikda \( (0, -3) \) nuqta qaysi o‘qda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( y \)-o‘q
+    \item \( x \)-o‘q
+    \item \( z \)-o‘q
+    \item Diagonal o‘q
+\end{enumerate}
+\textbf{Javob:} a) \( y \)-o‘q
+\textbf{Mulohaza:} \( x = 0 \) bo‘lganligi sababli, nuqta \( y \)-o‘q da joylashgan.
+
+\subsection*{109. Fazoda \( (-1, 0, 0) \) nuqta qaysi o‘qda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( x \)-o‘q
+    \item \( z \)-o‘q
+    \item \( y \)-o‘q
+    \item Diagonal o‘q
+\end{enumerate}
+\textbf{Javob:} a) \( x \)-o‘q
+\textbf{Mulohaza:} \( y = 0 \) va \( z = 0 \) bo‘lganligi sababli, nuqta \( x \)-o‘q da joylashgan.
+
+\subsection*{110. Dekart koordinatalari \( (0, 1, 0) \) qaysi tekislikda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( xy \)-tekisligi
+    \item \( yz \)-tekisligi
+    \item \( xz \)-tekisligi
+    \item Diagonal tekisligi
+\end{enumerate}
+\textbf{Javob:} a) \( xy \)-tekisligi
+\textbf{Mulohaza:} \( z = 0 \) bo‘lganligi sababli, nuqta \( xy \)-tekisligida joylashgan.
+
+\subsection*{111. Affin koordinatalari \( (0.7, 0.3) \) ni Dekart sistemasida qaysi shaklda ko‘rsatish mumkin?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.7, 0.3) \)
+    \item \( (0.3, 0.7) \)
+    \item \( (0.7, 0.7) \)
+    \item \( (0.3, 0.3) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.7, 0.3) \)
+\textbf{Mulohaza:} Affin koordinatalari Dekart koordinatalariga to‘g‘ri kelgan holda o‘zgarmaydi.
+
+\subsection*{112. Fazoda \( (0, 0, -4) \) nuqta qaysi o‘qda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( z \)-o‘q
+    \item \( x \)-o‘q
+    \item \( y \)-o‘q
+    \item Diagonal o‘q
+\end{enumerate}
+\textbf{Javob:} a) \( z \)-o‘q
+\textbf{Mulohaza:} \( x = 0 \) va \( y = 0 \) bo‘lganligi sababli, nuqta \( z \)-o‘q da joylashgan.
+
+\subsection*{113. Dekart koordinatalari \( (-2, 0) \) tekislikда qaysi o‘qda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( x \)-o‘q
+    \item \( y \)-o‘q
+    \item \( z \)-o‘q
+    \item Markaziy o‘q
+\end{enumerate}
+\textbf{Javob:} a) \( x \)-o‘q
+\textbf{Mulohaza:} \( y = 0 \) bo‘lganligi sababli, nuqta \( x \)-o‘q da joylashgan.
+
+\subsection*{114. Affin koordinatalari \( (0.1, 0.9, 0.0) \) ni Dekart sistemasida qaysi shaklda ko‘rsatish mumkin?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.1, 0.9, 0.0) \)
+    \item \( (0.9, 0.1, 0.0) \)
+    \item \( (0.1, 0.0, 0.9) \)
+    \item \( (0.0, 0.1, 0.9) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.1, 0.9, 0.0) \)
+\textbf{Mulohaza:} Affin koordinatalari Dekart koordinatalariga teng bo‘lib, tartib o‘zgarmaydi.
+
+\subsection*{115. Tekislikда \( (0, 5) \) nuqta qaysi o‘qda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( y \)-o‘q
+    \item \( x \)-o‘q
+    \item \( z \)-o‘q
+    \item Diagonal o‘q
+\end{enumerate}
+\textbf{Javob:} a) \( y \)-o‘q
+\textbf{Mulohaza:} \( x = 0 \) bo‘lganligi sababli, nuqta \( y \)-o‘q da joylashgan.
+
+\subsection*{116. Fazoda \( (3, 0, 0) \) nuqta qaysi o‘qda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( x \)-o‘q
+    \item \( y \)-o‘q
+    \item \( z \)-o‘q
+    \item Diagonal o‘q
+\end{enumerate}
+\textbf{Javob:} a) \( x \)-o‘q
+\textbf{Mulohaza:} \( y = 0 \) va \( z = 0 \) bo‘lganligi sababli, nuqta \( x \)-o‘q da joylashgan.
+
+\subsection*{117. Dekart koordinatalari \( (0, 0, -1) \) qaysi o‘qda joylashgan?}
+\begin{enumerate}[label=\alph*)]
+    \item \( z \)-o‘q
+    \item \( x \)-o‘q
+    \item \( y \)-o‘q
+    \item Diagonal o‘q
+\end{enumerate}
+\textbf{Javob:} a) \( z \)-o‘q
+\textbf{Mulohaza:} \( x = 0 \) va \( y = 0 \) bo‘lganligi sababli, nuqta \( z \)-o‘q da joylashgan.
+
+\subsection*{118. Affin koordinatalari \( (0.5, 0.5, 0.0) \) ni Dekart sistemasida qaysi shaklda ko‘rsatish mumkin?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (0.5, 0.5, 0.0) \)
+    \item \( (0.5, 0.0, 0.5) \)
+    \item \( (0.0, 0.5, 0.5) \)
+    \item \( (0.0, 0.0, 0.5) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (0.5, 0.5, 0.0) \)
+\textbf{Mulohaza:} Affin koordinatalari Dekart koordinatalariga teng bo‘lib, tartib o‘zgarmaydi.
+
+\subsection*{119. Tekislikда \( (2, -2) \) нуқта қайси четда жойлашган эмас?}
+\begin{enumerate}[label=\alph*)]
+    \item \( x \)-o‘q
+    \item \( y \)-o‘q
+    \item Diagonal
+    \item Kelib chiqish nuqtasi
+\end{enumerate}
+\textbf{Javob:} d) Kelib chiqish nuqtasi
+\textbf{Mulohaza:} \( (2, -2) \) kelib chiqish nuqtasi (\( 0, 0 \)) да эмас, шунинг учун бу вариант тўғри эмас.
+
+\subsection*{120. Fazoda \( (0, 3, -1) \) нуқта қайси тексликда жойлашган?}
+\begin{enumerate}[label=\alph*)]
+    \item \( xy \)-tekisligi
+    \item \( yz \)-tekisligi
+    \item \( xz \)-tekisligi
+    \item Hech qaysi
+\end{enumerate}
+\textbf{Javob:} d) Hech qaysi
+\textbf{Mulohaza:} \( x, y, z \) ниң барчаси нольга тенг эмас, шунинг учун улар яхши белгиланган тексликда эмас.
+
+\end{document}
