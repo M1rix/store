@@ -1,8 +1,8 @@
 {
-  "version": 2,
+  "version": 3,
   "data": [
     {
-      "version": 2,
+      "version": 3,
       "id": 1,
       "type": "Modul I",
       "title": "Vektor xaqida tushuncha",
@@ -18,7 +18,7 @@
       }
     },
     {
-      "version": 2,
+      "version": 3,
       "id": 2,
       "type": "Modul I",
       "title": "Chiziqli erkli va bog‘lanishli vektorlar. Vektorlarning kollinearlik va komplanarlik shartlari.",
@@ -34,7 +34,7 @@
       }
     },
     {
-      "version": 2,
+      "version": 3,
       "id": 3,
       "type": "Modul I",
       "title": "Bazis. Vektorning berilgan bazisga nisbatan koordinatalari.",
@@ -50,7 +50,7 @@
       }
     },
     {
-      "version": 2,
+      "version": 3,
       "id": 4,
       "type": "Modul I",
       "title": "Tekislikda va fazoda affin va dekart koordinatalar sistemasi.",
@@ -66,7 +66,7 @@
       }
     },
     {
-      "version": 2,
+      "version": 3,
       "id": 5,
       "type": "",
       "title": "Modul I TEST",
@@ -79,11 +79,16 @@
       "pdf": {
         "lecture": null,
         "tasks": null,
-        "tests": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/TEST4.pdf"
+        "tests": [
+          "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/tests/test1.txt",
+          "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/tests/test2.txt",
+          "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/tests/test3.txt",
+          "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/tests/test4.txt"
+        ]
       }
     },
     {
-      "version": 2,
+      "version": 3,
       "id": 6,
       "type": "Modul II",
       "title": "Tekislikda va fazoda affin va dekart koordinatalar sistemasi.",
