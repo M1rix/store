@@ -2,7 +2,7 @@
   "version": 2,
   "data": [
     {
-      "version": 1,
+      "version": 2,
       "id": 1,
       "type": "Modul I",
       "title": "Vektor xaqida tushuncha",
@@ -14,12 +14,11 @@
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
         "lecture": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf",
-        "tasks": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf",
-        "tests": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf"
+        "tasks": "https://raw.githubusercontent.com/M1rix/store/07e5310275b6816af699f5976b83b27245e78eab/geometrix/pdf/vectors.pdf"
       }
     },
     {
-      "version": 1,
+      "version": 2,
       "id": 2,
       "type": "Modul I",
       "title": "Chiziqli erkli va bog‘lanishli vektorlar. Vektorlarning kollinearlik va komplanarlik shartlari.",
@@ -31,12 +30,11 @@
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
         "lecture": "https://raw.githubusercontent.com/M1rix/store/b8192f42e1b3bd37acf6afbcd9e320045f836a9a/geometrix/pdf/lecture-2.pdf",
-        "tasks": "https://raw.githubusercontent.com/M1rix/store/b8192f42e1b3bd37acf6afbcd9e320045f836a9a/geometrix/pdf/tasks-2.pdf",
-        "tests": "https://raw.githubusercontent.com/M1rix/store/b8192f42e1b3bd37acf6afbcd9e320045f836a9a/geometrix/pdf/tests-2.pdf"
+        "tasks": "https://raw.githubusercontent.com/M1rix/store/b8192f42e1b3bd37acf6afbcd9e320045f836a9a/geometrix/pdf/tasks-2.pdf"
       }
     },
     {
-      "version": 1,
+      "version": 2,
       "id": 3,
       "type": "Modul I",
       "title": "Bazis. Vektorning berilgan bazisga nisbatan koordinatalari.",
@@ -48,12 +46,11 @@
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
         "lecture": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/MAVZU3.pdf",
-        "tasks": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/MISOLLAR-3.pdf",
-        "tests": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/TESTLAR-3.pdf"
+        "tasks": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/MISOLLAR-3.pdf"
       }
     },
     {
-      "version": 1,
+      "version": 2,
       "id": 4,
       "type": "Modul I",
       "title": "Tekislikda va fazoda affin va dekart koordinatalar sistemasi.",
@@ -65,17 +62,16 @@
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
         "lecture": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/MAVZU4.pdf",
-        "tasks": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/MASALALAR-4.pdf",
-        "tests": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/TEST4.pdf"
+        "tasks": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/MASALALAR-4.pdf"
       }
     },
     {
-      "version": 1,
+      "version": 2,
       "id": 5,
       "type": "",
       "title": "Modul I TEST",
       "creator": "Sevara Ruslanovna",
-      "uses_count": 5432,
+      "uses_count": 542,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
       "route": "/courses/5",
       "image": "./assets/images/vectors.jpg",
@@ -87,9 +83,9 @@
       }
     },
     {
-      "version": 1,
+      "version": 2,
       "id": 6,
-      "type": "Fazo",
+      "type": "Modul II",
       "title": "Tekislikda va fazoda affin va dekart koordinatalar sistemasi.",
       "creator": "Sevara Ruslanovna",
       "uses_count": 5432,
@@ -99,8 +95,7 @@
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
         "lecture": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/MAVZU5.pdf",
-        "tasks": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/MISOLLAR-5.pdf",
-        "tests": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/TEST4.pdf"
+        "tasks": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/MISOLLAR-5.pdf"
       }
     }
   ]
