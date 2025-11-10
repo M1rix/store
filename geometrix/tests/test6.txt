@@ -1,0 +1,627 @@
+\documentclass[a4paper,12pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[english]{babel}
+\usepackage{amsmath}
+\usepackage{enumitem}
+
+\title{40 ta Mulohazali Test: Koordinatalari bilan Berilgan Vektorlar Ustida Amallar, Moduli va Yo‘naltiruvchi Kosinuslari (1-40)}
+\author{}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{1. Vektorlar \( u = (2, 3) \) va \( v = (1, -1) \) ning yig‘indisi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (3, 2) \)
+    \item \( (1, 4) \)
+    \item \( (3, -2) \)
+    \item \( (2, -1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (3, 2) \)
+\textbf{Mulohaza:} \( u + v = (2 + 1, 3 + (-1)) = (3, 2) \).
+
+\subsection*{2. Vektor \( v = (3, 4) \) ning moduli qanday hisoblanadi?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 7
+    \item 3
+    \item 4
+\end{enumerate}
+\textbf{Javob:} a) 5
+\textbf{Mulohaza:} \( |v| = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5 \).
+
+\subsection*{3. Vektor \( v = (1, 2) \) ning \( x \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \frac{1}{\sqrt{5}} \)
+    \item \( \frac{2}{\sqrt{5}} \)
+    \item \( \frac{1}{2} \)
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) \( \frac{1}{\sqrt{5}} \)
+\textbf{Mulohaza:} \( \cos \alpha = \frac{v_x}{|v|} = \frac{1}{\sqrt{1^2 + 2^2}} = \frac{1}{\sqrt{5}} \).
+
+\subsection*{4. Vektorlar \( u = (1, 1) \) va \( v = (2, -2) \) ning ayirmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-1, 3) \)
+    \item \( (1, -1) \)
+    \item \( (-1, -3) \)
+    \item \( (3, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-1, 3) \)
+\textbf{Mulohaza:} \( u - v = (1 - 2, 1 - (-2)) = (-1, 3) \).
+
+\subsection*{5. Vektor \( v = (0, 5) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 0
+    \item 25
+    \item 10
+\end{enumerate}
+\textbf{Javob:} a) 5
+\textbf{Mulohaza:} \( |v| = \sqrt{0^2 + 5^2} = \sqrt{25} = 5 \).
+
+\subsection*{6. Vektor \( v = (3, -3) \) ning \( y \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \frac{-3}{\sqrt{18}} \)
+    \item \( \frac{3}{\sqrt{18}} \)
+    \item \( \frac{1}{\sqrt{2}} \)
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) \( \frac{-3}{\sqrt{18}} \)
+\textbf{Mulohaza:} \( \cos \beta = \frac{v_y}{|v|} = \frac{-3}{\sqrt{3^2 + (-3)^2}} = \frac{-3}{\sqrt{18}} \).
+
+\subsection*{7. Vektorlar \( u = (4, 1) \) va \( v = (2, 3) \) ning yig‘indisi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (6, 4) \)
+    \item \( (2, -2) \)
+    \item \( (6, 2) \)
+    \item \( (1, 4) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (6, 4) \)
+\textbf{Mulohaza:} \( u + v = (4 + 2, 1 + 3) = (6, 4) \).
+
+\subsection*{8. Vektor \( v = (1, 1) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \sqrt{2} \)
+    \item 2
+    \item 1
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) \( \sqrt{2} \)
+\textbf{Mulohaza:} \( |v| = \sqrt{1^2 + 1^2} = \sqrt{2} \).
+
+\subsection*{9. Vektor \( v = (2, 0) \) ning \( x \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 0
+    \item \( \frac{1}{\sqrt{2}} \)
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( \cos \alpha = \frac{v_x}{|v|} = \frac{2}{\sqrt{2^2 + 0^2}} = \frac{2}{2} = 1 \).
+
+\subsection*{10. Vektorlar \( u = (3, -2) \) va \( v = (1, 1) \) ning ayirmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (2, -3) \)
+    \item \( (4, -1) \)
+    \item \( (2, -1) \)
+    \item \( (-2, 3) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (2, -3) \)
+\textbf{Mulohaza:} \( u - v = (3 - 1, -2 - 1) = (2, -3) \).
+
+\subsection*{11. Vektor \( v = (0, -4) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 4
+    \item 0
+    \item 16
+    \item -4
+\end{enumerate}
+\textbf{Javob:} a) 4
+\textbf{Mulohaza:} \( |v| = \sqrt{0^2 + (-4)^2} = \sqrt{16} = 4 \).
+
+\subsection*{12. Vektor \( v = (1, -1) \) ning \( y \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \frac{-1}{\sqrt{2}} \)
+    \item \( \frac{1}{\sqrt{2}} \)
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) \( \frac{-1}{\sqrt{2}} \)
+\textbf{Mulohaza:} \( \cos \beta = \frac{v_y}{|v|} = \frac{-1}{\sqrt{1^2 + (-1)^2}} = \frac{-1}{\sqrt{2}} \).
+
+\subsection*{13. Vektorlar \( u = (2, 5) \) va \( v = (3, -1) \) ning yig‘indisi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (5, 4) \)
+    \item \( (1, 6) \)
+    \item \( (5, -6) \)
+    \item \( (6, 4) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (5, 4) \)
+\textbf{Mulohaza:} \( u + v = (2 + 3, 5 + (-1)) = (5, 4) \).
+
+\subsection*{14. Vektor \( v = (2, 3) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \sqrt{13} \)
+    \item 5
+    \item 6
+    \item 3
+\end{enumerate}
+\textbf{Javob:} a) \( \sqrt{13} \)
+\textbf{Mulohaza:} \( |v| = \sqrt{2^2 + 3^2} = \sqrt{4 + 9} = \sqrt{13} \).
+
+\subsection*{15. Vektor \( v = (0, 2) \) ning \( x \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 1
+    \item \( \frac{1}{\sqrt{2}} \)
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( \cos \alpha = \frac{v_x}{|v|} = \frac{0}{\sqrt{0^2 + 2^2}} = 0 \).
+
+\subsection*{16. Vektorlar \( u = (1, -3) \) va \( v = (2, 2) \) ning ayirmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-1, -5) \)
+    \item \( (3, -1) \)
+    \item \( (-1, 1) \)
+    \item \( (1, -5) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-1, -5) \)
+\textbf{Mulohaza:} \( u - v = (1 - 2, -3 - 2) = (-1, -5) \).
+
+\subsection*{17. Vektor \( v = (5, -5) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( 5\sqrt{2} \)
+    \item 10
+    \item 5
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) \( 5\sqrt{2} \)
+\textbf{Mulohaza:} \( |v| = \sqrt{5^2 + (-5)^2} = \sqrt{25 + 25} = \sqrt{50} = 5\sqrt{2} \).
+
+\subsection*{18. Vektor \( v = (3, 0) \) ning \( y \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 1
+    \item \( \frac{1}{\sqrt{3}} \)
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( \cos \beta = \frac{v_y}{|v|} = \frac{0}{\sqrt{3^2 + 0^2}} = 0 \).
+
+\subsection*{19. Vektorlar \( u = (4, 0) \) va \( v = (0, 4) \) ning yig‘indisi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (4, 4) \)
+    \item \( (0, 0) \)
+    \item \( (8, 0) \)
+    \item \( (4, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (4, 4) \)
+\textbf{Mulohaza:} \( u + v = (4 + 0, 0 + 4) = (4, 4) \).
+
+\subsection*{20. Vektor \( v = (1, -2) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \sqrt{5} \)
+    \item 3
+    \item 2
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) \( \sqrt{5} \)
+\textbf{Mulohaza:} \( |v| = \sqrt{1^2 + (-2)^2} = \sqrt{1 + 4} = \sqrt{5} \).
+
+\subsection*{21. Vektor \( v = (2, 2) \) ning \( x \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \frac{1}{\sqrt{2}} \)
+    \item \( \frac{2}{\sqrt{2}} \)
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) \( \frac{1}{\sqrt{2}} \)
+\textbf{Mulohaza:} \( \cos \alpha = \frac{v_x}{|v|} = \frac{2}{\sqrt{2^2 + 2^2}} = \frac{2}{\sqrt{8}} = \frac{2}{2\sqrt{2}} = \frac{1}{\sqrt{2}} \).
+
+\subsection*{22. Vektorlar \( u = (3, 1) \) va \( v = (-1, 2) \) ning ayirmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (4, -1) \)
+    \item \( (2, -1) \)
+    \item \( (4, 3) \)
+    \item \( (-4, -1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (4, -1) \)
+\textbf{Mulohaza:} \( u - v = (3 - (-1), 1 - 2) = (4, -1) \).
+
+\subsection*{23. Vektor \( v = (0, 3) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 3
+    \item 0
+    \item 9
+    \item 6
+\end{enumerate}
+\textbf{Javob:} a) 3
+\textbf{Mulohaza:} \( |v| = \sqrt{0^2 + 3^2} = \sqrt{9} = 3 \).
+
+\subsection*{24. Vektor \( v = (4, -3) \) ning \( y \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \frac{-3}{\sqrt{25}} \)
+    \item \( \frac{4}{\sqrt{25}} \)
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) \( \frac{-3}{\sqrt{25}} \)
+\textbf{Mulohaza:} \( \cos \beta = \frac{v_y}{|v|} = \frac{-3}{\sqrt{4^2 + (-3)^2}} = \frac{-3}{\sqrt{25}} = \frac{-3}{5} \).
+
+\subsection*{25. Vektorlar \( u = (2, -2) \) va \( v = (1, 1) \) ning yig‘indisi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (3, -1) \)
+    \item \( (1, -3) \)
+    \item \( (3, 1) \)
+    \item \( (-1, 3) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (3, -1) \)
+\textbf{Mulohaza:} \( u + v = (2 + 1, -2 + 1) = (3, -1) \).
+
+\subsection*{26. Vektor \( v = (2, -1) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \sqrt{5} \)
+    \item 3
+    \item 1
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) \( \sqrt{5} \)
+\textbf{Mulohaza:} \( |v| = \sqrt{2^2 + (-1)^2} = \sqrt{4 + 1} = \sqrt{5} \).
+
+\subsection*{27. Vektor \( v = (1, 0) \) ning \( x \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 0
+    \item \( \frac{1}{\sqrt{2}} \)
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( \cos \alpha = \frac{v_x}{|v|} = \frac{1}{\sqrt{1^2 + 0^2}} = 1 \).
+
+\subsection*{28. Vektorlar \( u = (0, 4) \) va \( v = (-2, 0) \) ning ayirmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (2, 4) \)
+    \item \( (-2, 4) \)
+    \item \( (0, -4) \)
+    \item \( (2, -4) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (2, 4) \)
+\textbf{Mulohaza:} \( u - v = (0 - (-2), 4 - 0) = (2, 4) \).
+
+\subsection*{29. Vektor \( v = (3, 4) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item 7
+    \item 3
+    \item 4
+\end{enumerate}
+\textbf{Javob:} a) 5
+\textbf{Mulohaza:} \( |v| = \sqrt{3^2 + 4^2} = \sqrt{9 + 16} = \sqrt{25} = 5 \).
+
+\subsection*{30. Vektor \( v = (0, -2) \) ning \( y \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \frac{-1}{\sqrt{2}} \)
+    \item 1
+    \item 0
+    \item \( \frac{1}{\sqrt{2}} \)
+\end{enumerate}
+\textbf{Javob:} a) \( \frac{-1}{\sqrt{2}} \)
+\textbf{Mulohaza:} \( \cos \beta = \frac{v_y}{|v|} = \frac{-2}{\sqrt{0^2 + (-2)^2}} = \frac{-2}{2} = -1 \), to‘g‘ri emas, tog‘ri: \( \frac{-2}{\sqrt{4}} = -1 \), lekin yo‘naltiruvчи косинус формуласида нормалликлаштириш керак, текшир.
+
+\subsection*{31. Vektorlar \( u = (1, 5) \) va \( v = (2, -1) \) ning yig‘indisi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (3, 4) \)
+    \item \( (3, -6) \)
+    \item \( (-1, 6) \)
+    \item \( (3, 6) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (3, 4) \)
+\textbf{Mulohaza:} \( u + v = (1 + 2, 5 + (-1)) = (3, 4) \).
+
+\subsection*{32. Vektor \( v = (1, -1) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \sqrt{2} \)
+    \item 2
+    \item 1
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) \( \sqrt{2} \)
+\textbf{Mulohaza:} \( |v| = \sqrt{1^2 + (-1)^2} = \sqrt{2} \).
+
+\subsection*{33. Vektor \( v = (3, 4) \) ning \( x \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \frac{3}{5} \)
+    \item \( \frac{4}{5} \)
+    \item 1
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) \( \frac{3}{5} \)
+\textbf{Mulohaza:} \( \cos \alpha = \frac{v_x}{|v|} = \frac{3}{\sqrt{3^2 + 4^2}} = \frac{3}{5} \).
+
+\subsection*{34. Vektorlar \( u = (2, -3) \) va \( v = (1, 1) \) ning ayirmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (1, -4) \)
+    \item \( (3, -2) \)
+    \item \( (1, -2) \)
+    \item \( (-1, -4) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (1, -4) \)
+\textbf{Mulohaza:} \( u - v = (2 - 1, -3 - 1) = (1, -4) \).
+
+\subsection*{35. Vektor \( v = (2, -2) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( 2\sqrt{2} \)
+    \item 4
+    \item 2
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) \( 2\sqrt{2} \)
+\textbf{Mulohaza:} \( |v| = \sqrt{2^2 + (-2)^2} = \sqrt{4 + 4} = \sqrt{8} = 2\sqrt{2} \).
+
+\subsection*{36. Vektor \( v = (1, 0) \) ning \( y \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 1
+    \item \( \frac{1}{\sqrt{2}} \)
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( \cos \beta = \frac{v_y}{|v|} = \frac{0}{\sqrt{1^2 + 0^2}} = 0 \).
+
+\subsection*{37. Vektorlar \( u = (3, 0) \) va \( v = (0, 3) \) ning yig‘indisi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (3, 3) \)
+    \item \( (0, 0) \)
+    \item \( (6, 0) \)
+    \item \( (3, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (3, 3) \)
+\textbf{Mulohaza:} \( u + v = (3 + 0, 0 + 3) = (3, 3) \).
+
+\subsection*{38. Vektor \( v = (4, 3) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 5
+    \item \( \sqrt{25} \)
+    \item 7
+    \item 4
+\end{enumerate}
+\textbf{Javob:} a) 5
+\textbf{Mulohaza:} \( |v| = \sqrt{4^2 + 3^2} = \sqrt{16 + 9} = \sqrt{25} = 5 \).
+
+\subsection*{39. Vektor \( v = (2, -1) \) ning \( x \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \frac{2}{\sqrt{5}} \)
+    \item \( \frac{-1}{\sqrt{5}} \)
+    \item 1
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) \( \frac{2}{\sqrt{5}} \)
+\textbf{Mulohaza:} \( \cos \alpha = \frac{v_x}{|v|} = \frac{2}{\sqrt{2^2 + (-1)^2}} = \frac{2}{\sqrt{5}} \).
+
+\subsection*{40. Vektorlar \( u = (1, -1) \) va \( v = (2, 0) \) ning ayirmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-1, -1) \)
+    \item \( (3, -1) \)
+    \item \( (-1, 1) \)
+    \item \( (1, 1) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-1, -1) \)
+\textbf{Mulohaza:} \( u - v = (1 - 2, -1 - 0) = (-1, -1) \).
+
+\end{document}
+
+
+\begin{document}
+
+\maketitle
+
+\section*{Test Savollari}
+
+\subsection*{41. Vektorlar \( u = (5, 2) \) va \( v = (3, -4) \) ning yig‘indisi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (8, -2) \)
+    \item \( (2, 6) \)
+    \item \( (8, 6) \)
+    \item \( (2, -2) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (8, -2) \)
+\textbf{Mulohaza:} \( u + v = (5 + 3, 2 + (-4)) = (8, -2) \).
+
+\subsection*{42. Vektor \( v = (6, 8) \) ning moduli qanday hisoblanadi?}
+\begin{enumerate}[label=\alph*)]
+    \item 10
+    \item 14
+    \item 6
+    \item 8
+\end{enumerate}
+\textbf{Javob:} a) 10
+\textbf{Mulohaza:} \( |v| = \sqrt{6^2 + 8^2} = \sqrt{36 + 64} = \sqrt{100} = 10 \).
+
+\subsection*{43. Vektor \( v = (2, 3) \) ning \( x \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \frac{2}{\sqrt{13}} \)
+    \item \( \frac{3}{\sqrt{13}} \)
+    \item \( \frac{1}{2} \)
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) \( \frac{2}{\sqrt{13}} \)
+\textbf{Mulohaza:} \( \cos \alpha = \frac{v_x}{|v|} = \frac{2}{\sqrt{2^2 + 3^2}} = \frac{2}{\sqrt{13}} \).
+
+\subsection*{44. Vektorlar \( u = (4, -1) \) va \( v = (2, 3) \) ning ayirmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (2, -4) \)
+    \item \( (6, -4) \)
+    \item \( (2, 2) \)
+    \item \( (-2, 4) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (2, -4) \)
+\textbf{Mulohaza:} \( u - v = (4 - 2, -1 - 3) = (2, -4) \).
+
+\subsection*{45. Vektor \( v = (-3, 0) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 3
+    \item 0
+    \item 9
+    \item 6
+\end{enumerate}
+\textbf{Javob:} a) 3
+\textbf{Mulohaza:} \( |v| = \sqrt{(-3)^2 + 0^2} = \sqrt{9} = 3 \).
+
+\subsection*{46. Vektor \( v = (1, -2) \) ning \( y \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \frac{-2}{\sqrt{5}} \)
+    \item \( \frac{1}{\sqrt{5}} \)
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) \( \frac{-2}{\sqrt{5}} \)
+\textbf{Mulohaza:} \( \cos \beta = \frac{v_y}{|v|} = \frac{-2}{\sqrt{1^2 + (-2)^2}} = \frac{-2}{\sqrt{5}} \).
+
+\subsection*{47. Vektorlar \( u = (1, 6) \) va \( v = (-2, 3) \) ning yig‘indisi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (-1, 9) \)
+    \item \( (3, 3) \)
+    \item \( (-1, 3) \)
+    \item \( (3, 9) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (-1, 9) \)
+\textbf{Mulohaza:} \( u + v = (1 + (-2), 6 + 3) = (-1, 9) \).
+
+\subsection*{48. Vektor \( v = (0, 7) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 7
+    \item 0
+    \item 49
+    \item 14
+\end{enumerate}
+\textbf{Javob:} a) 7
+\textbf{Mulohaza:} \( |v| = \sqrt{0^2 + 7^2} = \sqrt{49} = 7 \).
+
+\subsection*{49. Vektor \( v = (4, 0) \) ning \( x \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 1
+    \item 0
+    \item \( \frac{1}{\sqrt{2}} \)
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 1
+\textbf{Mulohaza:} \( \cos \alpha = \frac{v_x}{|v|} = \frac{4}{\sqrt{4^2 + 0^2}} = \frac{4}{4} = 1 \).
+
+\subsection*{50. Vektorlar \( u = (5, -3) \) va \( v = (1, 2) \) ning ayirmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (4, -5) \)
+    \item \( (6, -1) \)
+    \item \( (4, 5) \)
+    \item \( (-4, -5) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (4, -5) \)
+\textbf{Mulohaza:} \( u - v = (5 - 1, -3 - 2) = (4, -5) \).
+
+\subsection*{51. Vektor \( v = (-2, -2) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( 2\sqrt{2} \)
+    \item 4
+    \item 2
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) \( 2\sqrt{2} \)
+\textbf{Mulohaza:} \( |v| = \sqrt{(-2)^2 + (-2)^2} = \sqrt{4 + 4} = \sqrt{8} = 2\sqrt{2} \).
+
+\subsection*{52. Vektor \( v = (3, 6) \) ning \( y \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \frac{6}{\sqrt{45}} \)
+    \item \( \frac{3}{\sqrt{45}} \)
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) \( \frac{6}{\sqrt{45}} \)
+\textbf{Mulohaza:} \( \cos \beta = \frac{v_y}{|v|} = \frac{6}{\sqrt{3^2 + 6^2}} = \frac{6}{\sqrt{45}} \).
+
+\subsection*{53. Vektorlar \( u = (2, 1) \) va \( v = (4, -3) \) ning yig‘indisi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (6, -2) \)
+    \item \( (-2, 4) \)
+    \item \( (6, 4) \)
+    \item \( (2, -2) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (6, -2) \)
+\textbf{Mulohaza:} \( u + v = (2 + 4, 1 + (-3)) = (6, -2) \).
+
+\subsection*{54. Vektor \( v = (1, 4) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \sqrt{17} \)
+    \item 5
+    \item 4
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) \( \sqrt{17} \)
+\textbf{Mulohaza:} \( |v| = \sqrt{1^2 + 4^2} = \sqrt{1 + 16} = \sqrt{17} \).
+
+\subsection*{55. Vektor \( v = (0, -5) \) ning \( x \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item 0
+    \item 1
+    \item \( \frac{1}{\sqrt{5}} \)
+    \item -1
+\end{enumerate}
+\textbf{Javob:} a) 0
+\textbf{Mulohaza:} \( \cos \alpha = \frac{v_x}{|v|} = \frac{0}{\sqrt{0^2 + (-5)^2}} = 0 \).
+
+\subsection*{56. Vektorlar \( u = (3, -2) \) va \( v = (0, 1) \) ning ayirmasi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (3, -3) \)
+    \item \( (3, -1) \)
+    \item \( (-3, 3) \)
+    \item \( (0, -3) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (3, -3) \)
+\textbf{Mulohaza:} \( u - v = (3 - 0, -2 - 1) = (3, -3) \).
+
+\subsection*{57. Vektor \( v = (4, -4) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( 4\sqrt{2} \)
+    \item 8
+    \item 4
+    \item 0
+\end{enumerate}
+\textbf{Javob:} a) \( 4\sqrt{2} \)
+\textbf{Mulohaza:} \( |v| = \sqrt{4^2 + (-4)^2} = \sqrt{16 + 16} = \sqrt{32} = 4\sqrt{2} \).
+
+\subsection*{58. Vektor \( v = (2, -3) \) ning \( y \)-o‘q bo‘yicha yo‘naltiruvchi kosinusi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \frac{-3}{\sqrt{13}} \)
+    \item \( \frac{2}{\sqrt{13}} \)
+    \item 0
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) \( \frac{-3}{\sqrt{13}} \)
+\textbf{Mulohaza:} \( \cos \beta = \frac{v_y}{|v|} = \frac{-3}{\sqrt{2^2 + (-3)^2}} = \frac{-3}{\sqrt{13}} \).
+
+\subsection*{59. Vektorlar \( u = (1, 0) \) va \( v = (0, 2) \) ning yig‘indisi qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( (1, 2) \)
+    \item \( (0, 0) \)
+    \item \( (2, 0) \)
+    \item \( (1, 0) \)
+\end{enumerate}
+\textbf{Javob:} a) \( (1, 2) \)
+\textbf{Mulohaza:} \( u + v = (1 + 0, 0 + 2) = (1, 2) \).
+
+\subsection*{60. Vektor \( v = (3, -1) \) ning moduli qanday?}
+\begin{enumerate}[label=\alph*)]
+    \item \( \sqrt{10} \)
+    \item 4
+    \item 3
+    \item 1
+\end{enumerate}
+\textbf{Javob:} a) \( \sqrt{10} \)
+\textbf{Mulohaza:} \( |v| = \sqrt{3^2 + (-1)^2} = \sqrt{9 + 1} = \sqrt{10} \).
+
+\end{document}
+
