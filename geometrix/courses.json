@@ -1,186 +1,23 @@
 {
-  "version": 4,
+  "version": 542,
   "data": [
     {
-      "version": 5,
-      "id": 1,
-      "type": "Modul I",
-      "title": "Analitik geometriya fani haqida qisqacha ma’lumot. Vektorlar.",
-      "creator": "Sevara Ruslanovna",
-      "uses_count": 5432,
-      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about the theme <b>Vektor xaqida tushuncha</b></h1>",
-      "route": "/courses/1",
-      "image": "./assets/images/vectors.jpg",
-      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
-      "pdf": {
-        "lecture": "https://raw.githubusercontent.com/M1rix/store/6975f17335863400c186a31e7db8e295baa07e8e/geometrix/pdf/MAVZU1.pdf",
-        "tasks": "https://raw.githubusercontent.com/M1rix/store/6975f17335863400c186a31e7db8e295baa07e8e/geometrix/pdf/MASALALAR-1.pdf"
-      }
-    },
-    {
-      "version": 5,
-      "id": 2,
-      "type": "Modul I",
-      "title": "Chiziqli erkli va bog‘lanishli vektorlar. Vektorlarning kollinearlik va komplanarlik shartlari.",
-      "creator": "Sevara Ruslanovna",
-      "uses_count": 5432,
-      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Vektorlar oilasi</b></h1>",
-      "route": "/courses/2",
-      "image": "./assets/images/vectors.jpg",
-      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
-      "pdf": {
-        "lecture": "https://raw.githubusercontent.com/M1rix/store/6975f17335863400c186a31e7db8e295baa07e8e/geometrix/pdf/MAVZU2.pdf",
-        "tasks": "https://raw.githubusercontent.com/M1rix/store/6975f17335863400c186a31e7db8e295baa07e8e/geometrix/pdf/MASALALAR-2.pdf"
-      }
-    },
-    {
-      "version": 5,
-      "id": 3,
-      "type": "Modul I",
-      "title": "Bazis. Vektorning berilgan bazisga nisbatan koordinatalari.",
-      "creator": "Sevara Ruslanovna",
-      "uses_count": 5432,
-      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Bazis</b></h1>",
-      "route": "/courses/3",
-      "image": "./assets/images/vectors.jpg",
-      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
-      "pdf": {
-        "lecture": "https://raw.githubusercontent.com/M1rix/store/6975f17335863400c186a31e7db8e295baa07e8e/geometrix/pdf/MAVZU3.pdf",
-        "tasks": "https://raw.githubusercontent.com/M1rix/store/6975f17335863400c186a31e7db8e295baa07e8e/geometrix/pdf/MASALALAR-3.pdf"
-      }
-    },
-    {
-      "version": 5,
-      "id": 4,
-      "type": "Modul I",
-      "title": "Tekislikda va fazoda affin va dekart koordinatalar sistemasi.",
-      "creator": "Sevara Ruslanovna",
-      "uses_count": 5432,
-      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
-      "route": "/courses/4",
-      "image": "./assets/images/vectors.jpg",
-      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
-      "pdf": {
-        "lecture": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/MAVZU4.pdf",
-        "tasks": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/MASALALAR-4.pdf"
-      }
-    },
-    {
-      "version": 5,
-      "id": 5,
+      "version": 542,
+      "id": 542,
       "type": "",
-      "title": "Modul I TEST",
-      "creator": "Sevara Ruslanovna",
+      "title": "Nazorat Test",
+      "creator": "Xasanov Jamshid",
       "uses_count": 542,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
-      "route": "/courses/5",
+      "route": "/courses/542",
       "image": "./assets/images/vectors.jpg",
-      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
+      "avatar": "https://www.urspi.uz/hodimlar/1744346611.jpg",
       "pdf": {
         "lecture": null,
         "tasks": null,
         "tests": [
-          "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/tests/test1.txt",
-          "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/tests/test2.txt",
-          "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/tests/test3.txt",
-          "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/tests/test4.txt"
+          "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/tests/questions_latex.txt"
         ]
-      }
-    },
-    {
-      "version": 5,
-      "id": 6,
-      "type": "Modul II",
-      "title": "Vektorning o'qqa proeksiyasi. Vektorlarning skalyar ko'paytmasi",
-      "creator": "Sevara Ruslanovna",
-      "uses_count": 5432,
-      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
-      "route": "/courses/6",
-      "image": "./assets/images/formulas.webp",
-      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
-      "pdf": {
-        "lecture": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/MAVZU5.pdf",
-        "tasks": "https://raw.githubusercontent.com/M1rix/store/f746a16b565e13c46f3ec0a5ec437f90c6b01b7b/geometrix/pdf/MISOLLAR-5.pdf"
-      }
-    },
-    {
-      "version": 5,
-      "id": 7,
-      "type": "Modul II",
-      "title": "Koordinatalari bilan berilgan vektorlar ustida chiziqli amallar.",
-      "creator": "Sevara Ruslanovna",
-      "uses_count": 5432,
-      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
-      "route": "/courses/7",
-      "image": "./assets/images/formulas.webp",
-      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
-      "pdf": {
-        "lecture": "https://raw.githubusercontent.com/M1rix/store/6975f17335863400c186a31e7db8e295baa07e8e/geometrix/pdf/MAVZU6.pdf",
-        "tasks": "https://raw.githubusercontent.com/M1rix/store/6975f17335863400c186a31e7db8e295baa07e8e/geometrix/pdf/MASALALAR-6.pdf"
-      }
-    },
-    {
-      "version": 5,
-      "id": 8,
-      "type": "Modul II",
-      "title": "Chap va o‘ng sistemalar. Vektorlarning vektor ko‘paytmasi va aralash ko‘paytmasi.",
-      "creator": "Sevara Ruslanovna",
-      "uses_count": 5432,
-      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
-      "route": "/courses/8",
-      "image": "./assets/images/formulas.webp",
-      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
-      "pdf": {
-        "lecture": "https://raw.githubusercontent.com/M1rix/store/6975f17335863400c186a31e7db8e295baa07e8e/geometrix/pdf/MAVZU7.pdf",
-        "tasks": "https://raw.githubusercontent.com/M1rix/store/6975f17335863400c186a31e7db8e295baa07e8e/geometrix/pdf/MASALALAR-7.pdf"
-      }
-    },
-    {
-      "version": 6,
-      "id": 9,
-      "type": "Modul II",
-      "title": "Koordinatalari bilan berilgan vektorlarning skalyar, vektor va aralash ko‘paytmasi.",
-      "creator": "Sevara Ruslanovna",
-      "uses_count": 5432,
-      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
-      "route": "/courses/9",
-      "image": "./assets/images/formulas.webp",
-      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
-      "pdf": {
-        "lecture": "",
-        "tasks": ""
-      }
-    },
-    {
-      "version": 6,
-      "id": 10,
-      "type": "Modul II",
-      "title": "Tekislikda va fazoda dekart koordinatalar sistemasini almashtirish. Tekislikda va fazoda orientatsiya.",
-      "creator": "Sevara Ruslanovna",
-      "uses_count": 5432,
-      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
-      "route": "/courses/10",
-      "image": "./assets/images/formulas.webp",
-      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
-      "pdf": {
-        "lecture": "",
-        "tasks": ""
-      }
-    },
-    {
-      "version": 6,
-      "id": 11,
-      "type": "Modul II",
-      "title": "Qutb, silindrik va sferik koordinatalar sistemasi.",
-      "creator": "Sevara Ruslanovna",
-      "uses_count": 5432,
-      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
-      "route": "/courses/11",
-      "image": "./assets/images/formulas.webp",
-      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
-      "pdf": {
-        "lecture": "",
-        "tasks": ""
       }
     }
   ]
