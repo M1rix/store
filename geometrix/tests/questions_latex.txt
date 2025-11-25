@@ -1,4 +1,4 @@
-\subsection*{Quyidagi F(x,y(x),y'(x),...,y\texorpdfstring{\^{}}{^}(n)(x))=0 funksional bog'lanishga nima deyiladi?}
+\subsection*{1. Quyidagi F(x,y(x),y'(x),...,y\texorpdfstring{\^{}}{^}(n)(x))=0 funksional bog'lanishga nima deyiladi?}
 \begin{enumerate}[label=\alph*)]
 \item n–tartibli o'zgarmas koeffisientli chiziqli differensial tenglama
 \item n–tartibli o'zgaruvchan koeffisientli chiziqli differensial tenglama
@@ -7,7 +7,7 @@
 \end{enumerate}
 \textbf{Javob:} d) n–tartibli oddiy differensial tenglama
 
-\subsection*{Hosilaga nisbatan yechilmagan 1-tartibli differensial tenglama umumiy ko'rinishi quyidagicha?}
+\subsection*{1. Hosilaga nisbatan yechilmagan 1-tartibli differensial tenglama umumiy ko'rinishi quyidagicha?}
 \begin{enumerate}[label=\alph*)]
 \item F(x,y,y')=0
 \item F(x,y,y')=y'
@@ -16,7 +16,7 @@
 \end{enumerate}
 \textbf{Javob:} a) F(x,y,y')=0
 
-\subsection*{Ushbu ko'rinishdagi tenglamaga o'zgaruvchilari ajraladigan differensial tenglama deyiladi?}
+\subsection*{1. Ushbu ko'rinishdagi tenglamaga o'zgaruvchilari ajraladigan differensial tenglama deyiladi?}
 \begin{enumerate}[label=\alph*)]
 \item y'=f(x)·g(y)
 \item y'=f(x,y)
@@ -25,7 +25,7 @@
 \end{enumerate}
 \textbf{Javob:} a) y'=f(x)·g(y)
 
-\subsection*{Ushbu ko'rinishdagi tenglamaga o'zgaruvchilari ajraladigan tenglamaga keltiriladigan tenglama deyiladi?}
+\subsection*{1. Ushbu ko'rinishdagi tenglamaga o'zgaruvchilari ajraladigan tenglamaga keltiriladigan tenglama deyiladi?}
 \begin{enumerate}[label=\alph*)]
 \item y'=f(ax+by+c)
 \item y'=a(x)y+b(x)
@@ -34,7 +34,7 @@
 \end{enumerate}
 \textbf{Javob:} a) y'=f(ax+by+c)
 
-\subsection*{Agar y'=f(x,y) differensial tenglamada f(λx,λy)=f(x,y) (λ>0) shart bajarilsa, bu tenglamaga nima deyiladi?}
+\subsection*{1. Agar y'=f(x,y) differensial tenglamada f(λx,λy)=f(x,y) (λ>0) shart bajarilsa, bu tenglamaga nima deyiladi?}
 \begin{enumerate}[label=\alph*)]
 \item bir jinsli differensial tenglama
 \item bir jinsli differensial tenglamaga keltiriladigan
@@ -43,7 +43,7 @@
 \end{enumerate}
 \textbf{Javob:} a) bir jinsli differensial tenglama
 
-\subsection*{Ushbu ko'rinishdagi tenglamaga birinchi tartibli chiziqli differensial tenglama deyiladi?}
+\subsection*{1. Ushbu ko'rinishdagi tenglamaga birinchi tartibli chiziqli differensial tenglama deyiladi?}
 \begin{enumerate}[label=\alph*)]
 \item y'+p(x)y=q(x)
 \item y'=f(x,y)
@@ -52,7 +52,7 @@
 \end{enumerate}
 \textbf{Javob:} a) y'+p(x)y=q(x)
 
-\subsection*{dx/dt=f(t,x), dy/dt=g(t,y) sistemani qaysi usul bilan integrallash kerak?}
+\subsection*{1. dx/dt=f(t,x), dy/dt=g(t,y) sistemani qaysi usul bilan integrallash kerak?}
 \begin{enumerate}[label=\alph*)]
 \item Sistema tenglamalarini har biri alohida integrallash kerak
 \item Xos qiymatlardan foydalanib integrallash kerak
@@ -61,7 +61,7 @@
 \end{enumerate}
 \textbf{Javob:} a) Sistema tenglamalarini har biri alohida integrallash kerak
 
-\subsection*{y'+p(x)y=q(x) tenglamada y=a(x)z almashtirganda qanday tenglama hosil bo'ladi?}
+\subsection*{1. y'+p(x)y=q(x) tenglamada y=a(x)z almashtirganda qanday tenglama hosil bo'ladi?}
 \begin{enumerate}[label=\alph*)]
 \item Chiziqli tenglama
 \item Bernulli tenglamasi
@@ -70,7 +70,7 @@
 \end{enumerate}
 \textbf{Javob:} a) Chiziqli tenglama
 
-\subsection*{Ly=y''+y bo'lsa L(\(\cos x\)) ni toping.}
+\subsection*{1. Ly=y''+y bo'lsa L(\(\cos x\)) ni toping.}
 \begin{enumerate}[label=\alph*)]
 \item 0
 \item \(\cos 2x\)
@@ -79,7 +79,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 0
 
-\subsection*{Ly=y''+3y bo'lsa L(\(e^x\)) ni toping.}
+\subsection*{1. Ly=y''+3y bo'lsa L(\(e^x\)) ni toping.}
 \begin{enumerate}[label=\alph*)]
 \item \(4e^x\)
 \item \(e^{2x}\)
@@ -88,7 +88,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(4e^x\)
 
-\subsection*{Ly=y''+3y'-4y bo'lsa L(\(e^x\)) ni toping.}
+\subsection*{1. Ly=y''+3y'-4y bo'lsa L(\(e^x\)) ni toping.}
 \begin{enumerate}[label=\alph*)]
 \item 0
 \item 8
@@ -97,7 +97,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 0
 
-\subsection*{y1 va y2 ikkinchi tartibli chiziqli bir jinsli tenglamaning chiziqli erkli yechimlari bo'lsa umumiy yechim qanday?}
+\subsection*{1. y1 va y2 ikkinchi tartibli chiziqli bir jinsli tenglamaning chiziqli erkli yechimlari bo'lsa umumiy yechim qanday?}
 \begin{enumerate}[label=\alph*)]
 \item \(y=c_1y_1+c_2y_2\), \(c_1\) va \(c_2\) – o'zgarmas son
 \item \(y=y_1+c(y_2+y_1)\), c – o'zgarmas son
@@ -106,7 +106,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(y=c_1y_1+c_2y_2\), \(c_1\) va \(c_2\) – o'zgarmas son
 
-\subsection*{w[1,\(e^x\)] Vronskiy determinantining w(0) qiymati nechcha?}
+\subsection*{1. w[1,\(e^x\)] Vronskiy determinantining w(0) qiymati nechcha?}
 \begin{enumerate}[label=\alph*)]
 \item 1
 \item 2
@@ -115,7 +115,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 1
 
-\subsection*{A(5;3) nuqta AB vektor boshi, B(-2;7) oxiri bo'lsa, AB vektor koordinatalari?}
+\subsection*{1. A(5;3) nuqta AB vektor boshi, B(-2;7) oxiri bo'lsa, AB vektor koordinatalari?}
 \begin{enumerate}[label=\alph*)]
 \item \{-7;4\}
 \item \{7;-4\}
@@ -124,7 +124,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{-7;4\}
 
-\subsection*{A(-4;6) nuqta AB boshi, B(3;-1) oxiri bo'lsa, AB vektor koordinatalari?}
+\subsection*{1. A(-4;6) nuqta AB boshi, B(3;-1) oxiri bo'lsa, AB vektor koordinatalari?}
 \begin{enumerate}[label=\alph*)]
 \item \{7;-7\}
 \item \{-7;7\}
@@ -133,7 +133,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{7;-7\}
 
-\subsection*{AB(5;-3) vektor boshi A(2;8) bo'lsa, B nuqta koordinatalari?}
+\subsection*{1. AB(5;-3) vektor boshi A(2;8) bo'lsa, B nuqta koordinatalari?}
 \begin{enumerate}[label=\alph*)]
 \item \{7;5\}
 \item \{-3;11\}
@@ -142,7 +142,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{7;5\}
 
-\subsection*{AB(-6;4) vektor oxiri B(1;-5) bo'lsa, A nuqta koordinatalari?}
+\subsection*{1. AB(-6;4) vektor oxiri B(1;-5) bo'lsa, A nuqta koordinatalari?}
 \begin{enumerate}[label=\alph*)]
 \item \{7;-9\}
 \item \{-5;-1\}
@@ -151,7 +151,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{7;-9\}
 
-\subsection*{\(\vec{a}\)(3;-4) vektorga yo'nalishdosh birlik vektor qaysi?}
+\subsection*{1. \(\vec{a}\)(3;-4) vektorga yo'nalishdosh birlik vektor qaysi?}
 \begin{enumerate}[label=\alph*)]
 \item \{3/5; -4/5\}
 \item \{-3/5; 4/5\}
@@ -160,7 +160,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{3/5; -4/5\}
 
-\subsection*{\(\vec{b}\)(-5;12) vektorga yo'nalishdosh birlik vektor qaysi?}
+\subsection*{1. \(\vec{b}\)(-5;12) vektorga yo'nalishdosh birlik vektor qaysi?}
 \begin{enumerate}[label=\alph*)]
 \item \{-5/13; 12/13\}
 \item \{5/13; -12/13\}
@@ -169,7 +169,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{-5/13; 12/13\}
 
-\subsection*{\(\vec{c}\)(8;-6) vektorga qarama-qarshi yo'nalgan birlik vektor qaysi?}
+\subsection*{1. \(\vec{c}\)(8;-6) vektorga qarama-qarshi yo'nalgan birlik vektor qaysi?}
 \begin{enumerate}[label=\alph*)]
 \item \{-8/10; 6/10\}
 \item \{8/10; -6/10\}
@@ -178,7 +178,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{-8/10; 6/10\}
 
-\subsection*{\(\vec{d}\)(7;0) vektorga yo'nalishdosh, uzunligi 14 bo'lgan vektor qaysi?}
+\subsection*{1. \(\vec{d}\)(7;0) vektorga yo'nalishdosh, uzunligi 14 bo'lgan vektor qaysi?}
 \begin{enumerate}[label=\alph*)]
 \item \{14;0\}
 \item \{7;0\}
@@ -187,7 +187,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{14;0\}
 
-\subsection*{\(\vec{e}\)(-9;12) vektorga yo'nalishdosh, uzunligi 15 bo'lgan vektor qaysi?}
+\subsection*{1. \(\vec{e}\)(-9;12) vektorga yo'nalishdosh, uzunligi 15 bo'lgan vektor qaysi?}
 \begin{enumerate}[label=\alph*)]
 \item \{-9;12\}
 \item \{9;-12\}
@@ -196,7 +196,7 @@
 \end{enumerate}
 \textbf{Javob:} c) \{-15;20\}
 
-\subsection*{\(\vec{f}\)(4;3) vektorga qarama-qarshi, uzunligi 10 bo'lgan vektor qaysi?}
+\subsection*{1. \(\vec{f}\)(4;3) vektorga qarama-qarshi, uzunligi 10 bo'lgan vektor qaysi?}
 \begin{enumerate}[label=\alph*)]
 \item \{-8;-6\}
 \item \{8;6\}
@@ -205,7 +205,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{-8;-6\}
 
-\subsection*{A(0;0), B(6;8) bo'lsa, AB vektor uzunligi nechcha?}
+\subsection*{1. A(0;0), B(6;8) bo'lsa, AB vektor uzunligi nechcha?}
 \begin{enumerate}[label=\alph*)]
 \item 10
 \item 14
@@ -214,7 +214,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 10
 
-\subsection*{\(\vec{a}\)(3;4) va \(\vec{b}\)(-2;5) vektorlar yig'indisi?}
+\subsection*{1. \(\vec{a}\)(3;4) va \(\vec{b}\)(-2;5) vektorlar yig'indisi?}
 \begin{enumerate}[label=\alph*)]
 \item \{1;9\}
 \item \{5;-1\}
@@ -223,7 +223,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{1;9\}
 
-\subsection*{\(\vec{a}\)(5;-2) va \(\vec{b}\)(1;7) vektorlar ayirmasi?}
+\subsection*{1. \(\vec{a}\)(5;-2) va \(\vec{b}\)(1;7) vektorlar ayirmasi?}
 \begin{enumerate}[label=\alph*)]
 \item \{4;-9\}
 \item \{6;5\}
@@ -232,7 +232,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{4;-9\}
 
-\subsection*{\(\vec{p}\)(-4;6) vektorni 3 ga ko'paytirsak natija?}
+\subsection*{1. \(\vec{p}\)(-4;6) vektorni 3 ga ko'paytirsak natija?}
 \begin{enumerate}[label=\alph*)]
 \item \{-12;18\}
 \item \{-1;2\}
@@ -241,7 +241,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{-12;18\}
 
-\subsection*{Parallelogramm uchlari A(1;1), B(5;4), C(2;7) bo'lsa, to'rtinchi nuqta?}
+\subsection*{1. Parallelogramm uchlari A(1;1), B(5;4), C(2;7) bo'lsa, to'rtinchi nuqta?}
 \begin{enumerate}[label=\alph*)]
 \item \{6;10\}
 \item \{4;3\}
@@ -250,7 +250,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{6;10\}
 
-\subsection*{\(\vec{a}\)(3;-1) va \(\vec{b}\)(2;4) bo'lsa, \(2\vec{a}-3\vec{b}\)=?}
+\subsection*{1. \(\vec{a}\)(3;-1) va \(\vec{b}\)(2;4) bo'lsa, \(2\vec{a}-3\vec{b}\)=?}
 \begin{enumerate}[label=\alph*)]
 \item \{0;-14\}
 \item \{6;2\}
@@ -259,7 +259,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{0;-14\}
 
-\subsection*{Quyidagi qatorning qismi yig'indisini toping: \(\sum_{n=1}^\infty \frac{1}{n(n+1)} = \frac{1}{1 \cdot 2} + \frac{1}{2 \cdot 3} + \frac{1}{3 \cdot 4} + \ldots\)}
+\subsection*{1. Quyidagi qatorning qismi yig'indisini toping: \(\sum_{n=1}^\infty \frac{1}{n(n+1)} = \frac{1}{1 \cdot 2} + \frac{1}{2 \cdot 3} + \frac{1}{3 \cdot 4} + \ldots\)}
 \begin{enumerate}[label=\alph*)]
 \item 1
 \item 1/2
@@ -268,7 +268,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 1
 
-\subsection*{\(\sum_{n=0}^\infty x^{2n}\) qator yig'indisini hisoblang}
+\subsection*{1. \(\sum_{n=0}^\infty x^{2n}\) qator yig'indisini hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item \(\frac{1}{1-x^2}\), \(|x|<1\)
 \item \(\frac{1}{1-x}\), \(|x|>1\)
@@ -277,7 +277,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(\frac{1}{1-x^2}\), \(|x|<1\)
 
-\subsection*{\(\lim_{n \to \infty} \frac{3nx + 5}{x^2 + n}\) limitini toping}
+\subsection*{1. \(\lim_{n \to \infty} \frac{3nx + 5}{x^2 + n}\) limitini toping}
 \begin{enumerate}[label=\alph*)]
 \item 3x
 \item 3/x
@@ -286,7 +286,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 3x
 
-\subsection*{\(\lim_{x \to +\infty} (\sqrt{x+a} - \sqrt{x})\) limitni hisoblang}
+\subsection*{1. \(\lim_{x \to +\infty} (\sqrt{x+a} - \sqrt{x})\) limitni hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item 0
 \item a
@@ -295,7 +295,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 0
 
-\subsection*{\(\int (\sin x - 3 \cos x) dx\) aniqlanmagan integralni hisoblang}
+\subsection*{1. \(\int (\sin x - 3 \cos x) dx\) aniqlanmagan integralni hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item \(-\cos x - 3 \sin x + C\)
 \item \(2 \cos x - 2 \sin x + C\)
@@ -304,7 +304,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(-\cos x - 3 \sin x + C\)
 
-\subsection*{\(y = 3x \sin x\) bo'lsa, y' hosilani hisoblang}
+\subsection*{1. \(y = 3x \sin x\) bo'lsa, y' hosilani hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item \(3 \sin x + 3x \cos x\)
 \item \(\sin x - 3x \cos x\)
@@ -313,7 +313,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(3 \sin x + 3x \cos x\)
 
-\subsection*{\(\lim_{x \to +\infty} \frac{4x^2 + 9}{3x + 1}\) limitni hisoblang}
+\subsection*{1. \(\lim_{x \to +\infty} \frac{4x^2 + 9}{3x + 1}\) limitni hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item 2/3
 \item 1/3
@@ -322,7 +322,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 2/3
 
-\subsection*{\(\lim_{x \to \infty} \frac{x^2 - 4}{5x^2 + 3x + 7}\) limitni hisoblang}
+\subsection*{1. \(\lim_{x \to \infty} \frac{x^2 - 4}{5x^2 + 3x + 7}\) limitni hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item 1/5
 \item 1/3
@@ -331,7 +331,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 1/5
 
-\subsection*{\(f(x) = \frac{3x - 5}{x^2 - 1}\) funksiya aniqlanish sohasini toping}
+\subsection*{1. \(f(x) = \frac{3x - 5}{x^2 - 1}\) funksiya aniqlanish sohasini toping}
 \begin{enumerate}[label=\alph*)]
 \item \((-\infty;1) \cup (-1;1) \cup (1;+\infty)\)
 \item \((-\infty;1) \cup (1;+\infty)\)
@@ -340,7 +340,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \((-\infty;1) \cup (-1;1) \cup (1;+\infty)\)
 
-\subsection*{\(\int_{-1}^{1} e^x dx\) ning qiymatini toping}
+\subsection*{1. \(\int_{-1}^{1} e^x dx\) ning qiymatini toping}
 \begin{enumerate}[label=\alph*)]
 \item \(\frac{e^2 - 1}{e}\)
 \item \(\frac{1}{e}\)
@@ -349,7 +349,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(\frac{e^2 - 1}{e}\)
 
-\subsection*{\(y = \frac{x^2 + 3}{2 - x}\) funksiyaning hosilasini toping}
+\subsection*{1. \(y = \frac{x^2 + 3}{2 - x}\) funksiyaning hosilasini toping}
 \begin{enumerate}[label=\alph*)]
 \item \(y' = \frac{4x - x^2 + 3}{(2 - x)^2}\)
 \item \(y' = \frac{4x + x^2 + 3}{(2 - x)^2}\)
@@ -358,7 +358,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(y' = \frac{4x - x^2 + 3}{(2 - x)^2}\)
 
-\subsection*{Agar A = \{1,2,3,4\} va B = \{3,4,5,6\} bo'lsa, \(A \cap B\) ni toping}
+\subsection*{1. Agar A = \{1,2,3,4\} va B = \{3,4,5,6\} bo'lsa, \(A \cap B\) ni toping}
 \begin{enumerate}[label=\alph*)]
 \item \{3,4\}
 \item \{2,4\}
@@ -367,7 +367,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \{3,4\}
 
-\subsection*{\(\sum a_n\) (\(a_n > 0\)) qatori albatta yaqinlashuvchi bo'ladi agar}
+\subsection*{1. \(\sum a_n\) (\(a_n > 0\)) qatori albatta yaqinlashuvchi bo'ladi agar}
 \begin{enumerate}[label=\alph*)]
 \item \(\lim \frac{a_{n+1}}{a_n} < 1\)
 \item \(\lim \frac{a_{n+1}}{a_n} < 2\)
@@ -376,7 +376,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(\lim \frac{a_{n+1}}{a_n} < 1\)
 
-\subsection*{\((a^{u(x)})'\) hosilani hisoblang}
+\subsection*{1. \((a^{u(x)})'\) hosilani hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item \(a^{u(x)} \ln a \cdot u'(x)\)
 \item \(a^{u(x)} \ln a\)
@@ -385,7 +385,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(a^{u(x)} \ln a \cdot u'(x)\)
 
-\subsection*{\(y = \frac{x}{x - 4}\) funksiyaning uzilish nuqtasini aniqlang}
+\subsection*{1. \(y = \frac{x}{x - 4}\) funksiyaning uzilish nuqtasini aniqlang}
 \begin{enumerate}[label=\alph*)]
 \item 4
 \item 0
@@ -394,7 +394,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 4
 
-\subsection*{\(\lim_{x \to 0} \frac{3^x - 1}{x}\) limitni hisoblang}
+\subsection*{1. \(\lim_{x \to 0} \frac{3^x - 1}{x}\) limitni hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item \(\ln 3\)
 \item 0
@@ -403,7 +403,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(\ln 3\)
 
-\subsection*{\(y = x^2 - x + 2\) funksiyaning grafigiga \(x_0 = 2\) nuqtadan o'tkazilgan urinmaning burchak koeffitsienti nechaga teng?}
+\subsection*{1. \(y = x^2 - x + 2\) funksiyaning grafigiga \(x_0 = 2\) nuqtadan o'tkazilgan urinmaning burchak koeffitsienti nechaga teng?}
 \begin{enumerate}[label=\alph*)]
 \item 3
 \item 2
@@ -412,7 +412,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 3
 
-\subsection*{\(\int (x + 1)^3 dx\) aniqlanmagan integralni hisoblang}
+\subsection*{1. \(\int (x + 1)^3 dx\) aniqlanmagan integralni hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item \(\frac{(x + 1)^4}{4} + C\)
 \item \(\frac{x^2}{2} + C\)
@@ -421,7 +421,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(\frac{(x + 1)^4}{4} + C\)
 
-\subsection*{\(\int_{0}^{1} x^2 dx\) aniq integralni hisoblang}
+\subsection*{1. \(\int_{0}^{1} x^2 dx\) aniq integralni hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item 1/3
 \item -4
@@ -430,7 +430,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 1/3
 
-\subsection*{\(\int_{6}^{7} \frac{dx}{x - 5}\) aniq integralni hisoblang}
+\subsection*{1. \(\int_{6}^{7} \frac{dx}{x - 5}\) aniq integralni hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item \(\ln 2\)
 \item 2
@@ -439,7 +439,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(\ln 2\)
 
-\subsection*{Quyidagi tengliklardan qaysi biri o'rinli?}
+\subsection*{1. Quyidagi tengliklardan qaysi biri o'rinli?}
 \begin{enumerate}[label=\alph*)]
 \item \(\int_{a}^{b} f(x) dx = - \int_{b}^{a} f(x) dx\)
 \item \(\int_{a}^{a} f(x) dx = - \int_{b}^{b} f(x) dx\)
@@ -448,7 +448,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(\int_{a}^{b} f(x) dx = - \int_{b}^{a} f(x) dx\)
 
-\subsection*{\(\lim_{x \to 0} \frac{\sin 3x}{3x}\) limitni hisoblang}
+\subsection*{1. \(\lim_{x \to 0} \frac{\sin 3x}{3x}\) limitni hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item 3
 \item 2
@@ -457,7 +457,7 @@
 \end{enumerate}
 \textbf{Javob:} c) 1
 
-\subsection*{\(\lim_{n \to \infty} \frac{7n^2 - 3n}{1 - 7n}\) limitni hisoblang}
+\subsection*{1. \(\lim_{n \to \infty} \frac{7n^2 - 3n}{1 - 7n}\) limitni hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item \(\infty\)
 \item 1/2
@@ -466,7 +466,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(\infty\)
 
-\subsection*{\(\lim_{x \to 0} \frac{\tan 2x}{x}\) limitni hisoblang}
+\subsection*{1. \(\lim_{x \to 0} \frac{\tan 2x}{x}\) limitni hisoblang}
 \begin{enumerate}[label=\alph*)]
 \item 2
 \item 1/2
@@ -475,7 +475,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 2
 
-\subsection*{f(x) funksiya \(x = x_0\) nuqtada uzluksiz deyiladi, agarda ...}
+\subsection*{1. f(x) funksiya \(x = x_0\) nuqtada uzluksiz deyiladi, agarda ...}
 \begin{enumerate}[label=\alph*)]
 \item \(\lim_{x \to x_0} f(x) = f(x_0)\)
 \item \(\lim_{x \to x_0} f(x) = \infty\)
@@ -484,7 +484,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(\lim_{x \to x_0} f(x) = f(x_0)\)
 
-\subsection*{Vektorlar u = (1, 0, 0) va v = (0, 1, 0) ning vektor ko'paytmasi qanday?}
+\subsection*{1. Vektorlar u = (1, 0, 0) va v = (0, 1, 0) ning vektor ko'paytmasi qanday?}
 \begin{enumerate}[label=\alph*)]
 \item (0, 0, 1)
 \item (0, 0, -1)
@@ -493,7 +493,7 @@
 \end{enumerate}
 \textbf{Javob:} a) (0, 0, 1)
 
-\subsection*{Chap sistema uchun i = (1,0,0), j = (0,1,0), k = (0,0,-1) to'g'ri-mi?}
+\subsection*{1. Chap sistema uchun i = (1,0,0), j = (0,1,0), k = (0,0,-1) to'g'ri-mi?}
 \begin{enumerate}[label=\alph*)]
 \item Ha
 \item Yo'q
@@ -502,7 +502,7 @@
 \end{enumerate}
 \textbf{Javob:} a) Ha
 
-\subsection*{Vektorlar u = (2, 0, 0) va v = (0, 3, 0) ning vektor ko'paytmasi qanday?}
+\subsection*{1. Vektorlar u = (2, 0, 0) va v = (0, 3, 0) ning vektor ko'paytmasi qanday?}
 \begin{enumerate}[label=\alph*)]
 \item (0, 0, 6)
 \item (0, 0, -6)
@@ -511,7 +511,7 @@
 \end{enumerate}
 \textbf{Javob:} a) (0, 0, 6)
 
-\subsection*{O'ng sistema uchun i = (1,0,0), j = (0,1,0), k = (0,0,1) to'g'ri-mi?}
+\subsection*{1. O'ng sistema uchun i = (1,0,0), j = (0,1,0), k = (0,0,1) to'g'ri-mi?}
 \begin{enumerate}[label=\alph*)]
 \item Ha
 \item Yo'q
@@ -520,7 +520,7 @@
 \end{enumerate}
 \textbf{Javob:} a) Ha
 
-\subsection*{Chap sistema uchun \(i \times j = -k\) to'g'ri tartibdami?}
+\subsection*{1. Chap sistema uchun \(i \times j = -k\) to'g'ri tartibdami?}
 \begin{enumerate}[label=\alph*)]
 \item Ha
 \item Yo'q
@@ -529,7 +529,7 @@
 \end{enumerate}
 \textbf{Javob:} a) Ha
 
-\subsection*{Chap sistema uchun \(k \times i = j\) to'g'ri tartibdami?}
+\subsection*{1. Chap sistema uchun \(k \times i = j\) to'g'ri tartibdami?}
 \begin{enumerate}[label=\alph*)]
 \item Ha
 \item Yo'q
@@ -538,7 +538,7 @@
 \end{enumerate}
 \textbf{Javob:} a) Ha
 
-\subsection*{Vektorlar u = (2, 3, 1) va v = (1, 1, 2) ning vektor ko'paytmasi qanday?}
+\subsection*{1. Vektorlar u = (2, 3, 1) va v = (1, 1, 2) ning vektor ko'paytmasi qanday?}
 \begin{enumerate}[label=\alph*)]
 \item (5, -3, -1)
 \item (-5, 3, 1)
@@ -547,7 +547,7 @@
 \end{enumerate}
 \textbf{Javob:} a) (5, -3, -1)
 
-\subsection*{O'ng sistema uchun \(i \times k = -j\) to'g'ri tartibdami?}
+\subsection*{1. O'ng sistema uchun \(i \times k = -j\) to'g'ri tartibdami?}
 \begin{enumerate}[label=\alph*)]
 \item Ha
 \item Yo'q
@@ -556,7 +556,7 @@
 \end{enumerate}
 \textbf{Javob:} a) Ha
 
-\subsection*{Bitta tekislikga parallel bo'lgan vektorlar to'plami …….vektorlar deyiladi.}
+\subsection*{1. Bitta tekislikga parallel bo'lgan vektorlar to'plami …….vektorlar deyiladi.}
 \begin{enumerate}[label=\alph*)]
 \item komplanar
 \item parallel
@@ -565,7 +565,7 @@
 \end{enumerate}
 \textbf{Javob:} a) komplanar
 
-\subsection*{Agar \(a_1, a_2, \ldots, a_n\) vektorlar sistemasining kamida bitta elementi 0 bo'lsa, bu vektorlar sistemasi .......... bo'ladi.}
+\subsection*{1. Agar \(a_1, a_2, \ldots, a_n\) vektorlar sistemasining kamida bitta elementi 0 bo'lsa, bu vektorlar sistemasi .......... bo'ladi.}
 \begin{enumerate}[label=\alph*)]
 \item chiziqli bog'liq
 \item chiziqli erkli
@@ -574,7 +574,7 @@
 \end{enumerate}
 \textbf{Javob:} a) chiziqli bog'liq
 
-\subsection*{Fazoda dekart koordinatalar sistemasi nechta oktantadan iborat?}
+\subsection*{1. Fazoda dekart koordinatalar sistemasi nechta oktantadan iborat?}
 \begin{enumerate}[label=\alph*)]
 \item 8 ta
 \item 7 ta
@@ -583,7 +583,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 8 ta
 
-\subsection*{a va b vektorlar orasidagi burchak \(\varphi = \frac{3\pi}{4}\) ga teng bo'lsa, \(|a| = 4\), \(|b| = 4\) bo'lsa, ularning skalyar ko'paytmasini toping.}
+\subsection*{1. a va b vektorlar orasidagi burchak \(\varphi = \frac{3\pi}{4}\) ga teng bo'lsa, \(|a| = 4\), \(|b| = 4\) bo'lsa, ularning skalyar ko'paytmasini toping.}
 \begin{enumerate}[label=\alph*)]
 \item -8
 \item 8
@@ -592,7 +592,7 @@
 \end{enumerate}
 \textbf{Javob:} a) -8
 
-\subsection*{\(\alpha\) ning qanday qiymatida \(a = \alpha i - 3j + 2k\) va \(b = i + 2j - \alpha k\) vektorlar o'zaro perpendikulyar bo'ladi?}
+\subsection*{1. \(\alpha\) ning qanday qiymatida \(a = \alpha i - 3j + 2k\) va \(b = i + 2j - \alpha k\) vektorlar o'zaro perpendikulyar bo'ladi?}
 \begin{enumerate}[label=\alph*)]
 \item -6
 \item -4
@@ -601,7 +601,7 @@
 \end{enumerate}
 \textbf{Javob:} a) -6
 
-\subsection*{Normal vektori n(3;2) bo'lgan va \(M_0(-3;4)\) nuqtadan o'tuvchi to'g'ri chiziq tenglamasini tuzing.}
+\subsection*{1. Normal vektori n(3;2) bo'lgan va \(M_0(-3;4)\) nuqtadan o'tuvchi to'g'ri chiziq tenglamasini tuzing.}
 \begin{enumerate}[label=\alph*)]
 \item \(3x + 2y + 1 = 0\)
 \item \(-3x + 2y = 0\)
@@ -610,7 +610,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(3x + 2y + 1 = 0\)
 
-\subsection*{Absissalar o'qidan 4 birlik, ordinatalar o'qidan (-5) birlik kesma ajratuvchi to'g'ri chiziq tenglamasini tuzing.}
+\subsection*{1. Absissalar o'qidan 4 birlik, ordinatalar o'qidan (-5) birlik kesma ajratuvchi to'g'ri chiziq tenglamasini tuzing.}
 \begin{enumerate}[label=\alph*)]
 \item \(5x - 4y - 20 = 0\)
 \item \(5x + 4y + 10 = 0\)
@@ -619,7 +619,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(5x - 4y - 20 = 0\)
 
-\subsection*{\(l_1: x + 7y - 5 = 0\) va \(l_2: 3x - 4y + 20 = 0\) to'g'ri chiziqlar orasidagi burchakni toping.}
+\subsection*{1. \(l_1: x + 7y - 5 = 0\) va \(l_2: 3x - 4y + 20 = 0\) to'g'ri chiziqlar orasidagi burchakni toping.}
 \begin{enumerate}[label=\alph*)]
 \item 45°
 \item 30°
@@ -628,7 +628,7 @@
 \end{enumerate}
 \textbf{Javob:} a) 45°
 
-\subsection*{u: x=5+2t, y=-8t+3, z=3t+4 to'g'ri chiziq bilan \(\Pi: 7x + y - 9z + 53 = 0\) tekislikning o'zaro vaziyatini aniqlang.}
+\subsection*{1. u: x=5+2t, y=-8t+3, z=3t+4 to'g'ri chiziq bilan \(\Pi: 7x + y - 9z + 53 = 0\) tekislikning o'zaro vaziyatini aniqlang.}
 \begin{enumerate}[label=\alph*)]
 \item umumiy nuqtaga ega emas
 \item kesishadi
@@ -637,7 +637,7 @@
 \end{enumerate}
 \textbf{Javob:} a) umumiy nuqtaga ega emas
 
-\subsection*{\(\frac{x^2}{36} + \frac{y^2}{9} = 1\) tenglama nimani anglatadi?}
+\subsection*{1. \(\frac{x^2}{36} + \frac{y^2}{9} = 1\) tenglama nimani anglatadi?}
 \begin{enumerate}[label=\alph*)]
 \item ellips
 \item giperbola
@@ -646,7 +646,7 @@
 \end{enumerate}
 \textbf{Javob:} a) ellips
 
-\subsection*{\(\frac{x^2}{25} - \frac{y^2}{144} = 1\) tenglama nimaning tenglamasi?}
+\subsection*{1. \(\frac{x^2}{25} - \frac{y^2}{144} = 1\) tenglama nimaning tenglamasi?}
 \begin{enumerate}[label=\alph*)]
 \item giperbola
 \item parabola
@@ -655,7 +655,7 @@
 \end{enumerate}
 \textbf{Javob:} a) giperbola
 
-\subsection*{\(\frac{x^2}{49} - \frac{y^2}{25} = 1\) giperbolaning fokuslari topilsin.}
+\subsection*{1. \(\frac{x^2}{49} - \frac{y^2}{25} = 1\) giperbolaning fokuslari topilsin.}
 \begin{enumerate}[label=\alph*)]
 \item (-7;0) va (7;0)
 \item (7;0) va (-7;0)
@@ -664,7 +664,7 @@
 \end{enumerate}
 \textbf{Javob:} a) (-7;0) va (7;0)
 
-\subsection*{\((x+2)^2 + (y+5)^2 + z^2 = 4\) tenglama bilan berilgan sferalarning markazi va radiusini toping.}
+\subsection*{1. \((x+2)^2 + (y+5)^2 + z^2 = 4\) tenglama bilan berilgan sferalarning markazi va radiusini toping.}
 \begin{enumerate}[label=\alph*)]
 \item (-2;-5;0), R=2
 \item (2;-5;0), R=4
@@ -673,7 +673,7 @@
 \end{enumerate}
 \textbf{Javob:} a) (-2;-5;0), R=2
 
-\subsection*{\(\frac{x^2}{4} + \frac{y^2}{16} + z^2 = 1\) tenglama qanday sirtni ifodalaydi?}
+\subsection*{1. \(\frac{x^2}{4} + \frac{y^2}{16} + z^2 = 1\) tenglama qanday sirtni ifodalaydi?}
 \begin{enumerate}[label=\alph*)]
 \item ellipsoid
 \item parabola
@@ -682,7 +682,7 @@
 \end{enumerate}
 \textbf{Javob:} a) ellipsoid
 
-\subsection*{\(M_0(1,0,-4)\) nuqtadan o'tadigan va u = \{1,-3,2\} vektorga parallel to'g'ri chiziqning kanonik tenglamasini yozing.}
+\subsection*{1. \(M_0(1,0,-4)\) nuqtadan o'tadigan va u = \{1,-3,2\} vektorga parallel to'g'ri chiziqning kanonik tenglamasini yozing.}
 \begin{enumerate}[label=\alph*)]
 \item \(\frac{x-1}{1} = \frac{y}{-3} = \frac{z+4}{2}\)
 \item \(\frac{x+1}{1} = \frac{y-2}{-3} = \frac{z-4}{2}\)
@@ -691,7 +691,7 @@
 \end{enumerate}
 \textbf{Javob:} a) \(\frac{x-1}{1} = \frac{y}{-3} = \frac{z+4}{2}\)
 
-\subsection*{x = 1 + 2t, y = 3t, z = -2 + t to'g'ri chiziq bilan \(2x - y + z + 1 = 0\) tekislikning kesishish nuqtasini toping.}
+\subsection*{1. x = 1 + 2t, y = 3t, z = -2 + t to'g'ri chiziq bilan \(2x - y + z + 1 = 0\) tekislikning kesishish nuqtasini toping.}
 \begin{enumerate}[label=\alph*)]
 \item \((0, -\frac{3}{2}, -\frac{5}{2})\)
 \item \((0, \frac{3}{2}, -\frac{5}{2})\)
