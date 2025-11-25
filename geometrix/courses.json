@@ -134,6 +134,54 @@
         "lecture": "https://raw.githubusercontent.com/M1rix/store/6975f17335863400c186a31e7db8e295baa07e8e/geometrix/pdf/MAVZU7.pdf",
         "tasks": "https://raw.githubusercontent.com/M1rix/store/6975f17335863400c186a31e7db8e295baa07e8e/geometrix/pdf/MASALALAR-7.pdf"
       }
+    },
+    {
+      "version": 6,
+      "id": 9,
+      "type": "Modul II",
+      "title": "Koordinatalari bilan berilgan vektorlarning skalyar, vektor va aralash ko‘paytmasi.",
+      "creator": "Sevara Ruslanovna",
+      "uses_count": 5432,
+      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
+      "route": "/courses/9",
+      "image": "./assets/images/formulas.webp",
+      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
+      "pdf": {
+        "lecture": "",
+        "tasks": ""
+      }
+    },
+    {
+      "version": 6,
+      "id": 10,
+      "type": "Modul II",
+      "title": "Tekislikda va fazoda dekart koordinatalar sistemasini almashtirish. Tekislikda va fazoda orientatsiya.",
+      "creator": "Sevara Ruslanovna",
+      "uses_count": 5432,
+      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
+      "route": "/courses/10",
+      "image": "./assets/images/formulas.webp",
+      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
+      "pdf": {
+        "lecture": "",
+        "tasks": ""
+      }
+    },
+    {
+      "version": 6,
+      "id": 11,
+      "type": "Modul II",
+      "title": "Qutb, silindrik va sferik koordinatalar sistemasi.",
+      "creator": "Sevara Ruslanovna",
+      "uses_count": 5432,
+      "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
+      "route": "/courses/11",
+      "image": "./assets/images/formulas.webp",
+      "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
+      "pdf": {
+        "lecture": "",
+        "tasks": ""
+      }
     }
   ]
 }
