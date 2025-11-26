@@ -1,546 +1,547 @@
 Quyidagi F(x,y(x),y'(x),...,y^(n)(x))=0 funksional bog‘lanishga nima deyiladi?
 A) n–tartibli o‘zgarmas koeffisientli chiziqli differensial tenglama
-B) n–tartibli o‘zgaruvchan koeffisientli chiziqli differensial tenglama
-C) Bernulli tenglamasi
-D) n–tartibli oddiy differensial tenglama
-ANSWER: D
-
-Hosilaga nisbatan yechilmagan 1-tartibli differensial tenglama umumiy ko‘rinishi quyidagicha?
-A) F(x,y,y')=0
-B) F(x,y,y')=y'
-C) y'=f(x,y)
-D) y'=f(x,y,z)
-ANSWER: A
-
-Ushbu ko‘rinishdagi tenglamaga o‘zgaruvchilari ajraladigan differensial tenglama deyiladi?
-A) y'=f(x)·g(y)
-B) y'=f(x,y)
-C) y'=a(x)y+b(x)
-D) y'=a(x)y+b(x)y^n
-ANSWER: A
-
-Ushbu ko‘rinishdagi tenglamaga o‘zgaruvchilari ajraladigan tenglamaga keltiriladigan tenglama deyiladi?
-A) y'=f(ax+by+c)
-B) y'=a(x)y+b(x)
-C) y'=a(x)y+b(x)y^n
-D) y'=f(x)·g(y)
-ANSWER: A
-
-Agar y'=f(x,y) differensial tenglamada f(λx,λy)=f(x,y) (λ>0) shart bajarilsa, bu tenglamaga nima deyiladi?
-A) bir jinsli differensial tenglama
-B) bir jinsli differensial tenglamaga keltiriladigan
-C) hosilaga nisbatan yechilmagan
-D) hosilaga nisbatan yechilgan
-ANSWER: A
-
-Ushbu ko‘rinishdagi tenglamaga birinchi tartibli chiziqli differensial tenglama deyiladi?
-A) y'+p(x)y=q(x)
-B) y'=f(x,y)
-C) F(x,y(x),y'(x),…,y^(n)(x))=0
-D) y'=a(x)y²+b(x)y+c(x)
-ANSWER: A
-
-dx/dt=f(t,x), dy/dt=g(t,y) sistemani qaysi usul bilan integrallash kerak?
-A) Sistema tenglamalarini har biri alohida integrallash kerak
-B) Xos qiymatlardan foydalanib integrallash kerak
-C) Bitta ikkinchi tartibli tenglama keltirib integrallash kerak
-D) Integrallovchi kombinatsiya tuzib integrallash kerak
-ANSWER: A
-
-y'+p(x)y=q(x) tenglamada y=a(x)z almashtirganda qanday tenglama hosil bo‘ladi?
-A) Chiziqli tenglama
 B) Bernulli tenglamasi
-C) o‘zgaruvchilari ajraladigan tenglama
-D) To‘liq differensial tenglama
-ANSWER: A
-
-Ly=y''+y bo‘lsa L(cos x) ni toping.
-A) 0
-B) cos 2x
-C) 2
-D) sin 2x
-ANSWER: A
-
-Ly=y''+3y bo‘lsa L(e^x) ni toping.
-A) 4e^x
-B) e^{2x}
-C) 3e^x
-D) 5e^x
-ANSWER: A
-
-Ly=y''+3y'-4y bo‘lsa L(e^x) ni toping.
-A) 0
-B) 8
-C) 9
-D) 5
-ANSWER: A
-
-y1 va y2 ikkinchi tartibli chiziqli bir jinsli tenglamaning chiziqli erkli yechimlari bo‘lsa umumiy yechim qanday?
-A) y=c₁y₁+c₂y₂, c₁ va c₂ – o‘zgarmas son
-B) y=y₁+c(y₂+y₁), c – o‘zgarmas son
-C) y=c(y₁+y₂), c – o‘zgarmas son
-D) y=e^{c(y₁+y₂)}, c – o‘zgarmas son
-ANSWER: A
-
-w[1,e^x] Vronskiy determinantining w(0) qiymati nechcha?
-A) 1
-B) 2
-C) e^x
-D) 10
-ANSWER: A
-
-A(5;3) nuqta AB vektor boshi, B(-2;7) oxiri bo‘lsa, AB vektor koordinatalari?
-A) {-7;4}
-B) {7;-4}
-C) {-2;7}
-D) {5;3}
-ANSWER: A
-
-A(-4;6) nuqta AB boshi, B(3;-1) oxiri bo‘lsa, AB vektor koordinatalari?
-A) {7;-7}
-B) {-7;7}
-C) {3;-1}
-D) {-4;6}
-ANSWER: A
-
-AB(5;-3) vektor boshi A(2;8) bo‘lsa, B nuqta koordinatalari?
-A) {7;5}
-B) {-3;11}
-C) {2;8}
-D) {5;-3}
-ANSWER: A
-
-AB(-6;4) vektor oxiri B(1;-5) bo‘lsa, A nuqta koordinatalari?
-A) {7;-9}
-B) {-5;-1}
-C) {1;-5}
-D) {-6;4}
-ANSWER: A
-
-\vec{a}(3;-4) vektorga yo‘nalishdosh birlik vektor qaysi?
-A) {3/5; -4/5}
-B) {-3/5; 4/5}
-C) {4/5; 3/5}
-D) {1/5; 2/5}
-ANSWER: A
-
-\vec{b}(-5;12) vektorga yo‘nalishdosh birlik vektor qaysi?
-A) {-5/13; 12/13}
-B) {5/13; -12/13}
-C) {12/13; 5/13}
-D) {1/13; 3/13}
-ANSWER: A
-
-\vec{c}(8;-6) vektorga qarama-qarshi yo‘nalgan birlik vektor qaysi?
-A) {-8/10; 6/10}
-B) {8/10; -6/10}
-C) {6/10; 8/10}
-D) {4/10; 3/10}
-ANSWER: A
-
-\vec{d}(7;0) vektorga yo‘nalishdosh, uzunligi 14 bo‘lgan vektor qaysi?
-A) {14;0}
-B) {7;0}
-C) {-14;0}
-D) {3.5;0}
-ANSWER: A
-
-\vec{e}(-9;12) vektorga yo‘nalishdosh, uzunligi 15 bo‘lgan vektor qaysi?
-A) {-9;12}
-B) {9;-12}
-C) {-15;20}
-D) {15;-20}
+C) n–tartibli oddiy differensial tenglama
+D) n–tartibli o‘zgaruvchan koeffisientli chiziqli differensial tenglama
 ANSWER: C
 
+Hosilaga nisbatan yechilmagan 1-tartibli differensial tenglama umumiy ko‘rinishi quyidagicha?
+A) y'=f(x,y)
+B) F(x,y,y')=y'
+C) F(x,y,y')=0
+D) y'=f(x,y,z)
+ANSWER: C
+
+Ushbu ko‘rinishdagi tenglamaga o‘zgaruvchilari ajraladigan differensial tenglama deyiladi?
+A) y'=a(x)y+b(x)
+B) y'=f(x,y)
+C) y'=f(x)·g(y)
+D) y'=a(x)y+b(x)y^n
+ANSWER: C
+
+Ushbu ko‘rinishdagi tenglamaga o‘zgaruvchilari ajraladigan tenglamaga keltiriladigan tenglama deyiladi?
+A) y'=f(x)·g(y)
+B) y'=f(ax+by+c)
+C) y'=a(x)y+b(x)y^n
+D) y'=a(x)y+b(x)
+ANSWER: B
+
+Agar y'=f(x,y) differensial tenglamada f(λx,λy)=f(x,y) (λ>0) shart bajarilsa, bu tenglamaga nima deyiladi?
+A) bir jinsli differensial tenglamaga keltiriladigan
+B) hosilaga nisbatan yechilgan
+C) hosilaga nisbatan yechilmagan
+D) bir jinsli differensial tenglama
+ANSWER: D
+
+Ushbu ko‘rinishdagi tenglamaga birinchi tartibli chiziqli differensial tenglama deyiladi?
+A) y'=a(x)y²+b(x)y+c(x)
+B) F(x,y(x),y'(x),…,y^(n)(x))=0
+C) y'=f(x,y)
+D) y'+p(x)y=q(x)
+ANSWER: D
+
+dx/dt=f(t,x), dy/dt=g(t,y) sistemani qaysi usul bilan integrallash kerak?
+A) Xos qiymatlardan foydalanib integrallash kerak
+B) Integrallovchi kombinatsiya tuzib integrallash kerak
+C) Bitta ikkinchi tartibli tenglama keltirib integrallash kerak
+D) Sistema tenglamalarini har biri alohida integrallash kerak
+ANSWER: D
+
+y'+p(x)y=q(x) tenglamada y=a(x)z almashtirganda qanday tenglama hosil bo‘ladi?
+A) o‘zgaruvchilari ajraladigan tenglama
+B) Bernulli tenglamasi
+C) To‘liq differensial tenglama
+D) Chiziqli tenglama
+ANSWER: D
+
+Ly=y''+y bo‘lsa L(cos x) ni toping.
+A) 2
+B) cos 2x
+C) 0
+D) sin 2x
+ANSWER: C
+
+Ly=y''+3y bo‘lsa L(e^x) ni toping.
+A) 3e^x
+B) e^{2x}
+C) 4e^x
+D) 5e^x
+ANSWER: C
+
+Ly=y''+3y'-4y bo‘lsa L(e^x) ni toping.
+A) 9
+B) 5
+C) 8
+D) 0
+ANSWER: D
+
+y1 va y2 ikkinchi tartibli chiziqli bir jinsli tenglamaning chiziqli erkli yechimlari bo‘lsa umumiy yechim qanday?
+A) y=c(y₁+y₂), c – o‘zgarmas son
+B) y=c₁y₁+c₂y₂, c₁ va c₂ – o‘zgarmas son
+C) y=y₁+c(y₂+y₁), c – o‘zgarmas son
+D) y=e^{c(y₁+y₂)}, c – o‘zgarmas son
+ANSWER: B
+
+w[1,e^x] Vronskiy determinantining w(0) qiymati nechcha?
+A) 10
+B) 2
+C) e^x
+D) 1
+ANSWER: D
+
+A(5;3) nuqta AB vektor boshi, B(-2;7) oxiri bo‘lsa, AB vektor koordinatalari?
+A) {5;3}
+B) {7;-4}
+C) {-2;7}
+D) {-7;4}
+ANSWER: D
+
+A(-4;6) nuqta AB boshi, B(3;-1) oxiri bo‘lsa, AB vektor koordinatalari?
+A) {-4;6}
+B) {7;-7}
+C) {-7;7}
+D) {3;-1}
+ANSWER: B
+
+AB(5;-3) vektor boshi A(2;8) bo‘lsa, B nuqta koordinatalari?
+A) {-3;11}
+B) {7;5}
+C) {5;-3}
+D) {2;8}
+ANSWER: B
+
+AB(-6;4) vektor oxiri B(1;-5) bo‘lsa, A nuqta koordinatalari?
+A) {-6;4}
+B) {7;-9}
+C) {-5;-1}
+D) {1;-5}
+ANSWER: B
+
+\vec{a}(3;-4) vektorga yo‘nalishdosh birlik vektor qaysi?
+A) {-3/5; 4/5}
+B) {1/5; 2/5}
+C) {4/5; 3/5}
+D) {3/5; -4/5}
+ANSWER: D
+
+\vec{b}(-5;12) vektorga yo‘nalishdosh birlik vektor qaysi?
+A) {5/13; -12/13}
+B) {12/13; 5/13}
+C) {1/13; 3/13}
+D) {-5/13; 12/13}
+ANSWER: D
+
+\vec{c}(8;-6) vektorga qarama-qarshi yo‘nalgan birlik vektor qaysi?
+A) {4/10; 3/10}
+B) {8/10; -6/10}
+C) {-8/10; 6/10}
+D) {6/10; 8/10}
+ANSWER: C
+
+\vec{d}(7;0) vektorga yo‘nalishdosh, uzunligi 14 bo‘lgan vektor qaysi?
+A) {-14;0}
+B) {7;0}
+C) {3.5;0}
+D) {14;0}
+ANSWER: D
+
+\vec{e}(-9;12) vektorga yo‘nalishdosh, uzunligi 15 bo‘lgan vektor qaysi?
+A) {9;-12}
+B) {15;-20}
+C) {-9;12}
+D) {-15;20}
+ANSWER: D
+
 \vec{f}(4;3) vektorga qarama-qarshi, uzunligi 10 bo‘lgan vektor qaysi?
-A) {-8;-6}
-B) {8;6}
+A) {8;6}
+B) {4;3}
 C) {-4;-3}
-D) {4;3}
-ANSWER: A
+D) {-8;-6}
+ANSWER: D
 
 A(0;0), B(6;8) bo‘lsa, AB vektor uzunligi nechcha?
-A) 10
-B) 14
-C) 8
-D) 6
-ANSWER: A
+A) 14
+B) 6
+C) 10
+D) 8
+ANSWER: C
 
 \vec{a}(3;4) va \vec{b}(-2;5) vektorlar yig‘indisi?
-A) {1;9}
+A) {6;20}
 B) {5;-1}
-C) {-1;-1}
-D) {6;20}
-ANSWER: A
+C) {1;9}
+D) {-1;-1}
+ANSWER: C
 
 \vec{a}(5;-2) va \vec{b}(1;7) vektorlar ayirmasi?
-A) {4;-9}
-B) {6;5}
-C) {4;9}
+A) {4;9}
+B) {4;-9}
+C) {6;5}
 D) {-4;-9}
-ANSWER: A
+ANSWER: B
 
 \vec{p}(-4;6) vektorni 3 ga ko‘paytirsak natija?
-A) {-12;18}
+A) {12;-18}
 B) {-1;2}
-C) {12;-18}
+C) {-12;18}
 D) {-4;6}
-ANSWER: A
+ANSWER: C
 
 Parallelogramm uchlari A(1;1), B(5;4), C(2;7) bo‘lsa, to‘rtinchi nuqta?
-A) {6;10}
-B) {4;3}
-C) {3;8}
-D) {7;11}
-ANSWER: A
+A) {3;8}
+B) {7;11}
+C) {6;10}
+D) {4;3}
+ANSWER: C
 
 \vec{a}(3;-1) va \vec{b}(2;4) bo‘lsa, 2\vec{a}-3\vec{b}=?
-A) {0;-14}
-B) {6;2}
-C) {12;-8}
-D) {0;14}
-ANSWER: A
+A) {6;2}
+B) {12;-8}
+C) {0;14}
+D) {0;-14}
+ANSWER: D
 
 
 Quyidagi qatorning qismi yig‘indisini toping: ∑_{n=1}^∞ 1/(n(n+1)) = 1/1·2 + 1/2·3 + 1/3·4 + ...
-A. 1
-B. 1/2
-C. 1/3
-D. 2
-ANSWER: A
+A. 2
+B. 1/3
+C. 1/2
+D. 1
+ANSWER: D
 
 ∑_{n=0}^∞ x^{2n} qator yig‘indisini hisoblang
-A. 1/(1-x²), |x|<1
-B. 1/(1-x), |x|>1
-C. 1/(1-x²), |x|≥1
-D. 1/(1+x), |x|<1
-ANSWER: A
+A) 1/(1-x), |x|>1
+B) 1/(1-x²), |x|≥1
+C) 1/(1+x), |x|<1
+D) 1/(1-x²), |x|<1
+ANSWER: D
 
 lim_{n→∞} (3nx + 5)/(x² + n) limitini toping
-A. 3x
-B. 3/x
-C. 5/x
-D. 0
-ANSWER: A
-
-lim_{x→+∞} (√(x+a) - √x) limitni hisoblang
 A. 0
-B. a
-C. 1
-D. ∞
-ANSWER: A
-
-∫ (sin x - 3 cos x) dx aniqlanmagan integralni hisoblang
-A. -cos x - 3 sin x + C
-B. 2 cos x - 2 sin x + C
-C. cos x + 3 sin x + C
-D. -cos x + 3 sin x + C
-ANSWER: A
-
-y = 3x sin x bo‘lsa, y' hosilani hisoblang
-A. 3 sin x + 3x cos x
-B. sin x - 3x cos x
-C. sin x + cos x
-D. 3 sin x - 3x cos x
-ANSWER: A
-
-lim_{x→+∞} (4x² + 9)/(3x + 1) limitni hisoblang
-A. 2/3
-B. 1/3
-C. 4/3
-D. 3
-ANSWER: A
-
-lim_{x→∞} (x² - 4)/(5x² + 3x + 7) limitni hisoblang
-A. 1/5
-B. 1/3
-C. 4/3
-D. 0
-ANSWER: A
-
-f(x) = (3x - 5)/(x² - 1) funksiya aniqlanish sohasini toping
-A. (-∞;1) ∪ (-1;1) ∪ (1;+∞)
-B. (-∞;1) ∪ (1;+∞)
-C. x ∈ ℝ
-D. (-1;1)
-ANSWER: A
-
-∫_{-1}^{1} e^x dx ning qiymatini toping
-A. (e² - 1)/e
-B. 1/e
-C. e
-D. e - 1
-ANSWER: A
-
-y = (x² + 3)/(2 - x) funksiyaning hosilasini toping
-A. y' = (4x - x² + 3)/(2 - x)²
-B. y' = (4x + x² + 3)/(2 - x)²
-C. y' = (2x - x² + 3)/(2 - x)²
-D. y' = (x² + 3)/(2 - x)²
-ANSWER: A
-
-Agar A = {1,2,3,4} va B = {3,4,5,6} bo‘lsa, A ∩ B ni toping
-A. {3,4}
-B. {2,4}
-C. ∅
-D. {1,2,3,4,5,6}
-ANSWER: A
-
-∑ a_n (a_n > 0) qatori albatta yaqinlashuvchi bo‘ladi agar
-A. lim (a_{n+1}/a_n) < 1
-B. lim (a_{n+1}/a_n) < 2
-C. lim (a_{n+1}/a_n) > 1
-D. lim (a_{n+1}/a_n) = 1
-ANSWER: A
-
-(a^{u(x)})' hosilani hisoblang
-A. a^{u(x)} ln a · u'(x)
-B. a^{u(x)} ln a
-C. -a^{u(x)} ln a · u'(x)
-D. a^{u(x)} u'(x)
-ANSWER: A
-
-y = x/(x - 4) funksiyaning uzilish nuqtasini aniqlang
-A. 4
-B. 0
-C. -4
-D. uzilish yo‘q
-ANSWER: A
-
-lim_{x→0} (3^x - 1)/x limitni hisoblang
-A. ln 3
-B. 0
-C. -1
-D. 3
-ANSWER: A
-
-y = x² - x + 2 funksiyaning grafigiga x₀ = 2 nuqtadan o‘tkazilgan urinmaning burchak koeffitsienti nechaga teng?
-A. 3
-B. 2
-C. -1
-D. 4
-ANSWER: A
-
-∫ (x + 1)^3 dx aniqlanmagan integralni hisoblang
-A. (x + 1)^4 / 4 + C
-B. x²/2 + C
-C. x^4/4 + C
-D. x + 1 + C
-ANSWER: A
-
-∫_{0}^{1} x² dx aniq integralni hisoblang
-A. 1/3
-B. -4
-C. 1/4
-D. 8/3
-ANSWER: A
-
-∫_{6}^{7} dx/(x - 5) aniq integralni hisoblang
-A. ln 2
-B. 2
-C. 1/4
-D. 1
-ANSWER: A
-
-Quyidagi tengliklardan qaysi biri o‘rinli?
-A. ∫_{a}^{b} f(x) dx = - ∫_{b}^{a} f(x) dx
-B. ∫_{a}^{a} f(x) dx = - ∫_{b}^{b} f(x) dx
-C. ∫_{a}^{a} f(x) dx = 1
-D. ∫_{a}^{b} f(x) dx = ∫_{a}^{b} f(-x) dx
-ANSWER: A
-
-lim_{x→0} (sin 3x)/(3x) limitni hisoblang
-A. 3
-B. 2
-C. 1
-D. 1/4
+B. 5/x
+C. 3x
+D. 3/x
 ANSWER: C
 
-lim_{n→∞} (7n² - 3n)/(1 - 7n) limitni hisoblang
-A. ∞
-B. 1/2
+lim_{x→+∞} (√(x+a) - √x) limitni hisoblang
+A. a
+B. 0
+C. 1
+D. ∞
+ANSWER: B
+
+∫ (sin x - 3 cos x) dx aniqlanmagan integralni hisoblang
+A. cos x + 3 sin x + C
+B. 2 cos x - 2 sin x + C
+C. -cos x + 3 sin x + C
+D. -cos x - 3 sin x + C
+ANSWER: D
+
+y = 3x sin x bo‘lsa, y' hosilani hisoblang
+A. sin x - 3x cos x
+B. sin x + cos x
+C. 3 sin x - 3x cos x
+D. 3 sin x + 3x cos x
+ANSWER: D
+
+lim_{x→+∞} (4x² + 9)/(3x + 1) limitni hisoblang
+A. 3
+B. 1/3
+C. 4/3
+D. 2/3
+ANSWER: D
+
+lim_{x→∞} (x² - 4)/(5x² + 3x + 7) limitni hisoblang
+A. 4/3
+B. 0
+C. 1/3
+D. 1/5
+ANSWER: D
+
+f(x) = (3x - 5)/(x² - 1) funksiya aniqlanish sohasini toping
+A) (-∞;1) ∪ (1;+∞)
+B) x ∈ ℝ
+C) (-1;1)
+D) (-∞;1) ∪ (-1;1) ∪ (1;+∞)
+ANSWER: D
+
+∫_{-1}^{1} e^x dx ning qiymatini toping
+A) e
+B) 1/e
+C) (e² - 1)/e
+D) e - 1
+ANSWER: C
+
+y = (x² + 3)/(2 - x) funksiyaning hosilasini toping
+A) y' = (x² + 3)/(2 - x)²
+B) y' = (4x + x² + 3)/(2 - x)²
+C) y' = (4x - x² + 3)/(2 - x)²
+D) y' = (2x - x² + 3)/(2 - x)²
+ANSWER: C
+
+Agar A = {1,2,3,4} va B = {3,4,5,6} bo‘lsa, A ∩ B ni toping
+A. {2,4}
+B. ∅
+C. {1,2,3,4,5,6}
+D. {3,4}
+ANSWER: D
+
+∑ a_n (a_n > 0) qatori albatta yaqinlashuvchi bo‘ladi agar
+A) lim (a_{n+1}/a_n) = 1
+B) lim (a_{n+1}/a_n) < 2
+C) lim (a_{n+1}/a_n) > 1
+D) lim (a_{n+1}/a_n) < 1
+ANSWER: D
+
+(a^{u(x)})' hosilani hisoblang
+A) a^{u(x)} u'(x)
+B) a^{u(x)} ln a · u'(x)
+C) -a^{u(x)} ln a · u'(x)
+D) a^{u(x)} ln a
+ANSWER: B
+
+y = x/(x - 4) funksiyaning uzilish nuqtasini aniqlang
+A. uzilish yo‘q
+B. -4
+C. 0
+D. 4
+ANSWER: D
+
+lim_{x→0} (3^x - 1)/x limitni hisoblang
+A. 3
+B. ln 3
+C. 0
+D. -1
+ANSWER: B
+
+y = x² - x + 2 funksiyaning grafigiga x₀ = 2 nuqtadan o‘tkazilgan urinmaning burchak koeffitsienti nechaga teng?
+A. 4
+B. 3
+C. 2
+D. -1
+ANSWER: B
+
+∫ (x + 1)^3 dx aniqlanmagan integralni hisoblang
+A) x²/2 + C
+B) (x + 1)^4 / 4 + C
+C) x^4/4 + C
+D) x + 1 + C
+ANSWER: B
+
+∫_{0}^{1} x² dx aniq integralni hisoblang
+A. -4
+B. 1/4
+C. 8/3
+D. 1/3
+ANSWER: D
+
+∫_{6}^{7} dx/(x - 5) aniq integralni hisoblang
+A. 1
+B. ln 2
 C. 1/4
+D. 2
+ANSWER: B
+
+Quyidagi tengliklardan qaysi biri o‘rinli?
+A) ∫_{a}^{b} f(x) dx = ∫_{a}^{b} f(-x) dx
+B) ∫_{a}^{b} f(x) dx = - ∫_{b}^{a} f(x) dx
+C) ∫_{a}^{a} f(x) dx = - ∫_{b}^{b} f(x) dx
+D) ∫_{a}^{a} f(x) dx = 1
+ANSWER: B
+
+lim_{x→0} (sin 3x)/(3x) limitni hisoblang
+A. 2
+B. 1
+C. 3
+D. 1/4
+ANSWER: B
+
+lim_{n→∞} (7n² - 3n)/(1 - 7n) limitni hisoblang
+A. 1/4
+B. 1/2
+C. ∞
 D. -∞
-ANSWER: A
+ANSWER: C
 
 lim_{x→0} (tg 2x)/x limitni hisoblang
-A. 2
-B. 1/2
-C. 0
-D. ∞
-ANSWER: A
+A. 1/2
+B. 0
+C. ∞
+D. 2
+ANSWER: D
 
 f(x) funksiya x = x₀ nuqtada uzluksiz deyiladi, agarda ...
-A. lim_{x→x₀} f(x) = f(x₀)
-B. lim_{x→x₀} f(x) = ∞
-C. limit mavjud emas
-D. f(x₀) aniqlanmagan
-ANSWER: A
+A) f(x₀) aniqlanmagan
+B) limit mavjud emas
+C) lim_{x→x₀} f(x) = f(x₀)
+D) lim_{x→x₀} f(x) = ∞
+ANSWER: C
 
 Vektorlar u = (1, 0, 0) va v = (0, 1, 0) ning vektor ko‘paytmasi qanday?
-A. (0, 0, 1)
-B. (0, 0, -1)
-C. (1, 1, 0)
-D. (0, 1, 1)
-ANSWER: A
+A) (0, 0, -1)
+B) (0, 0, 1)
+C) (0, 1, 1)
+D) (1, 1, 0)
+ANSWER: B
 
 Chap sistema uchun i = (1,0,0), j = (0,1,0), k = (0,0,-1) to‘g‘ri-mi?
-A. Ha
-B. Yo‘q
+A. Yo‘q
+B. Ha
 C. Faqat i va j to‘g‘ri
 D. Faqat k to‘g‘ri
-ANSWER: A
+ANSWER: B
 
 Vektorlar u = (2, 0, 0) va v = (0, 3, 0) ning vektor ko‘paytmasi qanday?
-A. (0, 0, 6)
-B. (0, 0, -6)
-C. (6, 0, 0)
-D. (0, 6, 0)
-ANSWER: A
+A) (6, 0, 0)
+B) (0, 0, -6)
+C) (0, 0, 6)
+D) (0, 6, 0)
+ANSWER: C
 
 O‘ng sistema uchun i = (1,0,0), j = (0,1,0), k = (0,0,1) to‘g‘ri-mi?
-A. Ha
-B. Yo‘q
-C. Faqat i va j to‘g‘ri
-D. Faqat k to‘g‘ri
-ANSWER: A
+A. Faqat i va j to‘g‘ri
+B. Faqat k to‘g‘ri
+C. Ha
+D. Yo‘q
+ANSWER: C
 
 Chap sistema uchun i × j = -k to‘g‘ri tartibdami?
-A. Ha
-B. Yo‘q
-C. Faqat i va k to‘g‘ri
-D. Faqat j to‘g‘ri
-ANSWER: A
+A. Faqat j to‘g‘ri
+B. Faqat i va k to‘g‘ri
+C. Ha
+D. Yo‘q
+ANSWER: C
 
 Chap sistema uchun k × i = j to‘g‘ri tartibdami?
-A. Ha
-B. Yo‘q
-C. Faqat k va i to‘g‘ri
-D. Faqat j to‘g‘ri
-ANSWER: A
+A. Yo‘q
+B. Faqat j to‘g‘ri
+C. Ha
+D. Faqat k va i to‘g‘ri
+ANSWER: C
 
 Vektorlar u = (2, 3, 1) va v = (1, 1, 2) ning vektor ko‘paytmasi qanday?
-A. (5, -3, -1)
-B. (-5, 3, 1)
-C. (1, -5, 3)
-D. (3, 1, -5)
-ANSWER: A
+A) (3, 1, -5)
+B) (5, -3, -1)
+C) (1, -5, 3)
+D) (-5, 3, 1)
+ANSWER: B
 
 O‘ng sistema uchun i × k = -j to‘g‘ri tartibdami?
-A. Ha
-B. Yo‘q
-C. Faqat i va k to‘g‘ri
-D. Faqat j to‘g‘ri
-ANSWER: A
+A. Faqat i va k to‘g‘ri
+B. Ha
+C. Faqat j to‘g‘ri
+D. Yo‘q
+ANSWER: B
 
 Bitta tekislikka parallel bo‘lgan vektorlar to‘plami …….vektorlar deyiladi.
-A) komplanar
-B) parallel
-C) ayqash
+A) parallel
+B) ayqash
+C) komplanar
 D) birlik
-ANSWER: A
+ANSWER: C
 
 Agar a₁, a₂, ..., aₙ vektorlar sistemasining kamida bitta elementi 0 bo‘lsa, bu vektorlar sistemasi .......... bo‘ladi.
-A) chiziqli bog‘liq
-B) chiziqli erkli
+A) chiziqli erkli
+B) chiziqli bog‘liq
 C) nol vektor sistemasi
 D) parallel
-ANSWER: A
+ANSWER: B
 
 Fazoda dekart koordinatalar sistemasi nechta oktantadan iborat?
-A) 8 ta
-B) 7 ta
+A) 7 ta
+B) 4 ta
 C) 6 ta
-D) 4 ta
-ANSWER: A
+D) 8 ta
+ANSWER: D
 
 a va b vektorlar orasidagi burchak φ = 3π/4 ga teng bo‘lsa, |a| = 4, |b| = 4 bo‘lsa, ularning skalyar ko‘paytmasini toping.
-A) -8
+A) -16
 B) 8
 C) 0
-D) -16
-ANSWER: A
+D) -8
+ANSWER: D
 
 α ning qanday qiymatida a = αi – 3j + 2k va b = i + 2j – αk vektorlar o‘zaro perpendikulyar bo‘ladi?
-A) -6
+A) 5
 B) -4
-C) 6
-D) 5
-ANSWER: A
+C) -6
+D) 6
+ANSWER: C
 
 Normal vektori n(3;2) bo‘lgan va M₀(-3;4) nuqtadan o‘tuvchi to‘g‘ri chiziq tenglamasini tuzing.
-A) 3x + 2y + 1 = 0
+A) -3x + 2y - 2 = 0
 B) -3x + 2y = 0
-C) -3x + 2y - 2 = 0
-D) x + y + 1 = 0
-ANSWER: A
+C) x + y + 1 = 0
+D) 3x + 2y + 1 = 0
+ANSWER: D
 
 Absissalar o‘qidan 4 birlik, ordinatalar o‘qidan (-5) birlik kesma ajratuvchi to‘g‘ri chiziq tenglamasini tuzing.
-A) 5x – 4y – 20 = 0
-B) 5x + 4y + 10 = 0
-C) 3x + 2y – 20 = 0
-D) 8x + 7y – 10 = 0
-ANSWER: A
+A) 5x + 4y + 10 = 0
+B) 8x + 7y – 10 = 0
+C) 5x – 4y – 20 = 0
+D) 3x + 2y – 20 = 0
+ANSWER: C
 
 l₁: x + 7y – 5 = 0 va l₂: 3x – 4y + 20 = 0 to‘g‘ri chiziqlar orasidagi burchakni toping.
-A) 45°
+A) 90°
 B) 30°
-C) 60°
-D) 90°
-ANSWER: A
+C) 45°
+D) 60°
+ANSWER: C
 
 u: x=5+2t, y=-8t+3, z=3t+4 to‘g‘ri chiziq bilan Π: 7x + y – 9z + 53 = 0 tekislikning o‘zaro vaziyatini aniqlang.
-A) umumiy nuqtaga ega emas
+A) ikki nuqtada kesib o‘tadi
 B) kesishadi
-C) parallel
-D) ikki nuqtada kesib o‘tadi
-ANSWER: A
+C) umumiy nuqtaga ega emas
+D) parallel
+ANSWER: C
 
 x²/36 + y²/9 = 1 tenglama nimani anglatadi?
-A) ellips
-B) giperbola
-C) parabola
-D) ellipsoid
-ANSWER: A
-
-x²/25 – y²/144 = 1 tenglama nimaning tenglamasi?
 A) giperbola
 B) parabola
-C) ellipsoid
-D) giperboloid
-ANSWER: A
+C) ellips
+D) ellipsoid
+ANSWER: C
+
+x²/25 – y²/144 = 1 tenglama nimaning tenglamasi?
+A) parabola
+B) ellipsoid
+C) giperboloid
+D) giperbola
+ANSWER: D
 
 x²/49 – y²/25 = 1 giperbolaning fokuslari topilsin.
-A) (-7;0) va (7;0)
-B) (7;0) va (-7;0)
+A) (7;0) va (-7;0)
+B) (-7;0) va (7;0)
 C) (0;5) va (0;-5)
 D) (5;0) va (-5;0)
-ANSWER: A
+ANSWER: B
 
 (x+2)² + (y+5)² + z² = 4 tenglama bilan berilgan sferalarning markazi va radiusini toping.
-A) (-2;-5;0), R=2
-B) (2;-5;0), R=4
-C) (-2;5;0), R=2
-D) (-2;-5;0), R=4
-ANSWER: A
+A) (2;-5;0), R=4
+B) (-2;-5;0), R=4
+C) (-2;-5;0), R=2
+D) (-2;5;0), R=2
+ANSWER: C
 
 x²/4 + y²/16 + z² = 1 tenglama qanday sirtni ifodalaydi?
-A) ellipsoid
+A) giperboloid
 B) parabola
 C) ellips
-D) giperboloid
-ANSWER: A
+D) ellipsoid
+ANSWER: D
 
 M₀(1,0,-4) nuqtadan o‘tadigan va u = {1,-3,2} vektorga parallel to‘g‘ri chiziqning kanonik tenglamasini yozing.
-A) (x-1)/1 = y/(-3) = (z+4)/2
-B) (x+1)/1 = (y-2)/(-3) = (z-4)/2
+A) (x+1)/1 = (y-2)/(-3) = (z-4)/2
+B) (x-1)/1 = y/(-3) = (z+4)/2
 C) x/1 = (y+2)/(-3) = (z-3)/2
 D) (x-1)/2 = y/(-3) = (z+4)/1
-ANSWER: A
+ANSWER: B
 
 x = 1 + 2t, y = 3t, z = -2 + t to‘g‘ri chiziq bilan 2x – y + z + 1 = 0 tekislikning kesishish nuqtasini toping.
-A) (0, -3/2, -5/2)
-B) (0, 3/2, -5/2)
-C) (1, -3/2, 2)
+
+A) (1, -3/2, 2)
+B) (0, -3/2, -5/2)
+C) (0, 3/2, -5/2)
 D) (0, -3/2, 3)
-ANSWER: A
+ANSWER: B
