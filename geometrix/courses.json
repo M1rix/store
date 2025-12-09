@@ -1,5 +1,5 @@
 {
-  "version": 5,
+  "version": 7,
   "data": [
     {
       "version": 5,
@@ -144,7 +144,7 @@
       "uses_count": 542,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
       "route": "/courses/9",
-      "image": "./assets/images/formulas.jpg",
+      "image": "./assets/images/formulas.webp",
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
         "lecture": null,
@@ -165,7 +165,7 @@
       "uses_count": 5432,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
       "route": "/courses/10",
-      "image": "./assets/images/formulas.webp",
+      "image": "./assets/images/mathematical.jpg",
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
         "lecture": null,
@@ -181,7 +181,7 @@
       "uses_count": 5432,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
       "route": "/courses/11",
-      "image": "./assets/images/formulas.webp",
+      "image": "./assets/images/mathematical.jpg",
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
         "lecture": null,
@@ -197,11 +197,11 @@
       "uses_count": 5432,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
       "route": "/courses/12",
-      "image": "./assets/images/formulas.webp",
+      "image": "./assets/images/mathematical.jpg",
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
-        "lecture": null,
-        "tasks": null
+        "lecture": "https://raw.githubusercontent.com/M1rix/store/0447e057e93a39666381887609a230f7f13e2c85/geometrix/pdf/MAVZU12.pdf",
+        "tasks": "https://raw.githubusercontent.com/M1rix/store/0447e057e93a39666381887609a230f7f13e2c85/geometrix/pdf/MASALALAR-12.pdf"
       }
     },
     {
@@ -213,11 +213,11 @@
       "uses_count": 5432,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
       "route": "/courses/13",
-      "image": "./assets/images/formulas.webp",
+      "image": "./assets/images/mathematical.jpg",
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
-        "lecture": null,
-        "tasks": null
+        "lecture": "https://raw.githubusercontent.com/M1rix/store/0447e057e93a39666381887609a230f7f13e2c85/geometrix/pdf/MAVZU13.pdf",
+        "tasks": "https://raw.githubusercontent.com/M1rix/store/0447e057e93a39666381887609a230f7f13e2c85/geometrix/pdf/MASALALAR-13.pdf"
       }
     },
     {
@@ -229,11 +229,11 @@
       "uses_count": 5432,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
       "route": "/courses/14",
-      "image": "./assets/images/formulas.webp",
+      "image": "./assets/images/mathematical.jpg",
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
-        "lecture": null,
-        "tasks": null
+        "lecture": "https://raw.githubusercontent.com/M1rix/store/0447e057e93a39666381887609a230f7f13e2c85/geometrix/pdf/MAVZU14.pdf",
+        "tasks": "https://raw.githubusercontent.com/M1rix/store/0447e057e93a39666381887609a230f7f13e2c85/geometrix/pdf/MASALALAR-14.pdf"
       }
     },
     {
@@ -245,11 +245,11 @@
       "uses_count": 5432,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
       "route": "/courses/15",
-      "image": "./assets/images/formulas.webp",
+      "image": "./assets/images/mathematical.jpg",
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
-        "lecture": null,
-        "tasks": null
+        "lecture": "https://raw.githubusercontent.com/M1rix/store/0447e057e93a39666381887609a230f7f13e2c85/geometrix/pdf/MAVZU15.pdf",
+        "tasks": "https://raw.githubusercontent.com/M1rix/store/0447e057e93a39666381887609a230f7f13e2c85/geometrix/pdf/MASALALAR-15.pdf"
       }
     },
     {
@@ -261,7 +261,7 @@
       "uses_count": 542,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
       "route": "/courses/16",
-      "image": "./assets/images/formulas.jpg",
+      "image": "./assets/images/mathematical.jpg",
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
         "lecture": null,
@@ -272,21 +272,21 @@
     {
       "version": 6,
       "id": 17,
-      "type": "Modul II",
+      "type": "Modul IV",
       "title": "Tekislikda ikkinchi tartibli chiziqlar. Ellips va uning kanonik tenglamasi.",
       "creator": "Sevara Ruslanovna",
       "uses_count": 5432,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Here will be description about this\r\n pretty <b>Fazo</b></h1>",
       "route": "/courses/17",
-      "image": "./assets/images/formulas.webp",
+      "image": "./assets/images/blackboard.jpg",
       "avatar": "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/pdf/sevara.jpg",
       "pdf": {
-        "lecture": null,
-        "tasks": null
+        "lecture": "https://raw.githubusercontent.com/M1rix/store/0447e057e93a39666381887609a230f7f13e2c85/geometrix/pdf/MAVZU16.pdf",
+        "tasks": "https://raw.githubusercontent.com/M1rix/store/0447e057e93a39666381887609a230f7f13e2c85/geometrix/pdf/MASALALAR-16.pdf"
       }
     },
     {
-      "version": 542,
+      "version": 543,
       "id": 542,
       "type": "",
       "hide": true,
@@ -295,7 +295,7 @@
       "uses_count": 542,
       "descriptionHtml": "<h1 class=\"text-xs text-foreground\">Bu yerda ushbu <b>Nazorat Test</b> haqida qisqacha tavsif bo'lishi lozim\r\n </h1>",
       "route": "/courses/542",
-      "image": "./assets/images/vectors.jpg",
+      "image": "./assets/images/blackboard.jpg",
       "avatar": "https://www.urspi.uz/hodimlar/1744346611.jpg",
       "pdf": {
         "lecture": null,
