@@ -319,6 +319,10 @@
         "tests": [
           "https://raw.githubusercontent.com/M1rix/store/refs/heads/master/geometrix/tests/questions_latex.txt"
         ]
+      },
+      "link": {
+        "youtube": "https://www.youtube.com/watch?v=iS1hKMMtTAU",
+        "pptx": "https://www.dickinson.edu/download/downloads/id/1076/sample_powerpoint_slides.pptx"
       }
     }
   ]
