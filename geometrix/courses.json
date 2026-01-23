@@ -1,8 +1,8 @@
 {
-  "version": 7,
+  "version": 8,
   "data": [
     {
-      "version": 5,
+      "version": 8,
       "id": 1,
       "type": "Modul I",
       "title": "Analitik geometriya fani haqida qisqacha ma’lumot. Vektorlar.",
@@ -22,7 +22,7 @@
       }
     },
     {
-      "version": 5,
+      "version": 8,
       "id": 2,
       "type": "Modul I",
       "title": "Chiziqli erkli va bog‘lanishli vektorlar. Vektorlarning kollinearlik va komplanarlik shartlari.",
@@ -42,7 +42,7 @@
       }
     },
     {
-      "version": 5,
+      "version": 8,
       "id": 3,
       "type": "Modul I",
       "title": "Bazis. Vektorning berilgan bazisga nisbatan koordinatalari.",
@@ -62,7 +62,7 @@
       }
     },
     {
-      "version": 5,
+      "version": 8,
       "id": 4,
       "type": "Modul I",
       "title": "Tekislikda va fazoda affin va dekart koordinatalar sistemasi.",
@@ -82,7 +82,7 @@
       }
     },
     {
-      "version": 5,
+      "version": 8,
       "id": 5,
       "type": "",
       "title": "Modul I TEST",
@@ -104,7 +104,7 @@
       }
     },
     {
-      "version": 5,
+      "version": 8,
       "id": 6,
       "type": "Modul II",
       "title": "Vektorning o'qqa proeksiyasi. Vektorlarning skalyar ko'paytmasi",
@@ -120,7 +120,7 @@
       }
     },
     {
-      "version": 5,
+      "version": 8,
       "id": 7,
       "type": "Modul II",
       "title": "Koordinatalari bilan berilgan vektorlar ustida chiziqli amallar.",
@@ -136,7 +136,7 @@
       }
     },
     {
-      "version": 5,
+      "version": 8,
       "id": 8,
       "type": "Modul II",
       "title": "Chap va o‘ng sistemalar. Vektorlarning vektor ko‘paytmasi va aralash ko‘paytmasi.",
@@ -152,7 +152,7 @@
       }
     },
     {
-      "version": 5,
+      "version": 8,
       "id": 9,
       "type": "",
       "title": "Modul II TEST",
@@ -173,7 +173,7 @@
 
 
     {
-      "version": 6,
+      "version": 8,
       "id": 10,
       "type": "Modul III",
       "title": "Koordinatalari bilan berilgan vektorlarning skalyar, vektor va aralash ko‘paytmasi.",
@@ -189,7 +189,7 @@
       }
     },
     {
-      "version": 6,
+      "version": 8,
       "id": 11,
       "type": "Modul III",
       "title": "Tekislikda va fazoda dekart koordinatalar sistemasini almashtirish. Tekislikda va fazoda orientatsiya.",
@@ -205,7 +205,7 @@
       }
     },
     {
-      "version": 6,
+      "version": 8,
       "id": 12,
       "type": "Modul III",
       "title": "Tekislikda to‘g‘ri chiziq tenglamalari.",
@@ -221,7 +221,7 @@
       }
     },
     {
-      "version": 6,
+      "version": 8,
       "id": 13,
       "type": "Modul III",
       "title": "Fazoda tekislikning turli tenglamalari. Fazoda tekisliklarning o‘zaro vaziyati. Nuqtadan tekislikkacha masofa.",
@@ -237,7 +237,7 @@
       }
     },
     {
-      "version": 6,
+      "version": 8,
       "id": 14,
       "type": "Modul III",
       "title": "Fazoda to‘g‘ri chiziq tenglamalari. Fazoda to‘g‘ri chiziqlarning o‘zaro vaziyati.",
@@ -253,7 +253,7 @@
       }
     },
     {
-      "version": 6,
+      "version": 8,
       "id": 15,
       "type": "Modul III",
       "title": "Fazoda nuqtadan to‘g‘ri chiziqqacha va ayqash to‘g‘ri chiziqlar orasidagi masofa.",
@@ -269,7 +269,7 @@
       }
     },
     {
-      "version": 5,
+      "version": 8,
       "id": 16,
       "type": "",
       "title": "Modul III TEST",
@@ -286,7 +286,7 @@
       }
     },
     {
-      "version": 6,
+      "version": 8,
       "id": 17,
       "type": "Modul IV",
       "title": "Tekislikda ikkinchi tartibli chiziqlar. Ellips va uning kanonik tenglamasi.",
