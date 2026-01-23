@@ -1,1 +1,17 @@
-[]
+[
+  { "word": "MAKTAB", "hint": "Bilim beriladigan muassasa" },
+  { "word": "DAFTAR", "hint": "Yozish uchun ishlatiladigan qog‘ozlar to‘plami" },
+  { "word": "QALAM", "hint": "Yozuv qoldiradigan asbob" },
+  { "word": "KITOB", "hint": "Bilim va hikoyalar jamlangan manba" },
+  { "word": "O‘QITUVCHI", "hint": "Bilim ulashadigan inson" },
+  { "word": "TALABA", "hint": "Bilim olish yo‘lida yurgan kishi" },
+  { "word": "SINFXONA", "hint": "Dars o‘tiladigan xona" },
+  { "word": "IMTIHON", "hint": "Bilim darajasini aniqlash jarayoni" },
+  { "word": "SAVOL", "hint": "Javob talab qiladigan fikr" },
+  { "word": "JAVOB", "hint": "Savolga beriladigan izoh" },
+  { "word": "DARS", "hint": "Bilim berish jarayoni" },
+  { "word": "TA’LIM", "hint": "Bilim va tarbiya berish tizimi" },
+  { "word": "ILM", "hint": "Tajriba va bilimlar majmui" },
+  { "word": "MASHQ", "hint": "Ko‘nikmani mustahkamlash amali" },
+  { "word": "BILIM", "hint": "O‘rganish orqali olinadigan boylik" }
+]
