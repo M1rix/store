@@ -87,5 +87,34 @@
     "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/mansurbek.jpg",
     "position": "Software Engineer / iOS",
     "social": {}
-  }
+  },
+  {
+    "name": "Alixon Yuldashov",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/alixon.jpg",
+    "position": "Software Engineer",
+    "social": {}
+  },
+  {
+    "name": "Rajabboy Rajabov",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/rajabboy.jpg",
+    "position": "Software Engineer",
+    "social": {
+      "linkedin": "https://www.linkedin.com/in/rajabboy007/",
+      "github": "https://github.com/Rajabboy8900",
+      "instagram": "https://www.instagram.com/rajabov_3o/"
+    }
+  },
+  {
+    "name": "Zoirjon Abdullayev",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/zoirjon.jpg",
+    "position": "Software Engineer",
+    "social": {}
+  },
+  ,
+  {
+    "name": "Bobur Baboniyozov",
+    "image": "https://raw.githubusercontent.com/M1rix/store/master/apextech/team/images/bobur.jpg",
+    "position": "Software Engineer",
+    "social": {}
+  },
 ]
